@@ -1,31 +1,125 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
-<rect width="1200" height="900" fill="#f6f8fb"/>
-<text x="60" y="58" font-family="Arial" font-size="28" font-weight="700" fill="#16324f">Retail Sales &amp; Inventory Performance</text>
-<text x="60" y="86" font-family="Arial" font-size="14" fill="#6b7c93">Executive Dashboard • Synthetic Portfolio Data • 2025</text>
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="900" viewBox="0 0 1400 900">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0b1020"/><stop offset="100%" stop-color="#20123b"/>
+  </linearGradient>
+  <linearGradient id="card" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#241342"/><stop offset="100%" stop-color="#33174f"/>
+  </linearGradient>
+  <filter id="shadow"><feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000" flood-opacity=".35"/></filter>
+</defs>
+<rect width="1400" height="900" fill="url(#bg)"/>
 <g font-family="Arial">
-<g><rect x="60" y="120" width="245" height="105" rx="14" fill="#fff" stroke="#dbe4ee"/><text x="82" y="152" font-size="13" fill="#6b7c93">REVENUE</text><text x="82" y="193" font-size="30" font-weight="700" fill="#16324f">$140,051</text></g>
-<g><rect x="325" y="120" width="245" height="105" rx="14" fill="#fff" stroke="#dbe4ee"/><text x="347" y="152" font-size="13" fill="#6b7c93">GROSS PROFIT</text><text x="347" y="193" font-size="30" font-weight="700" fill="#16324f">$61,518</text></g>
-<g><rect x="590" y="120" width="245" height="105" rx="14" fill="#fff" stroke="#dbe4ee"/><text x="612" y="152" font-size="13" fill="#6b7c93">GROSS MARGIN</text><text x="612" y="193" font-size="30" font-weight="700" fill="#16324f">43.9%</text></g>
-<g><rect x="855" y="120" width="285" height="105" rx="14" fill="#fff" stroke="#dbe4ee"/><text x="877" y="152" font-size="13" fill="#6b7c93">UNITS SOLD</text><text x="877" y="193" font-size="30" font-weight="700" fill="#16324f">1,655</text></g>
+  <text x="42" y="55" font-size="28" font-weight="700" fill="#fff">MODEST'S RETAIL SALES &amp; INVENTORY DASHBOARD</text>
+  <text x="43" y="80" font-size="13" fill="#b7a9cc">Executive view • Synthetic portfolio data • 2025</text>
 
-<rect x="60" y="255" width="720" height="325" rx="14" fill="#fff" stroke="#dbe4ee"/>
-<text x="82" y="290" font-size="17" font-weight="700" fill="#16324f">Monthly Revenue Trend</text>
-<line x1="70" y1="515" x2="750" y2="515" stroke="#dbe4ee"/>
-<rect x="70" y="426.4" width="34" height="88.6" rx="4" fill="#36a2eb"/><text x="87" y="535" text-anchor="middle" font-size="10" fill="#52606d">01</text><rect x="125" y="416.1" width="34" height="98.9" rx="4" fill="#36a2eb"/><text x="142" y="535" text-anchor="middle" font-size="10" fill="#52606d">02</text><rect x="180" y="384.8" width="34" height="130.2" rx="4" fill="#36a2eb"/><text x="197" y="535" text-anchor="middle" font-size="10" fill="#52606d">03</text><rect x="235" y="433.9" width="34" height="81.1" rx="4" fill="#36a2eb"/><text x="252" y="535" text-anchor="middle" font-size="10" fill="#52606d">04</text><rect x="290" y="440.1" width="34" height="74.9" rx="4" fill="#36a2eb"/><text x="307" y="535" text-anchor="middle" font-size="10" fill="#52606d">05</text><rect x="345" y="436.2" width="34" height="78.8" rx="4" fill="#36a2eb"/><text x="362" y="535" text-anchor="middle" font-size="10" fill="#52606d">06</text><rect x="400" y="426.9" width="34" height="88.1" rx="4" fill="#36a2eb"/><text x="417" y="535" text-anchor="middle" font-size="10" fill="#52606d">07</text><rect x="455" y="440.7" width="34" height="74.3" rx="4" fill="#36a2eb"/><text x="472" y="535" text-anchor="middle" font-size="10" fill="#52606d">08</text><rect x="510" y="423.2" width="34" height="91.8" rx="4" fill="#36a2eb"/><text x="527" y="535" text-anchor="middle" font-size="10" fill="#52606d">09</text><rect x="565" y="417.5" width="34" height="97.5" rx="4" fill="#36a2eb"/><text x="582" y="535" text-anchor="middle" font-size="10" fill="#52606d">10</text><rect x="620" y="391.1" width="34" height="123.9" rx="4" fill="#36a2eb"/><text x="637" y="535" text-anchor="middle" font-size="10" fill="#52606d">11</text><rect x="675" y="355.0" width="34" height="160.0" rx="4" fill="#36a2eb"/><text x="692" y="535" text-anchor="middle" font-size="10" fill="#52606d">12</text>
+  <!-- filters -->
+  <g filter="url(#shadow)">
+    <rect x="800" y="25" width="165" height="58" rx="10" fill="#22143a" stroke="#6a2ca0"/>
+    <text x="818" y="46" font-size="10" fill="#b7a9cc">YEAR</text><text x="818" y="69" font-size="15" font-weight="700" fill="#fff">2025</text>
+    <rect x="980" y="25" width="165" height="58" rx="10" fill="#22143a" stroke="#6a2ca0"/>
+    <text x="998" y="46" font-size="10" fill="#b7a9cc">REGION</text><text x="998" y="69" font-size="15" font-weight="700" fill="#fff">All Regions</text>
+    <rect x="1160" y="25" width="195" height="58" rx="10" fill="#22143a" stroke="#6a2ca0"/>
+    <text x="1178" y="46" font-size="10" fill="#b7a9cc">CATEGORY</text><text x="1178" y="69" font-size="15" font-weight="700" fill="#fff">All Categories</text>
+  </g>
 
-<rect x="800" y="255" width="340" height="325" rx="14" fill="#fff" stroke="#dbe4ee"/>
-<text x="822" y="290" font-size="17" font-weight="700" fill="#16324f">Performance Snapshot</text>
-<text x="822" y="340" font-size="12" fill="#6b7c93">TOP STORE</text>
-<text x="822" y="367" font-size="18" font-weight="700" fill="#16324f">Washington DC</text>
-<text x="822" y="410" font-size="12" fill="#6b7c93">TOP CATEGORY</text>
-<text x="822" y="437" font-size="18" font-weight="700" fill="#16324f">Office</text>
-<text x="822" y="480" font-size="12" fill="#6b7c93">TOP PRODUCT</text>
-<text x="822" y="507" font-size="18" font-weight="700" fill="#16324f">Standing Desk</text>
-<text x="822" y="548" font-size="11" fill="#b45309">Inventory risk records: 114</text>
+  <!-- KPI cards -->
+  <g filter="url(#shadow)"><rect x="42" y="115" width="300" height="112" rx="14" fill="url(#card)" stroke="#5a2c82"/>
+    <rect x="42" y="115" width="7" height="112" rx="4" fill="#2f80ed"/>
+    <text x="66" y="148" font-size="11" fill="#b7a9cc">REVENUE</text>
+    <text x="66" y="193" font-size="31" font-weight="700" fill="#fff">$140,051</text></g><g filter="url(#shadow)"><rect x="372" y="115" width="300" height="112" rx="14" fill="url(#card)" stroke="#5a2c82"/>
+    <rect x="372" y="115" width="7" height="112" rx="4" fill="#9b51e0"/>
+    <text x="396" y="148" font-size="11" fill="#b7a9cc">GROSS PROFIT</text>
+    <text x="396" y="193" font-size="31" font-weight="700" fill="#fff">$61,518</text></g><g filter="url(#shadow)"><rect x="702" y="115" width="300" height="112" rx="14" fill="url(#card)" stroke="#5a2c82"/>
+    <rect x="702" y="115" width="7" height="112" rx="4" fill="#27ae60"/>
+    <text x="726" y="148" font-size="11" fill="#b7a9cc">GROSS MARGIN</text>
+    <text x="726" y="193" font-size="31" font-weight="700" fill="#fff">43.9%</text></g><g filter="url(#shadow)"><rect x="1032" y="115" width="300" height="112" rx="14" fill="url(#card)" stroke="#5a2c82"/>
+    <rect x="1032" y="115" width="7" height="112" rx="4" fill="#f2994a"/>
+    <text x="1056" y="148" font-size="11" fill="#b7a9cc">UNITS SOLD</text>
+    <text x="1056" y="193" font-size="31" font-weight="700" fill="#fff">1,655</text></g>
 
-<rect x="60" y="610" width="1080" height="240" rx="14" fill="#fff" stroke="#dbe4ee"/>
-<text x="82" y="642" font-size="17" font-weight="700" fill="#16324f">Top Products by Revenue</text>
-<text x="70" y="665" font-size="12" fill="#334e68">Standing Desk</text><rect x="220" y="650" width="250.0" height="22" rx="4" fill="#2f80ed"/><text x="475" y="665" font-size="11" fill="#52606d">$45,291</text><text x="70" y="707" font-size="12" fill="#334e68">Office Chair</text><rect x="220" y="692" width="134.3" height="22" rx="4" fill="#2f80ed"/><text x="359.28799879181634" y="707" font-size="11" fill="#52606d">$24,328</text><text x="70" y="749" font-size="12" fill="#334e68">Air Fryer</text><rect x="220" y="734" width="72.7" height="22" rx="4" fill="#2f80ed"/><text x="297.74623214005874" y="749" font-size="11" fill="#52606d">$13,179</text><text x="70" y="791" font-size="12" fill="#334e68">Running Shoes</text><rect x="220" y="776" width="68.3" height="22" rx="4" fill="#2f80ed"/><text x="293.29399146665094" y="791" font-size="11" fill="#52606d">$12,372</text><text x="70" y="833" font-size="12" fill="#334e68">Mechanical Keyboard</text><rect x="220" y="818" width="56.0" height="22" rx="4" fill="#2f80ed"/><text x="280.97978875663887" y="833" font-size="11" fill="#52606d">$10,142</text>
+  <!-- monthly revenue -->
+  <g filter="url(#shadow)">
+    <rect x="42" y="255" width="610" height="300" rx="14" fill="#1f1235" stroke="#5a2c82"/>
+    <text x="64" y="288" font-size="17" font-weight="700" fill="#fff">Revenue by Month</text>
+    <text x="520" y="288" font-size="11" fill="#2f80ed">● Revenue</text>
+    <line x1="75" y1="505" x2="625" y2="505" stroke="#49325f"/>
+    <rect x="78" y="416.4" width="26" height="88.6" rx="4" fill="#2f80ed"/>
+      <text x="91" y="527" text-anchor="middle" font-size="9" fill="#b7a9cc">Jan</text><rect x="122" y="406.1" width="26" height="98.9" rx="4" fill="#2f80ed"/>
+      <text x="135" y="527" text-anchor="middle" font-size="9" fill="#b7a9cc">Feb</text><rect x="166" y="374.8" width="26" height="130.2" rx="4" fill="#2f80ed"/>
+      <text x="179" y="527" text-anchor="middle" font-size="9" fill="#b7a9cc">Mar</text><rect x="210" y="423.9" width="26" height="81.1" rx="4" fill="#2f80ed"/>
+      <text x="223" y="527" text-anchor="middle" font-size="9" fill="#b7a9cc">Apr</text><rect x="254" y="430.1" width="26" height="74.9" rx="4" fill="#2f80ed"/>
+      <text x="267" y="527" text-anchor="middle" font-size="9" fill="#b7a9cc">May</text><rect x="298" y="426.2" width="26" height="78.8" rx="4" fill="#2f80ed"/>
+      <text x="311" y="527" text-anchor="middle" font-size="9" fill="#b7a9cc">Jun</text><rect x="342" y="416.9" width="26" height="88.1" rx="4" fill="#2f80ed"/>
+      <text x="355" y="527" text-anchor="middle" font-size="9" fill="#b7a9cc">Jul</text><rect x="386" y="430.7" width="26" height="74.3" rx="4" fill="#2f80ed"/>
+      <text x="399" y="527" text-anchor="middle" font-size="9" fill="#b7a9cc">Aug</text><rect x="430" y="413.2" width="26" height="91.8" rx="4" fill="#2f80ed"/>
+      <text x="443" y="527" text-anchor="middle" font-size="9" fill="#b7a9cc">Sep</text><rect x="474" y="407.5" width="26" height="97.5" rx="4" fill="#2f80ed"/>
+      <text x="487" y="527" text-anchor="middle" font-size="9" fill="#b7a9cc">Oct</text><rect x="518" y="381.1" width="26" height="123.9" rx="4" fill="#8a2be2"/>
+      <text x="531" y="527" text-anchor="middle" font-size="9" fill="#b7a9cc">Nov</text><rect x="562" y="345" width="26" height="160" rx="4" fill="#8a2be2"/>
+      <text x="575" y="527" text-anchor="middle" font-size="9" fill="#b7a9cc">Dec</text>
+  </g>
+
+  <!-- donut -->
+  <g filter="url(#shadow)">
+    <rect x="675" y="255" width="315" height="300" rx="14" fill="#1f1235" stroke="#5a2c82"/>
+    <text x="697" y="288" font-size="17" font-weight="700" fill="#fff">Revenue by Category</text>
+    <circle cx="832" cy="410" r="78" fill="none" stroke="#39244f" stroke-width="38"/>
+    <circle cx="832" cy="410" r="78" fill="none" stroke="#2f80ed" stroke-width="38" stroke-dasharray="210 490" transform="rotate(-90 832 410)"/>
+    <circle cx="832" cy="410" r="78" fill="none" stroke="#9b51e0" stroke-width="38" stroke-dasharray="130 570" stroke-dashoffset="-210" transform="rotate(-90 832 410)"/>
+    <circle cx="832" cy="410" r="78" fill="none" stroke="#27ae60" stroke-width="38" stroke-dasharray="95 605" stroke-dashoffset="-340" transform="rotate(-90 832 410)"/>
+    <circle cx="832" cy="410" r="78" fill="none" stroke="#f2994a" stroke-width="38" stroke-dasharray="75 625" stroke-dashoffset="-435" transform="rotate(-90 832 410)"/>
+    <text x="832" y="402" text-anchor="middle" font-size="12" fill="#b7a9cc">TOP</text>
+    <text x="832" y="426" text-anchor="middle" font-size="18" font-weight="700" fill="#fff">Office</text>
+    <text x="708" y="520" font-size="10" fill="#2f80ed">● Office</text>
+    <text x="775" y="520" font-size="10" fill="#9b51e0">● Home</text>
+    <text x="838" y="520" font-size="10" fill="#27ae60">● Apparel</text>
+    <text x="915" y="520" font-size="10" fill="#f2994a">● Electronics</text>
+  </g>
+
+  <!-- performance snapshot -->
+  <g filter="url(#shadow)">
+    <rect x="1012" y="255" width="343" height="300" rx="14" fill="#1f1235" stroke="#5a2c82"/>
+    <text x="1034" y="288" font-size="17" font-weight="700" fill="#fff">Performance Snapshot</text>
+    <text x="1034" y="330" font-size="10" fill="#b7a9cc">TOP STORE</text>
+    <text x="1034" y="354" font-size="18" font-weight="700" fill="#fff">Washington DC</text>
+    <text x="1034" y="393" font-size="10" fill="#b7a9cc">TOP PRODUCT</text>
+    <text x="1034" y="417" font-size="18" font-weight="700" fill="#fff">Standing Desk</text>
+    <text x="1034" y="456" font-size="10" fill="#b7a9cc">INVENTORY RISK RECORDS</text>
+    <text x="1034" y="482" font-size="26" font-weight="700" fill="#eb5757">114</text>
+    <rect x="1034" y="505" width="280" height="9" rx="4" fill="#38224e"/>
+    <rect x="1034" y="505" width="176" height="9" rx="4" fill="#eb5757"/>
+    <text x="1034" y="535" font-size="10" fill="#b7a9cc">Monitor low-stock items before Q4 peaks</text>
+  </g>
+
+  <!-- bottom charts -->
+  <g filter="url(#shadow)">
+    <rect x="42" y="585" width="610" height="270" rx="14" fill="#1f1235" stroke="#5a2c82"/>
+    <text x="64" y="618" font-size="17" font-weight="700" fill="#fff">Top Products by Revenue</text>
+    <text x="64" y="667" font-size="11" fill="#d6cce2">Standing Desk</text>
+      <rect x="220" y="653" width="300" height="20" rx="4" fill="#2f80ed"/>
+      <text x="530" y="667" font-size="11" fill="#fff">$45,291</text><text x="64" y="706" font-size="11" fill="#d6cce2">Office Chair</text>
+      <rect x="220" y="692" width="162" height="20" rx="4" fill="#9b51e0"/>
+      <text x="530" y="706" font-size="11" fill="#fff">$24,328</text><text x="64" y="745" font-size="11" fill="#d6cce2">Air Fryer</text>
+      <rect x="220" y="731" width="87" height="20" rx="4" fill="#27ae60"/>
+      <text x="530" y="745" font-size="11" fill="#fff">$13,179</text><text x="64" y="784" font-size="11" fill="#d6cce2">Running Shoes</text>
+      <rect x="220" y="770" width="81" height="20" rx="4" fill="#f2994a"/>
+      <text x="530" y="784" font-size="11" fill="#fff">$12,372</text><text x="64" y="823" font-size="11" fill="#d6cce2">Mechanical Keyboard</text>
+      <rect x="220" y="809" width="66" height="20" rx="4" fill="#eb5757"/>
+      <text x="530" y="823" font-size="11" fill="#fff">$10,142</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="675" y="585" width="680" height="270" rx="14" fill="#1f1235" stroke="#5a2c82"/>
+    <text x="697" y="618" font-size="17" font-weight="700" fill="#fff">Store Revenue Comparison</text>
+    <text x="700" y="677" font-size="11" fill="#d6cce2">Washington DC</text>
+      <rect x="820" y="662" width="390" height="22" rx="4" fill="#2f80ed"/>
+      <text x="1220" y="677" font-size="11" fill="#fff">Top performer</text><text x="700" y="721" font-size="11" fill="#d6cce2">Silver Spring</text>
+      <rect x="820" y="706" width="362.70000000000005" height="22" rx="4" fill="#9b51e0"/>
+      <text x="1220" y="721" font-size="11" fill="#fff"></text><text x="700" y="765" font-size="11" fill="#d6cce2">Baltimore Central</text>
+      <rect x="820" y="750" width="351" height="22" rx="4" fill="#27ae60"/>
+      <text x="1220" y="765" font-size="11" fill="#fff"></text><text x="700" y="809" font-size="11" fill="#d6cce2">Alexandria</text>
+      <rect x="820" y="794" width="331.5" height="22" rx="4" fill="#f2994a"/>
+      <text x="1220" y="809" font-size="11" fill="#fff"></text>
+  </g>
 </g>
 </svg>
