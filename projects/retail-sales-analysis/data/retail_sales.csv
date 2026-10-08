@@ -1,0 +1,521 @@
+order_id,sale_date,store,region,product_id,product_name,category,quantity,unit_price,unit_cost,discount_pct,inventory_on_hand,reorder_level
+ORD0296,2025-01-02,Silver Spring,Maryland,P201,Office Chair,Office,2,189.99,108,0,15,8
+ORD0170,2025-01-04,Washington DC,District of Columbia,P401,Performance Hoodie,Apparel,5,54.99,24,0,25,20
+ORD0352,2025-01-04,Washington DC,District of Columbia,P203,Notebook Pack,Office,1,14.99,6.5,0,74,25
+ORD0150,2025-01-05,Washington DC,District of Columbia,P401,Performance Hoodie,Apparel,3,54.99,24,0.15,61,20
+ORD0394,2025-01-05,Alexandria,Virginia,P101,Wireless Mouse,Electronics,4,24.99,12,0,55,18
+ORD0495,2025-01-06,Baltimore Central,Maryland,P101,Wireless Mouse,Electronics,5,24.99,12,0,39,18
+ORD0512,2025-01-06,Silver Spring,Maryland,P102,Mechanical Keyboard,Electronics,4,69.99,38,0.15,24,12
+ORD0081,2025-01-07,Alexandria,Virginia,P202,Standing Desk,Office,1,329.99,205,0,7,6
+ORD0228,2025-01-07,Silver Spring,Maryland,P303,LED Lamp,Home,3,34.99,17,0,30,16
+ORD0268,2025-01-07,Baltimore Central,Maryland,P203,Notebook Pack,Office,2,14.99,6.5,0,24,25
+ORD0277,2025-01-07,Washington DC,District of Columbia,P403,Training Tee,Apparel,4,29.99,11,0,79,24
+ORD0474,2025-01-08,Baltimore Central,Maryland,P302,Blender,Home,1,59.99,31,0,5,12
+ORD0207,2025-01-09,Alexandria,Virginia,P302,Blender,Home,4,59.99,31,0.15,31,12
+ORD0038,2025-01-10,Baltimore Central,Maryland,P202,Standing Desk,Office,5,329.99,205,0,10,6
+ORD0053,2025-01-10,Washington DC,District of Columbia,P403,Training Tee,Apparel,5,29.99,11,0.15,77,24
+ORD0151,2025-01-11,Washington DC,District of Columbia,P302,Blender,Home,1,59.99,31,0,36,12
+ORD0199,2025-01-11,Washington DC,District of Columbia,P203,Notebook Pack,Office,4,14.99,6.5,0,48,25
+ORD0176,2025-01-12,Washington DC,District of Columbia,P303,LED Lamp,Home,5,34.99,17,0,24,16
+ORD0514,2025-01-13,Alexandria,Virginia,P103,USB-C Hub,Electronics,3,44.99,22,0,31,15
+ORD0093,2025-01-14,Baltimore Central,Maryland,P403,Training Tee,Apparel,5,29.99,11,0,47,24
+ORD0304,2025-01-14,Silver Spring,Maryland,P103,USB-C Hub,Electronics,5,44.99,22,0,28,15
+ORD0500,2025-01-14,Alexandria,Virginia,P402,Running Shoes,Apparel,5,94.99,46,0,18,14
+ORD0070,2025-01-15,Washington DC,District of Columbia,P301,Air Fryer,Home,5,89.99,51,0,13,10
+ORD0168,2025-01-16,Baltimore Central,Maryland,P101,Wireless Mouse,Electronics,2,24.99,12,0,42,18
+ORD0177,2025-01-16,Silver Spring,Maryland,P303,LED Lamp,Home,1,34.99,17,0,36,16
+ORD0405,2025-01-16,Washington DC,District of Columbia,P101,Wireless Mouse,Electronics,3,24.99,12,0,41,18
+ORD0248,2025-01-17,Washington DC,District of Columbia,P401,Performance Hoodie,Apparel,3,54.99,24,0.05,28,20
+ORD0128,2025-01-18,Alexandria,Virginia,P103,USB-C Hub,Electronics,4,44.99,22,0,6,15
+ORD0194,2025-01-18,Alexandria,Virginia,P302,Blender,Home,3,59.99,31,0,16,12
+ORD0494,2025-01-19,Alexandria,Virginia,P401,Performance Hoodie,Apparel,5,54.99,24,0,55,20
+ORD0138,2025-01-20,Baltimore Central,Maryland,P402,Running Shoes,Apparel,4,94.99,46,0,40,14
+ORD0353,2025-01-20,Washington DC,District of Columbia,P303,LED Lamp,Home,1,34.99,17,0,13,16
+ORD0210,2025-01-21,Silver Spring,Maryland,P201,Office Chair,Office,3,189.99,108,0,5,8
+ORD0244,2025-01-23,Alexandria,Virginia,P402,Running Shoes,Apparel,2,94.99,46,0,40,14
+ORD0329,2025-01-23,Alexandria,Virginia,P203,Notebook Pack,Office,3,14.99,6.5,0,59,25
+ORD0442,2025-01-23,Baltimore Central,Maryland,P303,LED Lamp,Home,4,34.99,17,0,52,16
+ORD0451,2025-01-23,Washington DC,District of Columbia,P303,LED Lamp,Home,2,34.99,17,0,11,16
+ORD0361,2025-01-24,Baltimore Central,Maryland,P301,Air Fryer,Home,5,89.99,51,0,25,10
+ORD0010,2025-01-25,Silver Spring,Maryland,P401,Performance Hoodie,Apparel,2,54.99,24,0,39,20
+ORD0255,2025-01-25,Silver Spring,Maryland,P202,Standing Desk,Office,2,329.99,205,0,2,6
+ORD0130,2025-01-26,Washington DC,District of Columbia,P301,Air Fryer,Home,4,89.99,51,0.1,30,10
+ORD0200,2025-01-26,Baltimore Central,Maryland,P101,Wireless Mouse,Electronics,4,24.99,12,0,35,18
+ORD0055,2025-01-27,Baltimore Central,Maryland,P203,Notebook Pack,Office,2,14.99,6.5,0,83,25
+ORD0313,2025-01-27,Baltimore Central,Maryland,P201,Office Chair,Office,4,189.99,108,0,3,8
+ORD0052,2025-02-02,Silver Spring,Maryland,P303,LED Lamp,Home,4,34.99,17,0,19,16
+ORD0175,2025-02-02,Baltimore Central,Maryland,P201,Office Chair,Office,1,189.99,108,0,15,8
+ORD0082,2025-02-04,Silver Spring,Maryland,P201,Office Chair,Office,1,189.99,108,0,10,8
+ORD0131,2025-02-04,Alexandria,Virginia,P303,LED Lamp,Home,4,34.99,17,0,36,16
+ORD0221,2025-02-04,Silver Spring,Maryland,P401,Performance Hoodie,Apparel,2,54.99,24,0,22,20
+ORD0011,2025-02-05,Washington DC,District of Columbia,P101,Wireless Mouse,Electronics,3,24.99,12,0,59,18
+ORD0129,2025-02-05,Alexandria,Virginia,P403,Training Tee,Apparel,1,29.99,11,0.1,41,24
+ORD0204,2025-02-05,Baltimore Central,Maryland,P402,Running Shoes,Apparel,4,94.99,46,0,8,14
+ORD0291,2025-02-05,Silver Spring,Maryland,P101,Wireless Mouse,Electronics,4,24.99,12,0,37,18
+ORD0485,2025-02-05,Baltimore Central,Maryland,P202,Standing Desk,Office,3,329.99,205,0.05,7,6
+ORD0501,2025-02-05,Alexandria,Virginia,P103,USB-C Hub,Electronics,1,44.99,22,0,32,15
+ORD0030,2025-02-07,Washington DC,District of Columbia,P102,Mechanical Keyboard,Electronics,1,69.99,38,0,37,12
+ORD0477,2025-02-07,Baltimore Central,Maryland,P402,Running Shoes,Apparel,4,94.99,46,0,11,14
+ORD0435,2025-02-08,Silver Spring,Maryland,P201,Office Chair,Office,5,189.99,108,0,8,8
+ORD0034,2025-02-09,Silver Spring,Maryland,P403,Training Tee,Apparel,2,29.99,11,0,42,24
+ORD0438,2025-02-09,Baltimore Central,Maryland,P302,Blender,Home,3,59.99,31,0,4,12
+ORD0006,2025-02-10,Baltimore Central,Maryland,P302,Blender,Home,5,59.99,31,0,28,12
+ORD0134,2025-02-13,Alexandria,Virginia,P102,Mechanical Keyboard,Electronics,5,69.99,38,0,11,12
+ORD0307,2025-02-13,Washington DC,District of Columbia,P103,USB-C Hub,Electronics,3,44.99,22,0,20,15
+ORD0115,2025-02-15,Alexandria,Virginia,P402,Running Shoes,Apparel,3,94.99,46,0,14,14
+ORD0334,2025-02-15,Baltimore Central,Maryland,P102,Mechanical Keyboard,Electronics,4,69.99,38,0,37,12
+ORD0125,2025-02-16,Baltimore Central,Maryland,P201,Office Chair,Office,2,189.99,108,0,12,8
+ORD0302,2025-02-16,Washington DC,District of Columbia,P403,Training Tee,Apparel,3,29.99,11,0.15,79,24
+ORD0490,2025-02-17,Baltimore Central,Maryland,P401,Performance Hoodie,Apparel,4,54.99,24,0.15,58,20
+ORD0102,2025-02-19,Baltimore Central,Maryland,P101,Wireless Mouse,Electronics,5,24.99,12,0,32,18
+ORD0330,2025-02-19,Washington DC,District of Columbia,P203,Notebook Pack,Office,5,14.99,6.5,0,38,25
+ORD0384,2025-02-19,Washington DC,District of Columbia,P303,LED Lamp,Home,3,34.99,17,0,45,16
+ORD0430,2025-02-19,Washington DC,District of Columbia,P103,USB-C Hub,Electronics,2,44.99,22,0,29,15
+ORD0076,2025-02-20,Silver Spring,Maryland,P103,USB-C Hub,Electronics,5,44.99,22,0.05,15,15
+ORD0230,2025-02-20,Washington DC,District of Columbia,P401,Performance Hoodie,Apparel,5,54.99,24,0,11,20
+ORD0383,2025-02-20,Baltimore Central,Maryland,P403,Training Tee,Apparel,1,29.99,11,0,37,24
+ORD0505,2025-02-20,Washington DC,District of Columbia,P202,Standing Desk,Office,5,329.99,205,0,17,6
+ORD0249,2025-02-21,Silver Spring,Maryland,P403,Training Tee,Apparel,5,29.99,11,0,41,24
+ORD0096,2025-02-22,Silver Spring,Maryland,P202,Standing Desk,Office,1,329.99,205,0,16,6
+ORD0403,2025-02-22,Washington DC,District of Columbia,P103,USB-C Hub,Electronics,5,44.99,22,0,35,15
+ORD0208,2025-02-23,Silver Spring,Maryland,P401,Performance Hoodie,Apparel,1,54.99,24,0,18,20
+ORD0393,2025-02-23,Alexandria,Virginia,P302,Blender,Home,3,59.99,31,0,10,12
+ORD0507,2025-02-23,Baltimore Central,Maryland,P202,Standing Desk,Office,2,329.99,205,0.15,5,6
+ORD0069,2025-02-24,Washington DC,District of Columbia,P201,Office Chair,Office,1,189.99,108,0,5,8
+ORD0133,2025-02-24,Washington DC,District of Columbia,P202,Standing Desk,Office,1,329.99,205,0,16,6
+ORD0446,2025-02-25,Washington DC,District of Columbia,P401,Performance Hoodie,Apparel,5,54.99,24,0,53,20
+ORD0479,2025-02-25,Baltimore Central,Maryland,P202,Standing Desk,Office,1,329.99,205,0,11,6
+ORD0002,2025-02-26,Alexandria,Virginia,P403,Training Tee,Apparel,3,29.99,11,0,34,24
+ORD0122,2025-02-27,Alexandria,Virginia,P403,Training Tee,Apparel,4,29.99,11,0,50,24
+ORD0195,2025-02-27,Baltimore Central,Maryland,P103,USB-C Hub,Electronics,1,44.99,22,0,28,15
+ORD0049,2025-02-28,Silver Spring,Maryland,P101,Wireless Mouse,Electronics,2,24.99,12,0,30,18
+ORD0137,2025-02-28,Silver Spring,Maryland,P403,Training Tee,Apparel,1,29.99,11,0,17,24
+ORD0335,2025-02-28,Baltimore Central,Maryland,P203,Notebook Pack,Office,3,14.99,6.5,0,12,25
+ORD0420,2025-02-28,Baltimore Central,Maryland,P403,Training Tee,Apparel,4,29.99,11,0.05,77,24
+ORD0163,2025-03-01,Alexandria,Virginia,P102,Mechanical Keyboard,Electronics,4,69.99,38,0,6,12
+ORD0408,2025-03-03,Washington DC,District of Columbia,P202,Standing Desk,Office,4,329.99,205,0,18,6
+ORD0065,2025-03-04,Baltimore Central,Maryland,P303,LED Lamp,Home,2,34.99,17,0,27,16
+ORD0323,2025-03-05,Baltimore Central,Maryland,P201,Office Chair,Office,2,189.99,108,0,20,8
+ORD0427,2025-03-05,Baltimore Central,Maryland,P301,Air Fryer,Home,1,89.99,51,0,27,10
+ORD0428,2025-03-05,Baltimore Central,Maryland,P303,LED Lamp,Home,5,34.99,17,0,34,16
+ORD0289,2025-03-06,Alexandria,Virginia,P401,Performance Hoodie,Apparel,1,54.99,24,0,25,20
+ORD0423,2025-03-06,Silver Spring,Maryland,P202,Standing Desk,Office,2,329.99,205,0,9,6
+ORD0377,2025-03-08,Alexandria,Virginia,P101,Wireless Mouse,Electronics,3,24.99,12,0,58,18
+ORD0259,2025-03-09,Silver Spring,Maryland,P401,Performance Hoodie,Apparel,4,54.99,24,0,22,20
+ORD0409,2025-03-09,Washington DC,District of Columbia,P102,Mechanical Keyboard,Electronics,1,69.99,38,0.1,22,12
+ORD0062,2025-03-10,Washington DC,District of Columbia,P402,Running Shoes,Apparel,4,94.99,46,0.05,36,14
+ORD0473,2025-03-10,Washington DC,District of Columbia,P302,Blender,Home,1,59.99,31,0,15,12
+ORD0274,2025-03-11,Baltimore Central,Maryland,P203,Notebook Pack,Office,2,14.99,6.5,0,80,25
+ORD0354,2025-03-11,Baltimore Central,Maryland,P403,Training Tee,Apparel,5,29.99,11,0,68,24
+ORD0483,2025-03-11,Silver Spring,Maryland,P302,Blender,Home,5,59.99,31,0.1,31,12
+ORD0348,2025-03-12,Alexandria,Virginia,P301,Air Fryer,Home,5,89.99,51,0,13,10
+ORD0470,2025-03-12,Baltimore Central,Maryland,P401,Performance Hoodie,Apparel,2,54.99,24,0,66,20
+ORD0121,2025-03-13,Washington DC,District of Columbia,P402,Running Shoes,Apparel,2,94.99,46,0,9,14
+ORD0347,2025-03-13,Washington DC,District of Columbia,P101,Wireless Mouse,Electronics,3,24.99,12,0,36,18
+ORD0367,2025-03-14,Baltimore Central,Maryland,P403,Training Tee,Apparel,2,29.99,11,0,55,24
+ORD0061,2025-03-16,Silver Spring,Maryland,P201,Office Chair,Office,2,189.99,108,0,6,8
+ORD0212,2025-03-16,Washington DC,District of Columbia,P302,Blender,Home,2,59.99,31,0,4,12
+ORD0258,2025-03-16,Silver Spring,Maryland,P401,Performance Hoodie,Apparel,3,54.99,24,0,50,20
+ORD0301,2025-03-16,Alexandria,Virginia,P302,Blender,Home,4,59.99,31,0,18,12
+ORD0465,2025-03-16,Baltimore Central,Maryland,P102,Mechanical Keyboard,Electronics,3,69.99,38,0,14,12
+ORD0492,2025-03-16,Washington DC,District of Columbia,P201,Office Chair,Office,5,189.99,108,0,19,8
+ORD0456,2025-03-17,Silver Spring,Maryland,P103,USB-C Hub,Electronics,1,44.99,22,0.1,11,15
+ORD0314,2025-03-18,Alexandria,Virginia,P301,Air Fryer,Home,5,89.99,51,0,27,10
+ORD0273,2025-03-19,Silver Spring,Maryland,P102,Mechanical Keyboard,Electronics,3,69.99,38,0,37,12
+ORD0238,2025-03-20,Silver Spring,Maryland,P403,Training Tee,Apparel,4,29.99,11,0,66,24
+ORD0337,2025-03-20,Silver Spring,Maryland,P302,Blender,Home,2,59.99,31,0,9,12
+ORD0410,2025-03-21,Alexandria,Virginia,P403,Training Tee,Apparel,2,29.99,11,0,73,24
+ORD0047,2025-03-22,Alexandria,Virginia,P301,Air Fryer,Home,4,89.99,51,0,32,10
+ORD0008,2025-03-23,Washington DC,District of Columbia,P303,LED Lamp,Home,3,34.99,17,0,30,16
+ORD0073,2025-03-23,Washington DC,District of Columbia,P101,Wireless Mouse,Electronics,5,24.99,12,0,50,18
+ORD0251,2025-03-23,Baltimore Central,Maryland,P402,Running Shoes,Apparel,2,94.99,46,0,13,14
+ORD0363,2025-03-23,Alexandria,Virginia,P401,Performance Hoodie,Apparel,1,54.99,24,0.15,17,20
+ORD0390,2025-03-23,Washington DC,District of Columbia,P302,Blender,Home,1,59.99,31,0,36,12
+ORD0225,2025-03-24,Alexandria,Virginia,P402,Running Shoes,Apparel,1,94.99,46,0,29,14
+ORD0306,2025-03-24,Alexandria,Virginia,P102,Mechanical Keyboard,Electronics,5,69.99,38,0,25,12
+ORD0392,2025-03-24,Baltimore Central,Maryland,P303,LED Lamp,Home,4,34.99,17,0,36,16
+ORD0413,2025-03-25,Washington DC,District of Columbia,P201,Office Chair,Office,4,189.99,108,0,24,8
+ORD0216,2025-03-26,Silver Spring,Maryland,P202,Standing Desk,Office,3,329.99,205,0,18,6
+ORD0023,2025-03-27,Washington DC,District of Columbia,P203,Notebook Pack,Office,4,14.99,6.5,0.1,41,25
+ORD0033,2025-03-27,Washington DC,District of Columbia,P202,Standing Desk,Office,5,329.99,205,0,7,6
+ORD0169,2025-03-27,Silver Spring,Maryland,P103,USB-C Hub,Electronics,1,44.99,22,0,8,15
+ORD0120,2025-03-28,Baltimore Central,Maryland,P201,Office Chair,Office,4,189.99,108,0,7,8
+ORD0436,2025-03-28,Baltimore Central,Maryland,P202,Standing Desk,Office,4,329.99,205,0,18,6
+ORD0496,2025-03-28,Washington DC,District of Columbia,P103,USB-C Hub,Electronics,2,44.99,22,0,40,15
+ORD0074,2025-04-01,Washington DC,District of Columbia,P202,Standing Desk,Office,4,329.99,205,0,20,6
+ORD0186,2025-04-01,Washington DC,District of Columbia,P101,Wireless Mouse,Electronics,4,24.99,12,0,58,18
+ORD0197,2025-04-01,Alexandria,Virginia,P101,Wireless Mouse,Electronics,3,24.99,12,0,20,18
+ORD0209,2025-04-01,Alexandria,Virginia,P403,Training Tee,Apparel,1,29.99,11,0,56,24
+ORD0374,2025-04-02,Washington DC,District of Columbia,P203,Notebook Pack,Office,4,14.99,6.5,0,23,25
+ORD0401,2025-04-02,Silver Spring,Maryland,P101,Wireless Mouse,Electronics,3,24.99,12,0,39,18
+ORD0497,2025-04-02,Silver Spring,Maryland,P401,Performance Hoodie,Apparel,4,54.99,24,0,47,20
+ORD0343,2025-04-04,Washington DC,District of Columbia,P203,Notebook Pack,Office,5,14.99,6.5,0,80,25
+ORD0184,2025-04-05,Baltimore Central,Maryland,P101,Wireless Mouse,Electronics,4,24.99,12,0,60,18
+ORD0333,2025-04-07,Alexandria,Virginia,P401,Performance Hoodie,Apparel,3,54.99,24,0,35,20
+ORD0017,2025-04-08,Baltimore Central,Maryland,P301,Air Fryer,Home,3,89.99,51,0,11,10
+ORD0214,2025-04-08,Washington DC,District of Columbia,P101,Wireless Mouse,Electronics,5,24.99,12,0,16,18
+ORD0365,2025-04-08,Alexandria,Virginia,P302,Blender,Home,4,59.99,31,0,37,12
+ORD0025,2025-04-09,Alexandria,Virginia,P101,Wireless Mouse,Electronics,2,24.99,12,0,36,18
+ORD0263,2025-04-09,Baltimore Central,Maryland,P401,Performance Hoodie,Apparel,4,54.99,24,0,15,20
+ORD0388,2025-04-09,Alexandria,Virginia,P403,Training Tee,Apparel,3,29.99,11,0,58,24
+ORD0519,2025-04-09,Washington DC,District of Columbia,P303,LED Lamp,Home,1,34.99,17,0,14,16
+ORD0182,2025-04-10,Silver Spring,Maryland,P402,Running Shoes,Apparel,4,94.99,46,0.1,38,14
+ORD0271,2025-04-10,Silver Spring,Maryland,P301,Air Fryer,Home,1,89.99,51,0,13,10
+ORD0464,2025-04-10,Baltimore Central,Maryland,P203,Notebook Pack,Office,1,14.99,6.5,0,38,25
+ORD0440,2025-04-11,Alexandria,Virginia,P103,USB-C Hub,Electronics,5,44.99,22,0.15,33,15
+ORD0232,2025-04-14,Silver Spring,Maryland,P303,LED Lamp,Home,1,34.99,17,0,45,16
+ORD0257,2025-04-14,Baltimore Central,Maryland,P102,Mechanical Keyboard,Electronics,1,69.99,38,0,18,12
+ORD0021,2025-04-16,Baltimore Central,Maryland,P402,Running Shoes,Apparel,1,94.99,46,0.05,5,14
+ORD0448,2025-04-16,Alexandria,Virginia,P203,Notebook Pack,Office,1,14.99,6.5,0,55,25
+ORD0391,2025-04-17,Baltimore Central,Maryland,P101,Wireless Mouse,Electronics,1,24.99,12,0,43,18
+ORD0202,2025-04-18,Washington DC,District of Columbia,P203,Notebook Pack,Office,2,14.99,6.5,0,43,25
+ORD0181,2025-04-19,Alexandria,Virginia,P402,Running Shoes,Apparel,5,94.99,46,0,10,14
+ORD0219,2025-04-20,Baltimore Central,Maryland,P402,Running Shoes,Apparel,1,94.99,46,0,35,14
+ORD0299,2025-04-20,Washington DC,District of Columbia,P401,Performance Hoodie,Apparel,1,54.99,24,0,48,20
+ORD0077,2025-04-21,Silver Spring,Maryland,P402,Running Shoes,Apparel,5,94.99,46,0,47,14
+ORD0233,2025-04-21,Silver Spring,Maryland,P201,Office Chair,Office,1,189.99,108,0,5,8
+ORD0376,2025-04-21,Washington DC,District of Columbia,P402,Running Shoes,Apparel,5,94.99,46,0,25,14
+ORD0027,2025-04-22,Baltimore Central,Maryland,P303,LED Lamp,Home,2,34.99,17,0.05,50,16
+ORD0086,2025-04-22,Baltimore Central,Maryland,P101,Wireless Mouse,Electronics,4,24.99,12,0,48,18
+ORD0318,2025-04-22,Alexandria,Virginia,P202,Standing Desk,Office,4,329.99,205,0,19,6
+ORD0370,2025-04-23,Washington DC,District of Columbia,P301,Air Fryer,Home,1,89.99,51,0,22,10
+ORD0395,2025-04-23,Baltimore Central,Maryland,P201,Office Chair,Office,2,189.99,108,0,11,8
+ORD0240,2025-04-24,Alexandria,Virginia,P103,USB-C Hub,Electronics,3,44.99,22,0,7,15
+ORD0283,2025-04-24,Baltimore Central,Maryland,P301,Air Fryer,Home,5,89.99,51,0,12,10
+ORD0368,2025-04-24,Baltimore Central,Maryland,P201,Office Chair,Office,5,189.99,108,0.15,4,8
+ORD0432,2025-04-26,Alexandria,Virginia,P103,USB-C Hub,Electronics,5,44.99,22,0.05,14,15
+ORD0445,2025-04-27,Washington DC,District of Columbia,P101,Wireless Mouse,Electronics,3,24.99,12,0,7,18
+ORD0270,2025-05-01,Washington DC,District of Columbia,P103,USB-C Hub,Electronics,2,44.99,22,0,31,15
+ORD0235,2025-05-02,Alexandria,Virginia,P403,Training Tee,Apparel,5,29.99,11,0,80,24
+ORD0099,2025-05-03,Silver Spring,Maryland,P302,Blender,Home,2,59.99,31,0.15,34,12
+ORD0104,2025-05-03,Silver Spring,Maryland,P102,Mechanical Keyboard,Electronics,4,69.99,38,0.15,18,12
+ORD0064,2025-05-04,Silver Spring,Maryland,P103,USB-C Hub,Electronics,4,44.99,22,0,48,15
+ORD0100,2025-05-06,Alexandria,Virginia,P102,Mechanical Keyboard,Electronics,4,69.99,38,0.05,21,12
+ORD0317,2025-05-06,Alexandria,Virginia,P303,LED Lamp,Home,2,34.99,17,0.15,21,16
+ORD0036,2025-05-07,Alexandria,Virginia,P102,Mechanical Keyboard,Electronics,4,69.99,38,0,36,12
+ORD0379,2025-05-07,Alexandria,Virginia,P101,Wireless Mouse,Electronics,2,24.99,12,0.15,22,18
+ORD0004,2025-05-09,Baltimore Central,Maryland,P103,USB-C Hub,Electronics,1,44.99,22,0,15,15
+ORD0246,2025-05-09,Alexandria,Virginia,P402,Running Shoes,Apparel,5,94.99,46,0,36,14
+ORD0326,2025-05-09,Alexandria,Virginia,P201,Office Chair,Office,4,189.99,108,0,15,8
+ORD0256,2025-05-10,Baltimore Central,Maryland,P102,Mechanical Keyboard,Electronics,1,69.99,38,0,24,12
+ORD0084,2025-05-11,Silver Spring,Maryland,P401,Performance Hoodie,Apparel,1,54.99,24,0.1,59,20
+ORD0226,2025-05-11,Alexandria,Virginia,P102,Mechanical Keyboard,Electronics,2,69.99,38,0,7,12
+ORD0364,2025-05-11,Washington DC,District of Columbia,P301,Air Fryer,Home,4,89.99,51,0.05,17,10
+ORD0346,2025-05-12,Silver Spring,Maryland,P203,Notebook Pack,Office,2,14.99,6.5,0,17,25
+ORD0097,2025-05-14,Baltimore Central,Maryland,P201,Office Chair,Office,4,189.99,108,0,18,8
+ORD0452,2025-05-16,Silver Spring,Maryland,P102,Mechanical Keyboard,Electronics,5,69.99,38,0,19,12
+ORD0165,2025-05-18,Baltimore Central,Maryland,P102,Mechanical Keyboard,Electronics,4,69.99,38,0,38,12
+ORD0358,2025-05-18,Alexandria,Virginia,P301,Air Fryer,Home,1,89.99,51,0,17,10
+ORD0308,2025-05-19,Baltimore Central,Maryland,P202,Standing Desk,Office,4,329.99,205,0.05,3,6
+ORD0460,2025-05-19,Silver Spring,Maryland,P201,Office Chair,Office,3,189.99,108,0,15,8
+ORD0487,2025-05-19,Silver Spring,Maryland,P201,Office Chair,Office,4,189.99,108,0.1,18,8
+ORD0471,2025-05-20,Washington DC,District of Columbia,P403,Training Tee,Apparel,1,29.99,11,0.05,53,24
+ORD0402,2025-05-22,Alexandria,Virginia,P101,Wireless Mouse,Electronics,4,24.99,12,0,40,18
+ORD0174,2025-05-23,Silver Spring,Maryland,P301,Air Fryer,Home,3,89.99,51,0,28,10
+ORD0424,2025-05-23,Alexandria,Virginia,P303,LED Lamp,Home,1,34.99,17,0,31,16
+ORD0183,2025-05-24,Washington DC,District of Columbia,P103,USB-C Hub,Electronics,3,44.99,22,0,30,15
+ORD0013,2025-05-25,Silver Spring,Maryland,P303,LED Lamp,Home,4,34.99,17,0,7,16
+ORD0421,2025-05-26,Alexandria,Virginia,P202,Standing Desk,Office,1,329.99,205,0.1,18,6
+ORD0126,2025-05-27,Washington DC,District of Columbia,P302,Blender,Home,3,59.99,31,0,11,12
+ORD0166,2025-05-27,Silver Spring,Maryland,P402,Running Shoes,Apparel,3,94.99,46,0,13,14
+ORD0281,2025-05-27,Baltimore Central,Maryland,P401,Performance Hoodie,Apparel,1,54.99,24,0,49,20
+ORD0101,2025-06-01,Alexandria,Virginia,P203,Notebook Pack,Office,1,14.99,6.5,0,62,25
+ORD0118,2025-06-01,Washington DC,District of Columbia,P303,LED Lamp,Home,2,34.99,17,0,18,16
+ORD0498,2025-06-01,Alexandria,Virginia,P403,Training Tee,Apparel,1,29.99,11,0,79,24
+ORD0041,2025-06-02,Baltimore Central,Maryland,P401,Performance Hoodie,Apparel,4,54.99,24,0,30,20
+ORD0050,2025-06-02,Washington DC,District of Columbia,P203,Notebook Pack,Office,4,14.99,6.5,0.05,75,25
+ORD0114,2025-06-02,Silver Spring,Maryland,P301,Air Fryer,Home,2,89.99,51,0.1,10,10
+ORD0012,2025-06-04,Silver Spring,Maryland,P301,Air Fryer,Home,1,89.99,51,0,21,10
+ORD0160,2025-06-06,Washington DC,District of Columbia,P203,Notebook Pack,Office,2,14.99,6.5,0,67,25
+ORD0187,2025-06-06,Baltimore Central,Maryland,P402,Running Shoes,Apparel,4,94.99,46,0,32,14
+ORD0387,2025-06-07,Alexandria,Virginia,P301,Air Fryer,Home,4,89.99,51,0,23,10
+ORD0321,2025-06-10,Silver Spring,Maryland,P402,Running Shoes,Apparel,5,94.99,46,0,16,14
+ORD0418,2025-06-11,Alexandria,Virginia,P101,Wireless Mouse,Electronics,2,24.99,12,0,41,18
+ORD0080,2025-06-12,Washington DC,District of Columbia,P102,Mechanical Keyboard,Electronics,3,69.99,38,0,33,12
+ORD0294,2025-06-12,Silver Spring,Maryland,P301,Air Fryer,Home,3,89.99,51,0,33,10
+ORD0190,2025-06-13,Baltimore Central,Maryland,P302,Blender,Home,1,59.99,31,0.1,25,12
+ORD0196,2025-06-13,Alexandria,Virginia,P403,Training Tee,Apparel,2,29.99,11,0,28,24
+ORD0087,2025-06-14,Silver Spring,Maryland,P402,Running Shoes,Apparel,2,94.99,46,0,42,14
+ORD0342,2025-06-16,Baltimore Central,Maryland,P303,LED Lamp,Home,1,34.99,17,0,43,16
+ORD0037,2025-06-18,Alexandria,Virginia,P203,Notebook Pack,Office,2,14.99,6.5,0,65,25
+ORD0018,2025-06-19,Washington DC,District of Columbia,P202,Standing Desk,Office,1,329.99,205,0,7,6
+ORD0019,2025-06-19,Washington DC,District of Columbia,P202,Standing Desk,Office,4,329.99,205,0,9,6
+ORD0350,2025-06-20,Baltimore Central,Maryland,P203,Notebook Pack,Office,2,14.99,6.5,0,61,25
+ORD0468,2025-06-20,Baltimore Central,Maryland,P103,USB-C Hub,Electronics,4,44.99,22,0,27,15
+ORD0476,2025-06-21,Baltimore Central,Maryland,P303,LED Lamp,Home,5,34.99,17,0,41,16
+ORD0201,2025-06-22,Baltimore Central,Maryland,P301,Air Fryer,Home,2,89.99,51,0,19,10
+ORD0071,2025-06-23,Washington DC,District of Columbia,P302,Blender,Home,5,59.99,31,0,37,12
+ORD0192,2025-06-23,Baltimore Central,Maryland,P402,Running Shoes,Apparel,3,94.99,46,0,40,14
+ORD0243,2025-06-23,Washington DC,District of Columbia,P202,Standing Desk,Office,4,329.99,205,0,12,6
+ORD0493,2025-06-23,Alexandria,Virginia,P102,Mechanical Keyboard,Electronics,2,69.99,38,0,19,12
+ORD0502,2025-06-23,Washington DC,District of Columbia,P102,Mechanical Keyboard,Electronics,5,69.99,38,0,5,12
+ORD0516,2025-06-23,Alexandria,Virginia,P301,Air Fryer,Home,4,89.99,51,0.05,24,10
+ORD0229,2025-06-24,Washington DC,District of Columbia,P101,Wireless Mouse,Electronics,5,24.99,12,0,56,18
+ORD0288,2025-06-25,Washington DC,District of Columbia,P102,Mechanical Keyboard,Electronics,4,69.99,38,0,35,12
+ORD0462,2025-06-25,Washington DC,District of Columbia,P103,USB-C Hub,Electronics,3,44.99,22,0,46,15
+ORD0447,2025-06-26,Alexandria,Virginia,P201,Office Chair,Office,1,189.99,108,0,22,8
+ORD0095,2025-06-27,Alexandria,Virginia,P103,USB-C Hub,Electronics,2,44.99,22,0,39,15
+ORD0482,2025-06-27,Washington DC,District of Columbia,P102,Mechanical Keyboard,Electronics,1,69.99,38,0,11,12
+ORD0517,2025-06-27,Washington DC,District of Columbia,P203,Notebook Pack,Office,4,14.99,6.5,0,81,25
+ORD0001,2025-06-28,Washington DC,District of Columbia,P302,Blender,Home,3,59.99,31,0,8,12
+ORD0245,2025-06-28,Silver Spring,Maryland,P301,Air Fryer,Home,3,89.99,51,0,33,10
+ORD0303,2025-06-28,Alexandria,Virginia,P401,Performance Hoodie,Apparel,1,54.99,24,0,34,20
+ORD0404,2025-06-28,Washington DC,District of Columbia,P301,Air Fryer,Home,1,89.99,51,0,8,10
+ORD0075,2025-07-01,Washington DC,District of Columbia,P101,Wireless Mouse,Electronics,1,24.99,12,0,17,18
+ORD0116,2025-07-01,Alexandria,Virginia,P102,Mechanical Keyboard,Electronics,3,69.99,38,0.1,4,12
+ORD0469,2025-07-01,Washington DC,District of Columbia,P101,Wireless Mouse,Electronics,3,24.99,12,0,17,18
+ORD0193,2025-07-03,Alexandria,Virginia,P201,Office Chair,Office,2,189.99,108,0.05,25,8
+ORD0237,2025-07-06,Alexandria,Virginia,P101,Wireless Mouse,Electronics,1,24.99,12,0,40,18
+ORD0132,2025-07-07,Washington DC,District of Columbia,P302,Blender,Home,3,59.99,31,0,32,12
+ORD0371,2025-07-07,Alexandria,Virginia,P401,Performance Hoodie,Apparel,5,54.99,24,0,43,20
+ORD0449,2025-07-11,Baltimore Central,Maryland,P203,Notebook Pack,Office,5,14.99,6.5,0,36,25
+ORD0484,2025-07-11,Silver Spring,Maryland,P403,Training Tee,Apparel,1,29.99,11,0.1,64,24
+ORD0503,2025-07-12,Baltimore Central,Maryland,P101,Wireless Mouse,Electronics,3,24.99,12,0,52,18
+ORD0119,2025-07-15,Alexandria,Virginia,P301,Air Fryer,Home,5,89.99,51,0,16,10
+ORD0068,2025-07-16,Alexandria,Virginia,P203,Notebook Pack,Office,4,14.99,6.5,0,44,25
+ORD0127,2025-07-16,Alexandria,Virginia,P301,Air Fryer,Home,5,89.99,51,0,13,10
+ORD0156,2025-07-16,Alexandria,Virginia,P201,Office Chair,Office,3,189.99,108,0,4,8
+ORD0300,2025-07-17,Silver Spring,Maryland,P101,Wireless Mouse,Electronics,4,24.99,12,0,54,18
+ORD0142,2025-07-20,Silver Spring,Maryland,P202,Standing Desk,Office,3,329.99,205,0,3,6
+ORD0020,2025-07-22,Silver Spring,Maryland,P301,Air Fryer,Home,5,89.99,51,0,28,10
+ORD0141,2025-07-22,Alexandria,Virginia,P302,Blender,Home,5,59.99,31,0,30,12
+ORD0173,2025-07-22,Silver Spring,Maryland,P203,Notebook Pack,Office,5,14.99,6.5,0,83,25
+ORD0178,2025-07-22,Silver Spring,Maryland,P303,LED Lamp,Home,3,34.99,17,0,19,16
+ORD0072,2025-07-23,Silver Spring,Maryland,P302,Blender,Home,5,59.99,31,0,16,12
+ORD0355,2025-07-23,Alexandria,Virginia,P401,Performance Hoodie,Apparel,2,54.99,24,0,32,20
+ORD0397,2025-07-23,Alexandria,Virginia,P402,Running Shoes,Apparel,4,94.99,46,0.05,20,14
+ORD0510,2025-07-23,Alexandria,Virginia,P202,Standing Desk,Office,4,329.99,205,0,19,6
+ORD0172,2025-07-24,Silver Spring,Maryland,P403,Training Tee,Apparel,3,29.99,11,0,49,24
+ORD0312,2025-07-24,Baltimore Central,Maryland,P301,Air Fryer,Home,5,89.99,51,0,10,10
+ORD0341,2025-07-24,Alexandria,Virginia,P303,LED Lamp,Home,3,34.99,17,0,10,16
+ORD0005,2025-07-26,Baltimore Central,Maryland,P202,Standing Desk,Office,4,329.99,205,0,10,6
+ORD0111,2025-07-26,Silver Spring,Maryland,P301,Air Fryer,Home,5,89.99,51,0,27,10
+ORD0328,2025-07-26,Washington DC,District of Columbia,P302,Blender,Home,3,59.99,31,0,35,12
+ORD0029,2025-07-27,Washington DC,District of Columbia,P402,Running Shoes,Apparel,2,94.99,46,0.15,40,14
+ORD0242,2025-07-27,Silver Spring,Maryland,P103,USB-C Hub,Electronics,1,44.99,22,0,40,15
+ORD0319,2025-07-27,Alexandria,Virginia,P401,Performance Hoodie,Apparel,4,54.99,24,0.05,42,20
+ORD0091,2025-07-28,Baltimore Central,Maryland,P102,Mechanical Keyboard,Electronics,3,69.99,38,0,27,12
+ORD0136,2025-07-28,Silver Spring,Maryland,P402,Running Shoes,Apparel,1,94.99,46,0,11,14
+ORD0191,2025-07-28,Alexandria,Virginia,P101,Wireless Mouse,Electronics,5,24.99,12,0,16,18
+ORD0457,2025-08-01,Washington DC,District of Columbia,P401,Performance Hoodie,Apparel,2,54.99,24,0,37,20
+ORD0040,2025-08-02,Silver Spring,Maryland,P102,Mechanical Keyboard,Electronics,2,69.99,38,0,38,12
+ORD0375,2025-08-03,Alexandria,Virginia,P402,Running Shoes,Apparel,2,94.99,46,0,17,14
+ORD0327,2025-08-04,Alexandria,Virginia,P402,Running Shoes,Apparel,1,94.99,46,0.1,42,14
+ORD0241,2025-08-05,Silver Spring,Maryland,P303,LED Lamp,Home,5,34.99,17,0,11,16
+ORD0385,2025-08-05,Alexandria,Virginia,P203,Notebook Pack,Office,4,14.99,6.5,0.15,28,25
+ORD0450,2025-08-05,Washington DC,District of Columbia,P402,Running Shoes,Apparel,5,94.99,46,0,7,14
+ORD0478,2025-08-06,Baltimore Central,Maryland,P202,Standing Desk,Office,2,329.99,205,0.05,14,6
+ORD0089,2025-08-07,Washington DC,District of Columbia,P102,Mechanical Keyboard,Electronics,5,69.99,38,0,33,12
+ORD0261,2025-08-07,Washington DC,District of Columbia,P101,Wireless Mouse,Electronics,5,24.99,12,0,17,18
+ORD0399,2025-08-07,Baltimore Central,Maryland,P301,Air Fryer,Home,2,89.99,51,0,21,10
+ORD0400,2025-08-07,Silver Spring,Maryland,P101,Wireless Mouse,Electronics,5,24.99,12,0,57,18
+ORD0488,2025-08-08,Silver Spring,Maryland,P101,Wireless Mouse,Electronics,2,24.99,12,0,56,18
+ORD0513,2025-08-08,Washington DC,District of Columbia,P401,Performance Hoodie,Apparel,1,54.99,24,0,45,20
+ORD0250,2025-08-09,Baltimore Central,Maryland,P401,Performance Hoodie,Apparel,5,54.99,24,0,27,20
+ORD0117,2025-08-11,Silver Spring,Maryland,P203,Notebook Pack,Office,4,14.99,6.5,0,71,25
+ORD0279,2025-08-11,Baltimore Central,Maryland,P403,Training Tee,Apparel,5,29.99,11,0,46,24
+ORD0325,2025-08-11,Washington DC,District of Columbia,P201,Office Chair,Office,2,189.99,108,0,17,8
+ORD0417,2025-08-11,Silver Spring,Maryland,P403,Training Tee,Apparel,5,29.99,11,0,49,24
+ORD0336,2025-08-12,Washington DC,District of Columbia,P301,Air Fryer,Home,3,89.99,51,0,5,10
+ORD0411,2025-08-12,Silver Spring,Maryland,P401,Performance Hoodie,Apparel,1,54.99,24,0,52,20
+ORD0295,2025-08-13,Washington DC,District of Columbia,P202,Standing Desk,Office,2,329.99,205,0.05,15,6
+ORD0159,2025-08-15,Baltimore Central,Maryland,P103,USB-C Hub,Electronics,2,44.99,22,0.1,24,15
+ORD0332,2025-08-16,Washington DC,District of Columbia,P403,Training Tee,Apparel,3,29.99,11,0,18,24
+ORD0472,2025-08-16,Alexandria,Virginia,P401,Performance Hoodie,Apparel,5,54.99,24,0.1,9,20
+ORD0298,2025-08-17,Silver Spring,Maryland,P403,Training Tee,Apparel,1,29.99,11,0.05,33,24
+ORD0491,2025-08-18,Alexandria,Virginia,P301,Air Fryer,Home,5,89.99,51,0,25,10
+ORD0520,2025-08-18,Alexandria,Virginia,P201,Office Chair,Office,2,189.99,108,0,23,8
+ORD0222,2025-08-19,Baltimore Central,Maryland,P102,Mechanical Keyboard,Electronics,3,69.99,38,0,17,12
+ORD0253,2025-08-20,Washington DC,District of Columbia,P202,Standing Desk,Office,2,329.99,205,0,2,6
+ORD0275,2025-08-20,Washington DC,District of Columbia,P203,Notebook Pack,Office,3,14.99,6.5,0,32,25
+ORD0378,2025-08-20,Baltimore Central,Maryland,P303,LED Lamp,Home,5,34.99,17,0,23,16
+ORD0107,2025-08-21,Baltimore Central,Maryland,P103,USB-C Hub,Electronics,4,44.99,22,0,34,15
+ORD0110,2025-08-21,Washington DC,District of Columbia,P103,USB-C Hub,Electronics,1,44.99,22,0,43,15
+ORD0031,2025-08-22,Baltimore Central,Maryland,P102,Mechanical Keyboard,Electronics,3,69.99,38,0.15,12,12
+ORD0286,2025-08-22,Silver Spring,Maryland,P301,Air Fryer,Home,5,89.99,51,0,29,10
+ORD0059,2025-08-23,Washington DC,District of Columbia,P401,Performance Hoodie,Apparel,1,54.99,24,0,27,20
+ORD0247,2025-08-23,Alexandria,Virginia,P302,Blender,Home,4,59.99,31,0,38,12
+ORD0265,2025-08-23,Washington DC,District of Columbia,P102,Mechanical Keyboard,Electronics,2,69.99,38,0,37,12
+ORD0205,2025-08-24,Alexandria,Virginia,P401,Performance Hoodie,Apparel,4,54.99,24,0.15,64,20
+ORD0090,2025-08-28,Baltimore Central,Maryland,P102,Mechanical Keyboard,Electronics,3,69.99,38,0,28,12
+ORD0234,2025-09-01,Washington DC,District of Columbia,P301,Air Fryer,Home,2,89.99,51,0,12,10
+ORD0356,2025-09-01,Alexandria,Virginia,P103,USB-C Hub,Electronics,1,44.99,22,0,18,15
+ORD0396,2025-09-01,Silver Spring,Maryland,P201,Office Chair,Office,4,189.99,108,0.1,20,8
+ORD0489,2025-09-01,Baltimore Central,Maryland,P202,Standing Desk,Office,3,329.99,205,0,5,6
+ORD0509,2025-09-03,Washington DC,District of Columbia,P103,USB-C Hub,Electronics,3,44.99,22,0,14,15
+ORD0051,2025-09-04,Washington DC,District of Columbia,P301,Air Fryer,Home,5,89.99,51,0.1,27,10
+ORD0433,2025-09-04,Baltimore Central,Maryland,P302,Blender,Home,5,59.99,31,0,29,12
+ORD0372,2025-09-05,Alexandria,Virginia,P402,Running Shoes,Apparel,2,94.99,46,0,12,14
+ORD0406,2025-09-05,Silver Spring,Maryland,P201,Office Chair,Office,5,189.99,108,0,16,8
+ORD0105,2025-09-06,Silver Spring,Maryland,P101,Wireless Mouse,Electronics,1,24.99,12,0,59,18
+ORD0278,2025-09-06,Baltimore Central,Maryland,P101,Wireless Mouse,Electronics,3,24.99,12,0,57,18
+ORD0153,2025-09-09,Alexandria,Virginia,P301,Air Fryer,Home,2,89.99,51,0,15,10
+ORD0264,2025-09-09,Alexandria,Virginia,P202,Standing Desk,Office,4,329.99,205,0.05,5,6
+ORD0345,2025-09-09,Washington DC,District of Columbia,P101,Wireless Mouse,Electronics,3,24.99,12,0,15,18
+ORD0113,2025-09-10,Baltimore Central,Maryland,P203,Notebook Pack,Office,1,14.99,6.5,0,63,25
+ORD0162,2025-09-11,Alexandria,Virginia,P201,Office Chair,Office,3,189.99,108,0,13,8
+ORD0458,2025-09-11,Baltimore Central,Maryland,P401,Performance Hoodie,Apparel,4,54.99,24,0,12,20
+ORD0157,2025-09-12,Baltimore Central,Maryland,P303,LED Lamp,Home,2,34.99,17,0.05,38,16
+ORD0419,2025-09-12,Baltimore Central,Maryland,P201,Office Chair,Office,1,189.99,108,0,26,8
+ORD0066,2025-09-14,Silver Spring,Maryland,P203,Notebook Pack,Office,5,14.99,6.5,0,77,25
+ORD0454,2025-09-14,Silver Spring,Maryland,P202,Standing Desk,Office,1,329.99,205,0,12,6
+ORD0032,2025-09-15,Silver Spring,Maryland,P403,Training Tee,Apparel,3,29.99,11,0,15,24
+ORD0231,2025-09-15,Washington DC,District of Columbia,P203,Notebook Pack,Office,2,14.99,6.5,0.05,61,25
+ORD0310,2025-09-15,Washington DC,District of Columbia,P103,USB-C Hub,Electronics,3,44.99,22,0,48,15
+ORD0280,2025-09-16,Alexandria,Virginia,P301,Air Fryer,Home,4,89.99,51,0,6,10
+ORD0426,2025-09-16,Washington DC,District of Columbia,P101,Wireless Mouse,Electronics,2,24.99,12,0,17,18
+ORD0003,2025-09-17,Alexandria,Virginia,P203,Notebook Pack,Office,3,14.99,6.5,0.1,18,25
+ORD0415,2025-09-17,Washington DC,District of Columbia,P403,Training Tee,Apparel,5,29.99,11,0,35,24
+ORD0171,2025-09-18,Baltimore Central,Maryland,P401,Performance Hoodie,Apparel,2,54.99,24,0,62,20
+ORD0236,2025-09-19,Alexandria,Virginia,P302,Blender,Home,2,59.99,31,0,11,12
+ORD0309,2025-09-19,Silver Spring,Maryland,P203,Notebook Pack,Office,1,14.99,6.5,0,79,25
+ORD0054,2025-09-20,Alexandria,Virginia,P401,Performance Hoodie,Apparel,4,54.99,24,0.15,11,20
+ORD0056,2025-09-20,Silver Spring,Maryland,P302,Blender,Home,4,59.99,31,0.1,26,12
+ORD0499,2025-09-20,Washington DC,District of Columbia,P303,LED Lamp,Home,1,34.99,17,0,49,16
+ORD0515,2025-09-20,Silver Spring,Maryland,P103,USB-C Hub,Electronics,5,44.99,22,0,47,15
+ORD0058,2025-09-21,Silver Spring,Maryland,P202,Standing Desk,Office,1,329.99,205,0,17,6
+ORD0412,2025-09-21,Washington DC,District of Columbia,P403,Training Tee,Apparel,4,29.99,11,0,31,24
+ORD0459,2025-09-21,Silver Spring,Maryland,P202,Standing Desk,Office,1,329.99,205,0,4,6
+ORD0508,2025-09-21,Alexandria,Virginia,P403,Training Tee,Apparel,3,29.99,11,0,18,24
+ORD0103,2025-09-22,Silver Spring,Maryland,P401,Performance Hoodie,Apparel,3,54.99,24,0,57,20
+ORD0152,2025-09-24,Washington DC,District of Columbia,P203,Notebook Pack,Office,2,14.99,6.5,0,40,25
+ORD0067,2025-09-25,Washington DC,District of Columbia,P103,USB-C Hub,Electronics,1,44.99,22,0,50,15
+ORD0213,2025-09-25,Baltimore Central,Maryland,P103,USB-C Hub,Electronics,4,44.99,22,0,44,15
+ORD0407,2025-09-25,Baltimore Central,Maryland,P203,Notebook Pack,Office,5,14.99,6.5,0,79,25
+ORD0475,2025-09-26,Silver Spring,Maryland,P302,Blender,Home,3,59.99,31,0,14,12
+ORD0429,2025-09-27,Washington DC,District of Columbia,P203,Notebook Pack,Office,4,14.99,6.5,0,69,25
+ORD0455,2025-09-27,Baltimore Central,Maryland,P101,Wireless Mouse,Electronics,5,24.99,12,0,23,18
+ORD0344,2025-09-28,Alexandria,Virginia,P402,Running Shoes,Apparel,2,94.99,46,0,7,14
+ORD0398,2025-09-28,Washington DC,District of Columbia,P201,Office Chair,Office,1,189.99,108,0,25,8
+ORD0016,2025-10-01,Baltimore Central,Maryland,P103,USB-C Hub,Electronics,3,44.99,22,0,42,15
+ORD0260,2025-10-02,Baltimore Central,Maryland,P302,Blender,Home,3,59.99,31,0,12,12
+ORD0039,2025-10-03,Silver Spring,Maryland,P101,Wireless Mouse,Electronics,5,24.99,12,0,30,18
+ORD0042,2025-10-03,Baltimore Central,Maryland,P201,Office Chair,Office,3,189.99,108,0.15,17,8
+ORD0220,2025-10-03,Silver Spring,Maryland,P102,Mechanical Keyboard,Electronics,5,69.99,38,0,36,12
+ORD0014,2025-10-04,Baltimore Central,Maryland,P301,Air Fryer,Home,1,89.99,51,0.05,21,10
+ORD0060,2025-10-05,Alexandria,Virginia,P403,Training Tee,Apparel,5,29.99,11,0,24,24
+ORD0292,2025-10-05,Alexandria,Virginia,P101,Wireless Mouse,Electronics,4,24.99,12,0,59,18
+ORD0007,2025-10-07,Baltimore Central,Maryland,P202,Standing Desk,Office,1,329.99,205,0,11,6
+ORD0373,2025-10-07,Baltimore Central,Maryland,P101,Wireless Mouse,Electronics,5,24.99,12,0,24,18
+ORD0441,2025-10-07,Washington DC,District of Columbia,P301,Air Fryer,Home,1,89.99,51,0,32,10
+ORD0022,2025-10-08,Baltimore Central,Maryland,P301,Air Fryer,Home,5,89.99,51,0,12,10
+ORD0140,2025-10-08,Silver Spring,Maryland,P201,Office Chair,Office,3,189.99,108,0.05,8,8
+ORD0439,2025-10-08,Washington DC,District of Columbia,P203,Notebook Pack,Office,3,14.99,6.5,0,56,25
+ORD0215,2025-10-09,Silver Spring,Maryland,P303,LED Lamp,Home,2,34.99,17,0,20,16
+ORD0218,2025-10-09,Washington DC,District of Columbia,P201,Office Chair,Office,5,189.99,108,0,19,8
+ORD0320,2025-10-09,Washington DC,District of Columbia,P403,Training Tee,Apparel,5,29.99,11,0,77,24
+ORD0227,2025-10-10,Baltimore Central,Maryland,P402,Running Shoes,Apparel,5,94.99,46,0,21,14
+ORD0416,2025-10-10,Washington DC,District of Columbia,P203,Notebook Pack,Office,4,14.99,6.5,0.05,33,25
+ORD0149,2025-10-11,Baltimore Central,Maryland,P203,Notebook Pack,Office,1,14.99,6.5,0,73,25
+ORD0480,2025-10-11,Washington DC,District of Columbia,P202,Standing Desk,Office,1,329.99,205,0,13,6
+ORD0112,2025-10-12,Silver Spring,Maryland,P201,Office Chair,Office,1,189.99,108,0,21,8
+ORD0369,2025-10-12,Washington DC,District of Columbia,P401,Performance Hoodie,Apparel,5,54.99,24,0,64,20
+ORD0079,2025-10-14,Alexandria,Virginia,P302,Blender,Home,4,59.99,31,0,24,12
+ORD0098,2025-10-15,Alexandria,Virginia,P403,Training Tee,Apparel,2,29.99,11,0,36,24
+ORD0180,2025-10-16,Washington DC,District of Columbia,P102,Mechanical Keyboard,Electronics,2,69.99,38,0,7,12
+ORD0188,2025-10-17,Alexandria,Virginia,P202,Standing Desk,Office,3,329.99,205,0.1,4,6
+ORD0088,2025-10-18,Alexandria,Virginia,P301,Air Fryer,Home,4,89.99,51,0,30,10
+ORD0217,2025-10-18,Silver Spring,Maryland,P302,Blender,Home,3,59.99,31,0,10,12
+ORD0338,2025-10-18,Silver Spring,Maryland,P402,Running Shoes,Apparel,3,94.99,46,0,43,14
+ORD0437,2025-10-18,Baltimore Central,Maryland,P303,LED Lamp,Home,1,34.99,17,0,46,16
+ORD0461,2025-10-18,Baltimore Central,Maryland,P102,Mechanical Keyboard,Electronics,2,69.99,38,0,20,12
+ORD0463,2025-10-19,Washington DC,District of Columbia,P102,Mechanical Keyboard,Electronics,2,69.99,38,0,35,12
+ORD0045,2025-10-20,Alexandria,Virginia,P203,Notebook Pack,Office,5,14.99,6.5,0,42,25
+ORD0161,2025-10-22,Alexandria,Virginia,P202,Standing Desk,Office,5,329.99,205,0,2,6
+ORD0048,2025-10-23,Silver Spring,Maryland,P402,Running Shoes,Apparel,3,94.99,46,0,11,14
+ORD0108,2025-10-23,Washington DC,District of Columbia,P401,Performance Hoodie,Apparel,1,54.99,24,0,20,20
+ORD0511,2025-10-24,Silver Spring,Maryland,P202,Standing Desk,Office,1,329.99,205,0,19,6
+ORD0466,2025-10-25,Baltimore Central,Maryland,P102,Mechanical Keyboard,Electronics,4,69.99,38,0,35,12
+ORD0290,2025-10-26,Washington DC,District of Columbia,P103,USB-C Hub,Electronics,3,44.99,22,0.15,36,15
+ORD0311,2025-10-26,Baltimore Central,Maryland,P403,Training Tee,Apparel,2,29.99,11,0,26,24
+ORD0135,2025-10-28,Baltimore Central,Maryland,P402,Running Shoes,Apparel,5,94.99,46,0,16,14
+ORD0143,2025-11-01,Silver Spring,Maryland,P102,Mechanical Keyboard,Electronics,6,69.99,38,0,18,12
+ORD0284,2025-11-01,Washington DC,District of Columbia,P202,Standing Desk,Office,4,329.99,205,0,19,6
+ORD0389,2025-11-01,Silver Spring,Maryland,P303,LED Lamp,Home,7,34.99,17,0,34,16
+ORD0357,2025-11-03,Washington DC,District of Columbia,P302,Blender,Home,4,59.99,31,0,35,12
+ORD0360,2025-11-05,Baltimore Central,Maryland,P101,Wireless Mouse,Electronics,5,24.99,12,0,26,18
+ORD0504,2025-11-05,Silver Spring,Maryland,P101,Wireless Mouse,Electronics,2,24.99,12,0,10,18
+ORD0167,2025-11-06,Alexandria,Virginia,P103,USB-C Hub,Electronics,6,44.99,22,0,21,15
+ORD0198,2025-11-06,Baltimore Central,Maryland,P201,Office Chair,Office,3,189.99,108,0,17,8
+ORD0252,2025-11-06,Silver Spring,Maryland,P401,Performance Hoodie,Apparel,3,54.99,24,0,28,20
+ORD0285,2025-11-06,Silver Spring,Maryland,P101,Wireless Mouse,Electronics,3,24.99,12,0.15,13,18
+ORD0269,2025-11-07,Baltimore Central,Maryland,P302,Blender,Home,6,59.99,31,0,38,12
+ORD0282,2025-11-07,Baltimore Central,Maryland,P202,Standing Desk,Office,2,329.99,205,0,6,6
+ORD0349,2025-11-07,Washington DC,District of Columbia,P403,Training Tee,Apparel,2,29.99,11,0,45,24
+ORD0362,2025-11-07,Alexandria,Virginia,P302,Blender,Home,1,59.99,31,0.05,26,12
+ORD0443,2025-11-07,Washington DC,District of Columbia,P202,Standing Desk,Office,4,329.99,205,0,9,6
+ORD0206,2025-11-08,Silver Spring,Maryland,P102,Mechanical Keyboard,Electronics,1,69.99,38,0,11,12
+ORD0324,2025-11-10,Baltimore Central,Maryland,P303,LED Lamp,Home,5,34.99,17,0,10,16
+ORD0254,2025-11-12,Baltimore Central,Maryland,P302,Blender,Home,2,59.99,31,0,33,12
+ORD0486,2025-11-12,Silver Spring,Maryland,P301,Air Fryer,Home,3,89.99,51,0,25,10
+ORD0063,2025-11-13,Silver Spring,Maryland,P401,Performance Hoodie,Apparel,1,54.99,24,0,41,20
+ORD0276,2025-11-13,Washington DC,District of Columbia,P202,Standing Desk,Office,6,329.99,205,0,16,6
+ORD0046,2025-11-14,Alexandria,Virginia,P403,Training Tee,Apparel,2,29.99,11,0,28,24
+ORD0035,2025-11-15,Silver Spring,Maryland,P303,LED Lamp,Home,3,34.99,17,0,11,16
+ORD0211,2025-11-15,Washington DC,District of Columbia,P203,Notebook Pack,Office,3,14.99,6.5,0,63,25
+ORD0262,2025-11-15,Washington DC,District of Columbia,P201,Office Chair,Office,3,189.99,108,0,16,8
+ORD0044,2025-11-17,Silver Spring,Maryland,P203,Notebook Pack,Office,4,14.99,6.5,0,42,25
+ORD0154,2025-11-17,Silver Spring,Maryland,P301,Air Fryer,Home,4,89.99,51,0,13,10
+ORD0293,2025-11-17,Washington DC,District of Columbia,P101,Wireless Mouse,Electronics,3,24.99,12,0,19,18
+ORD0315,2025-11-20,Baltimore Central,Maryland,P201,Office Chair,Office,5,189.99,108,0,24,8
+ORD0380,2025-11-20,Silver Spring,Maryland,P203,Notebook Pack,Office,3,14.99,6.5,0,76,25
+ORD0158,2025-11-22,Alexandria,Virginia,P303,LED Lamp,Home,1,34.99,17,0,42,16
+ORD0106,2025-11-23,Alexandria,Virginia,P302,Blender,Home,5,59.99,31,0,15,12
+ORD0164,2025-11-23,Alexandria,Virginia,P401,Performance Hoodie,Apparel,3,54.99,24,0,19,20
+ORD0185,2025-11-23,Baltimore Central,Maryland,P201,Office Chair,Office,4,189.99,108,0,25,8
+ORD0287,2025-11-23,Silver Spring,Maryland,P401,Performance Hoodie,Apparel,6,54.99,24,0.15,49,20
+ORD0094,2025-11-27,Washington DC,District of Columbia,P202,Standing Desk,Office,3,329.99,205,0,11,6
+ORD0467,2025-11-27,Washington DC,District of Columbia,P202,Standing Desk,Office,4,329.99,205,0.15,6,6
+ORD0506,2025-11-28,Washington DC,District of Columbia,P203,Notebook Pack,Office,6,14.99,6.5,0,12,25
+ORD0009,2025-12-01,Silver Spring,Maryland,P102,Mechanical Keyboard,Electronics,6,69.99,38,0,20,12
+ORD0239,2025-12-01,Alexandria,Virginia,P201,Office Chair,Office,2,189.99,108,0.05,5,8
+ORD0518,2025-12-02,Baltimore Central,Maryland,P203,Notebook Pack,Office,4,14.99,6.5,0,83,25
+ORD0148,2025-12-03,Baltimore Central,Maryland,P101,Wireless Mouse,Electronics,7,24.99,12,0,45,18
+ORD0272,2025-12-04,Silver Spring,Maryland,P102,Mechanical Keyboard,Electronics,5,69.99,38,0,31,12
+ORD0351,2025-12-04,Baltimore Central,Maryland,P402,Running Shoes,Apparel,5,94.99,46,0.1,43,14
+ORD0425,2025-12-04,Silver Spring,Maryland,P302,Blender,Home,6,59.99,31,0,30,12
+ORD0078,2025-12-05,Alexandria,Virginia,P102,Mechanical Keyboard,Electronics,5,69.99,38,0.05,7,12
+ORD0124,2025-12-05,Baltimore Central,Maryland,P103,USB-C Hub,Electronics,5,44.99,22,0,33,15
+ORD0366,2025-12-05,Alexandria,Virginia,P401,Performance Hoodie,Apparel,4,54.99,24,0,56,20
+ORD0083,2025-12-07,Baltimore Central,Maryland,P102,Mechanical Keyboard,Electronics,4,69.99,38,0.15,23,12
+ORD0144,2025-12-07,Silver Spring,Maryland,P203,Notebook Pack,Office,4,14.99,6.5,0,65,25
+ORD0043,2025-12-08,Baltimore Central,Maryland,P401,Performance Hoodie,Apparel,5,54.99,24,0,22,20
+ORD0340,2025-12-08,Alexandria,Virginia,P101,Wireless Mouse,Electronics,5,24.99,12,0,27,18
+ORD0381,2025-12-08,Washington DC,District of Columbia,P201,Office Chair,Office,4,189.99,108,0,8,8
+ORD0028,2025-12-09,Baltimore Central,Maryland,P203,Notebook Pack,Office,6,14.99,6.5,0.1,59,25
+ORD0146,2025-12-10,Baltimore Central,Maryland,P201,Office Chair,Office,3,189.99,108,0,23,8
+ORD0267,2025-12-11,Washington DC,District of Columbia,P101,Wireless Mouse,Electronics,2,24.99,12,0.1,22,18
+ORD0316,2025-12-11,Silver Spring,Maryland,P102,Mechanical Keyboard,Electronics,3,69.99,38,0,6,12
+ORD0434,2025-12-11,Silver Spring,Maryland,P303,LED Lamp,Home,3,34.99,17,0,28,16
+ORD0147,2025-12-12,Alexandria,Virginia,P401,Performance Hoodie,Apparel,5,54.99,24,0,52,20
+ORD0382,2025-12-12,Baltimore Central,Maryland,P403,Training Tee,Apparel,4,29.99,11,0,71,24
+ORD0224,2025-12-13,Baltimore Central,Maryland,P202,Standing Desk,Office,1,329.99,205,0,7,6
+ORD0109,2025-12-14,Baltimore Central,Maryland,P202,Standing Desk,Office,4,329.99,205,0,9,6
+ORD0266,2025-12-14,Alexandria,Virginia,P402,Running Shoes,Apparel,6,94.99,46,0,16,14
+ORD0431,2025-12-14,Alexandria,Virginia,P103,USB-C Hub,Electronics,2,44.99,22,0,23,15
+ORD0085,2025-12-17,Silver Spring,Maryland,P202,Standing Desk,Office,4,329.99,205,0,12,6
+ORD0305,2025-12-17,Silver Spring,Maryland,P202,Standing Desk,Office,7,329.99,205,0.1,13,6
+ORD0414,2025-12-17,Silver Spring,Maryland,P103,USB-C Hub,Electronics,5,44.99,22,0,9,15
+ORD0123,2025-12-19,Silver Spring,Maryland,P203,Notebook Pack,Office,4,14.99,6.5,0,53,25
+ORD0145,2025-12-19,Silver Spring,Maryland,P303,LED Lamp,Home,5,34.99,17,0,23,16
+ORD0179,2025-12-20,Silver Spring,Maryland,P402,Running Shoes,Apparel,6,94.99,46,0,42,14
+ORD0057,2025-12-21,Alexandria,Virginia,P303,LED Lamp,Home,2,34.99,17,0,18,16
+ORD0422,2025-12-21,Silver Spring,Maryland,P402,Running Shoes,Apparel,5,94.99,46,0,44,14
+ORD0481,2025-12-21,Washington DC,District of Columbia,P102,Mechanical Keyboard,Electronics,5,69.99,38,0,19,12
+ORD0092,2025-12-22,Baltimore Central,Maryland,P301,Air Fryer,Home,2,89.99,51,0,13,10
+ORD0189,2025-12-22,Washington DC,District of Columbia,P201,Office Chair,Office,4,189.99,108,0,23,8
+ORD0359,2025-12-22,Washington DC,District of Columbia,P402,Running Shoes,Apparel,1,94.99,46,0,33,14
+ORD0339,2025-12-23,Alexandria,Virginia,P103,USB-C Hub,Electronics,7,44.99,22,0,9,15
+ORD0386,2025-12-23,Silver Spring,Maryland,P301,Air Fryer,Home,1,89.99,51,0,13,10
+ORD0203,2025-12-24,Baltimore Central,Maryland,P202,Standing Desk,Office,2,329.99,205,0,12,6
+ORD0331,2025-12-24,Alexandria,Virginia,P403,Training Tee,Apparel,5,29.99,11,0,66,24
+ORD0444,2025-12-24,Silver Spring,Maryland,P302,Blender,Home,7,59.99,31,0,16,12
+ORD0453,2025-12-24,Silver Spring,Maryland,P303,LED Lamp,Home,4,34.99,17,0,14,16
+ORD0024,2025-12-25,Washington DC,District of Columbia,P203,Notebook Pack,Office,1,14.99,6.5,0.1,55,25
+ORD0026,2025-12-25,Washington DC,District of Columbia,P102,Mechanical Keyboard,Electronics,4,69.99,38,0,38,12
+ORD0139,2025-12-27,Baltimore Central,Maryland,P101,Wireless Mouse,Electronics,4,24.99,12,0,49,18
+ORD0322,2025-12-27,Washington DC,District of Columbia,P103,USB-C Hub,Electronics,4,44.99,22,0,15,15
+ORD0015,2025-12-28,Baltimore Central,Maryland,P301,Air Fryer,Home,7,89.99,51,0,33,10
+ORD0155,2025-12-28,Baltimore Central,Maryland,P201,Office Chair,Office,4,189.99,108,0.15,26,8
+ORD0223,2025-12-28,Silver Spring,Maryland,P203,Notebook Pack,Office,1,14.99,6.5,0.1,44,25
+ORD0297,2025-12-28,Washington DC,District of Columbia,P201,Office Chair,Office,4,189.99,108,0,7,8
