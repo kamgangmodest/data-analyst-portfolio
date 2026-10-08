@@ -1,0 +1,1201 @@
+customer_id,state,senior_citizen,partner,dependents,tenure_months,contract_type,internet_service,tech_support,payment_method,monthly_charges,total_charges,churn
+C00001,NC,1,Yes,Yes,72,One year,DSL,No,Bank transfer,74.38,5373.26,No
+C00002,DC,1,No,No,25,Two year,None,No,Credit card,27.30,691.96,No
+C00003,MD,0,No,No,16,Month-to-month,Fiber,No,Electronic check,95.25,1537.19,Yes
+C00004,VA,0,Yes,No,24,Month-to-month,DSL,Yes,Mailed check,70.67,1700.28,Yes
+C00005,DC,0,No,No,35,Month-to-month,Fiber,No,Bank transfer,100.34,3516.33,Yes
+C00006,VA,0,Yes,No,62,Month-to-month,DSL,No,Credit card,62.06,3863.52,No
+C00007,MD,0,Yes,No,12,Month-to-month,Fiber,No,Credit card,91.06,1094.44,Yes
+C00008,MD,0,Yes,No,43,Two year,DSL,No,Bank transfer,70.48,3047.50,No
+C00009,VA,0,No,No,13,Month-to-month,Fiber,Yes,Bank transfer,107.12,1421.88,No
+C00010,VA,0,Yes,Yes,60,Two year,Fiber,Yes,Electronic check,94.49,5674.40,No
+C00011,PA,1,Yes,No,20,One year,Fiber,Yes,Bank transfer,94.57,1911.63,No
+C00012,DC,0,No,No,48,One year,DSL,No,Credit card,74.30,3591.61,No
+C00013,NC,1,Yes,Yes,41,Month-to-month,None,Yes,Electronic check,38.06,1566.11,No
+C00014,MD,0,Yes,No,35,Two year,Fiber,Yes,Mailed check,96.26,3398.02,No
+C00015,VA,0,Yes,Yes,30,Two year,DSL,Yes,Electronic check,69.36,2109.60,No
+C00016,MD,0,Yes,No,55,Month-to-month,DSL,No,Mailed check,67.39,3714.75,No
+C00017,VA,0,Yes,No,51,Two year,Fiber,Yes,Electronic check,98.14,5027.86,Yes
+C00018,VA,0,No,No,8,Two year,DSL,No,Bank transfer,56.37,476.05,No
+C00019,PA,0,No,No,18,Month-to-month,Fiber,No,Electronic check,83.00,1506.63,Yes
+C00020,PA,0,No,Yes,61,Month-to-month,Fiber,No,Bank transfer,82.66,5070.42,Yes
+C00021,VA,0,Yes,Yes,50,One year,None,Yes,Credit card,40.72,2049.33,No
+C00022,VA,1,No,No,37,Two year,None,Yes,Credit card,37.89,1428.06,No
+C00023,PA,0,Yes,No,46,One year,None,Yes,Bank transfer,47.81,2209.27,Yes
+C00024,DC,1,No,Yes,8,One year,None,No,Credit card,41.51,345.01,No
+C00025,MD,0,No,No,5,One year,Fiber,Yes,Credit card,104.27,544.99,Yes
+C00026,NC,1,Yes,No,27,Two year,None,Yes,Credit card,44.70,1214.70,No
+C00027,DC,0,Yes,No,10,Two year,DSL,No,Electronic check,63.62,657.00,Yes
+C00028,DC,0,No,No,31,Two year,None,No,Credit card,42.51,1347.44,No
+C00029,NC,0,Yes,No,18,Two year,Fiber,Yes,Credit card,101.15,1849.63,No
+C00030,NC,1,Yes,Yes,59,Two year,None,Yes,Bank transfer,34.25,2027.72,No
+C00031,VA,1,No,No,31,Two year,DSL,Yes,Credit card,80.50,2499.29,No
+C00032,PA,1,No,Yes,53,One year,None,Yes,Credit card,38.17,2032.61,No
+C00033,NC,0,No,Yes,0,Month-to-month,DSL,No,Bank transfer,68.37,91.61,No
+C00034,MD,0,Yes,No,52,Two year,Fiber,No,Electronic check,88.31,4621.11,No
+C00035,NC,0,Yes,No,50,Two year,DSL,Yes,Bank transfer,77.56,3903.04,No
+C00036,MD,0,No,Yes,35,Month-to-month,DSL,Yes,Bank transfer,71.69,2527.19,No
+C00037,NC,1,Yes,No,60,Two year,DSL,Yes,Credit card,80.28,4834.22,No
+C00038,VA,1,Yes,No,16,Month-to-month,DSL,Yes,Credit card,69.69,1133.42,No
+C00039,MD,0,Yes,No,7,Two year,Fiber,No,Mailed check,81.62,588.34,No
+C00040,MD,0,Yes,No,8,One year,Fiber,Yes,Bank transfer,103.71,840.92,Yes
+C00041,NC,0,Yes,No,32,One year,None,Yes,Credit card,47.38,1523.37,No
+C00042,PA,0,No,Yes,13,Two year,Fiber,No,Bank transfer,89.06,1160.75,No
+C00043,DC,0,Yes,Yes,20,Two year,DSL,Yes,Mailed check,76.03,1536.00,No
+C00044,DC,0,No,No,34,Month-to-month,None,No,Bank transfer,41.08,1411.50,No
+C00045,DC,0,Yes,No,13,Two year,Fiber,Yes,Mailed check,105.05,1366.08,No
+C00046,DC,1,No,Yes,39,One year,None,Yes,Mailed check,33.61,1316.50,No
+C00047,VA,0,Yes,Yes,49,Month-to-month,Fiber,Yes,Mailed check,103.39,5073.92,No
+C00048,MD,0,Yes,No,16,Two year,None,No,Electronic check,25.58,411.17,Yes
+C00049,DC,0,Yes,No,36,Two year,DSL,No,Bank transfer,58.30,2114.96,No
+C00050,VA,0,No,Yes,58,One year,Fiber,Yes,Credit card,91.90,5339.98,Yes
+C00051,PA,1,Yes,Yes,3,One year,DSL,Yes,Mailed check,64.30,214.63,Yes
+C00052,NC,0,Yes,Yes,24,One year,DSL,No,Credit card,74.66,1804.15,No
+C00053,MD,1,Yes,No,22,One year,None,Yes,Bank transfer,48.50,1090.01,No
+C00054,PA,0,No,No,35,One year,None,Yes,Electronic check,44.50,1577.64,No
+C00055,NC,0,No,No,63,One year,DSL,Yes,Electronic check,76.11,4798.04,No
+C00056,DC,1,No,Yes,34,Month-to-month,DSL,No,Bank transfer,72.25,2485.23,No
+C00057,DC,1,Yes,Yes,36,Two year,Fiber,Yes,Bank transfer,108.18,3920.36,No
+C00058,VA,0,No,Yes,38,One year,None,No,Credit card,34.83,1351.77,No
+C00059,DC,0,Yes,No,59,Month-to-month,Fiber,Yes,Bank transfer,89.68,5315.23,No
+C00060,DC,0,No,No,34,One year,Fiber,Yes,Mailed check,107.44,3659.58,No
+C00061,PA,1,Yes,Yes,27,Two year,DSL,Yes,Bank transfer,79.73,2158.12,No
+C00062,DC,1,Yes,Yes,55,Month-to-month,None,Yes,Electronic check,49.88,2755.05,Yes
+C00063,PA,0,No,Yes,8,Two year,None,Yes,Electronic check,48.13,395.72,No
+C00064,MD,0,Yes,Yes,54,One year,None,Yes,Electronic check,51.28,2790.13,No
+C00065,DC,0,No,No,0,Month-to-month,Fiber,Yes,Bank transfer,104.16,110.31,No
+C00066,PA,0,Yes,No,21,Two year,DSL,No,Electronic check,70.94,1512.48,No
+C00067,VA,0,Yes,Yes,6,One year,Fiber,Yes,Mailed check,105.57,645.35,No
+C00068,NC,0,No,No,53,One year,Fiber,No,Electronic check,91.50,4875.25,Yes
+C00069,PA,0,Yes,Yes,56,One year,None,Yes,Credit card,47.87,2694.35,No
+C00070,VA,0,Yes,No,0,Month-to-month,None,No,Credit card,28.36,34.69,Yes
+C00071,MD,0,No,Yes,37,Month-to-month,None,No,Bank transfer,27.87,1048.50,No
+C00072,DC,0,Yes,Yes,24,Month-to-month,Fiber,No,Credit card,97.28,2335.15,Yes
+C00073,PA,0,No,No,53,Two year,Fiber,No,Credit card,99.41,5281.08,No
+C00074,DC,0,No,Yes,70,Month-to-month,Fiber,Yes,Bank transfer,106.33,7450.33,No
+C00075,DC,0,No,No,7,One year,Fiber,No,Mailed check,99.41,710.78,No
+C00076,VA,0,No,Yes,28,One year,None,No,Bank transfer,38.00,1073.42,No
+C00077,VA,0,Yes,Yes,7,One year,DSL,Yes,Electronic check,82.16,591.78,No
+C00078,DC,0,No,No,61,One year,Fiber,No,Bank transfer,87.60,5361.92,Yes
+C00079,NC,0,Yes,Yes,66,Month-to-month,None,No,Electronic check,27.82,1855.86,Yes
+C00080,NC,0,No,Yes,3,One year,None,No,Bank transfer,27.94,104.27,Yes
+C00081,DC,0,Yes,No,46,Two year,Fiber,No,Bank transfer,91.18,4199.09,No
+C00082,MD,0,No,Yes,27,Two year,DSL,Yes,Bank transfer,82.22,2230.70,No
+C00083,DC,0,No,Yes,57,Month-to-month,None,No,Electronic check,44.72,2561.50,No
+C00084,VA,1,No,Yes,16,Month-to-month,Fiber,Yes,Mailed check,91.13,1478.98,Yes
+C00085,MD,1,No,No,10,Two year,None,No,Mailed check,37.87,388.92,Yes
+C00086,VA,1,Yes,Yes,58,Two year,Fiber,Yes,Credit card,100.32,5837.66,No
+C00087,DC,0,No,Yes,60,Two year,None,No,Bank transfer,30.51,1856.10,Yes
+C00088,VA,0,Yes,Yes,6,Month-to-month,Fiber,No,Bank transfer,89.99,557.72,Yes
+C00089,MD,0,No,Yes,62,One year,None,No,Bank transfer,30.78,1936.65,No
+C00090,DC,0,Yes,No,21,Month-to-month,Fiber,Yes,Bank transfer,104.84,2223.46,No
+C00091,PA,0,Yes,Yes,57,One year,None,No,Electronic check,43.08,2478.81,No
+C00092,NC,1,No,Yes,32,One year,Fiber,Yes,Bank transfer,102.17,3274.25,No
+C00093,NC,0,No,Yes,65,Two year,Fiber,Yes,Bank transfer,102.34,6666.03,No
+C00094,VA,0,Yes,No,28,One year,DSL,Yes,Bank transfer,74.31,2107.96,No
+C00095,NC,0,Yes,Yes,37,One year,DSL,Yes,Bank transfer,68.57,2556.95,No
+C00096,DC,0,No,Yes,11,Month-to-month,None,No,Bank transfer,29.24,342.49,Yes
+C00097,PA,0,Yes,No,53,One year,Fiber,Yes,Electronic check,103.59,5492.23,No
+C00098,MD,0,Yes,Yes,33,Month-to-month,None,No,Bank transfer,35.53,1187.07,No
+C00099,VA,0,No,No,30,Month-to-month,DSL,Yes,Mailed check,78.12,2360.42,No
+C00100,VA,0,Yes,Yes,49,Month-to-month,DSL,Yes,Mailed check,63.46,3137.80,Yes
+C00101,DC,0,No,No,41,One year,Fiber,No,Mailed check,92.98,3824.20,Yes
+C00102,NC,0,No,Yes,6,One year,Fiber,No,Mailed check,90.41,561.35,No
+C00103,VA,0,No,No,65,Month-to-month,Fiber,Yes,Mailed check,90.64,5892.44,No
+C00104,MD,0,No,Yes,27,Month-to-month,Fiber,No,Electronic check,98.54,2661.36,Yes
+C00105,NC,0,Yes,No,59,Month-to-month,DSL,No,Bank transfer,55.04,3268.14,Yes
+C00106,DC,0,No,No,40,Two year,None,No,Credit card,40.66,1637.82,No
+C00107,NC,0,No,Yes,53,Two year,None,Yes,Mailed check,49.54,2627.72,No
+C00108,PA,0,Yes,Yes,4,Month-to-month,Fiber,Yes,Bank transfer,106.39,436.81,Yes
+C00109,PA,0,No,No,39,Month-to-month,None,Yes,Electronic check,47.24,1857.10,No
+C00110,PA,0,Yes,No,20,Month-to-month,None,No,Mailed check,42.55,867.99,No
+C00111,NC,0,Yes,No,44,Month-to-month,DSL,No,Electronic check,71.48,3148.36,No
+C00112,VA,0,Yes,No,25,Month-to-month,None,Yes,Mailed check,49.83,1266.45,Yes
+C00113,PA,0,Yes,Yes,63,One year,DSL,Yes,Electronic check,82.63,5229.58,No
+C00114,MD,1,No,Yes,16,Month-to-month,DSL,Yes,Bank transfer,75.67,1232.71,No
+C00115,NC,0,No,Yes,33,Two year,Fiber,No,Electronic check,93.11,3099.95,No
+C00116,VA,0,No,Yes,10,One year,DSL,Yes,Mailed check,79.41,819.66,Yes
+C00117,DC,0,Yes,Yes,32,One year,DSL,Yes,Electronic check,82.67,2671.00,Yes
+C00118,PA,0,No,Yes,25,Two year,Fiber,Yes,Mailed check,105.69,2644.74,No
+C00119,PA,0,No,Yes,72,Month-to-month,Fiber,Yes,Credit card,105.87,7636.62,No
+C00120,DC,0,Yes,No,6,Month-to-month,None,Yes,Electronic check,42.10,278.92,No
+C00121,NC,0,Yes,No,62,Month-to-month,Fiber,Yes,Electronic check,93.92,5828.57,No
+C00122,DC,0,No,Yes,3,Month-to-month,DSL,Yes,Bank transfer,75.07,238.17,No
+C00123,DC,0,No,No,4,One year,None,Yes,Electronic check,48.66,195.87,No
+C00124,PA,0,Yes,No,69,One year,DSL,Yes,Bank transfer,72.05,4997.23,No
+C00125,NC,1,No,Yes,5,One year,Fiber,Yes,Credit card,90.84,468.50,No
+C00126,NC,0,No,Yes,43,Month-to-month,None,No,Mailed check,41.87,1803.80,Yes
+C00127,NC,0,Yes,Yes,8,Month-to-month,Fiber,Yes,Electronic check,102.66,850.73,Yes
+C00128,VA,1,Yes,No,8,Two year,None,No,Credit card,25.39,228.84,No
+C00129,DC,0,Yes,Yes,67,Month-to-month,DSL,Yes,Bank transfer,64.52,4338.42,No
+C00130,PA,0,No,Yes,42,One year,DSL,Yes,Mailed check,76.43,3238.73,No
+C00131,VA,0,No,No,49,Month-to-month,None,Yes,Electronic check,38.06,1887.48,Yes
+C00132,VA,0,No,Yes,69,Two year,Fiber,No,Credit card,86.90,6023.95,No
+C00133,VA,0,No,No,32,One year,DSL,Yes,Mailed check,71.42,2290.02,No
+C00134,PA,0,No,No,22,Two year,Fiber,No,Mailed check,98.19,2165.30,Yes
+C00135,NC,0,Yes,No,52,Two year,None,Yes,Electronic check,34.79,1833.61,No
+C00136,DC,0,No,Yes,26,One year,DSL,Yes,Bank transfer,78.83,2078.61,No
+C00137,NC,0,Yes,Yes,31,Two year,Fiber,Yes,Electronic check,98.13,3048.88,No
+C00138,MD,0,No,No,22,Month-to-month,None,Yes,Electronic check,38.38,854.78,No
+C00139,NC,0,Yes,No,11,One year,None,Yes,Electronic check,35.28,407.20,No
+C00140,DC,0,No,No,5,One year,Fiber,No,Credit card,97.60,509.47,Yes
+C00141,MD,0,No,No,56,Two year,None,Yes,Bank transfer,34.13,1926.14,No
+C00142,PA,0,No,Yes,51,One year,Fiber,Yes,Electronic check,94.81,4845.63,Yes
+C00143,PA,1,Yes,No,18,Two year,None,Yes,Credit card,33.22,613.72,No
+C00144,VA,0,No,No,16,One year,Fiber,Yes,Electronic check,108.58,1756.62,No
+C00145,NC,1,No,Yes,69,One year,Fiber,Yes,Electronic check,90.50,6262.83,Yes
+C00146,MD,0,No,No,51,Month-to-month,None,Yes,Bank transfer,38.60,1976.30,No
+C00147,DC,0,No,Yes,4,Month-to-month,Fiber,Yes,Credit card,102.32,428.62,Yes
+C00148,MD,0,Yes,No,50,Month-to-month,DSL,No,Credit card,64.85,3270.24,Yes
+C00149,MD,0,No,No,33,Two year,None,Yes,Bank transfer,48.73,1637.87,No
+C00150,PA,0,No,Yes,71,One year,None,Yes,Mailed check,52.96,3768.97,No
+C00151,PA,0,No,No,63,Two year,None,Yes,Bank transfer,45.01,2863.62,No
+C00152,MD,0,Yes,Yes,42,Month-to-month,None,No,Credit card,39.90,1686.95,No
+C00153,PA,0,No,Yes,18,Two year,DSL,No,Credit card,61.42,1129.91,No
+C00154,DC,0,No,Yes,10,Two year,DSL,No,Electronic check,55.87,584.46,No
+C00155,NC,1,Yes,No,46,One year,None,Yes,Bank transfer,41.26,1898.75,No
+C00156,VA,0,No,Yes,46,Month-to-month,DSL,No,Electronic check,68.43,3158.32,Yes
+C00157,MD,0,No,Yes,11,Month-to-month,Fiber,Yes,Bank transfer,91.07,1029.00,Yes
+C00158,MD,0,No,No,16,One year,DSL,No,Credit card,60.91,983.49,No
+C00159,VA,0,No,Yes,31,Two year,Fiber,No,Electronic check,85.26,2649.98,No
+C00160,PA,0,No,No,51,Month-to-month,None,No,Electronic check,29.08,1505.17,Yes
+C00161,PA,1,No,Yes,22,One year,Fiber,No,Electronic check,86.79,1931.81,Yes
+C00162,VA,0,No,Yes,1,Two year,Fiber,Yes,Bank transfer,95.98,125.03,No
+C00163,VA,0,Yes,Yes,62,One year,None,No,Mailed check,26.23,1638.37,No
+C00164,VA,1,Yes,Yes,13,Month-to-month,DSL,Yes,Electronic check,77.17,1029.04,Yes
+C00165,MD,0,Yes,No,48,Month-to-month,Fiber,No,Bank transfer,85.06,4093.53,No
+C00166,VA,0,Yes,Yes,40,One year,Fiber,Yes,Bank transfer,108.03,4325.65,Yes
+C00167,VA,1,Yes,No,36,One year,None,No,Mailed check,33.14,1220.72,No
+C00168,PA,0,No,No,28,Month-to-month,DSL,Yes,Electronic check,71.48,2013.66,No
+C00169,VA,0,No,No,22,One year,None,Yes,Credit card,48.52,1073.92,Yes
+C00170,MD,1,No,Yes,44,Two year,DSL,Yes,Mailed check,71.83,3188.87,No
+C00171,DC,0,Yes,No,27,One year,None,Yes,Mailed check,43.45,1192.81,No
+C00172,PA,0,Yes,Yes,5,One year,DSL,No,Mailed check,72.97,376.71,Yes
+C00173,MD,0,Yes,No,0,Month-to-month,DSL,No,Electronic check,74.66,82.80,Yes
+C00174,NC,0,Yes,Yes,0,Two year,DSL,No,Bank transfer,58.73,66.34,Yes
+C00175,VA,0,No,No,25,Month-to-month,Fiber,No,Electronic check,99.89,2522.35,Yes
+C00176,PA,0,No,Yes,59,Two year,None,Yes,Mailed check,41.54,2453.86,No
+C00177,MD,0,Yes,No,44,One year,None,No,Electronic check,30.62,1371.67,No
+C00178,MD,1,No,No,13,Two year,DSL,No,Electronic check,55.36,741.11,No
+C00179,NC,0,No,No,41,Month-to-month,None,Yes,Electronic check,51.17,2099.69,No
+C00180,VA,0,Yes,Yes,35,Two year,Fiber,No,Electronic check,90.79,3206.96,Yes
+C00181,MD,0,Yes,Yes,31,One year,DSL,No,Electronic check,55.90,1746.00,No
+C00182,NC,0,Yes,No,40,Month-to-month,DSL,No,Mailed check,68.46,2756.72,Yes
+C00183,PA,0,Yes,Yes,68,One year,DSL,Yes,Electronic check,78.79,5362.04,No
+C00184,NC,0,Yes,No,49,Month-to-month,DSL,No,Electronic check,58.74,2897.49,No
+C00185,DC,0,No,No,58,Two year,None,Yes,Electronic check,33.15,1951.78,No
+C00186,DC,1,Yes,Yes,70,One year,None,No,Electronic check,29.57,2094.35,No
+C00187,MD,0,Yes,No,36,One year,None,No,Credit card,35.72,1291.26,No
+C00188,VA,0,No,Yes,6,Two year,None,No,Bank transfer,38.64,253.50,No
+C00189,MD,0,No,Yes,26,Month-to-month,DSL,Yes,Electronic check,76.88,2011.77,No
+C00190,DC,0,No,Yes,11,One year,None,No,Bank transfer,35.79,416.39,No
+C00191,DC,0,Yes,No,68,Two year,Fiber,Yes,Bank transfer,91.20,6212.11,No
+C00192,VA,1,No,No,5,Month-to-month,None,Yes,Electronic check,45.64,255.41,Yes
+C00193,VA,0,Yes,Yes,48,Two year,None,No,Bank transfer,42.23,2055.51,No
+C00194,VA,0,No,Yes,9,One year,Fiber,Yes,Mailed check,102.53,932.83,No
+C00195,PA,0,Yes,No,69,Month-to-month,Fiber,Yes,Mailed check,107.48,7444.14,No
+C00196,NC,0,No,No,70,Two year,None,Yes,Electronic check,45.61,3216.84,No
+C00197,NC,0,No,Yes,32,Two year,DSL,No,Credit card,73.74,2380.39,No
+C00198,VA,1,Yes,Yes,50,Month-to-month,DSL,Yes,Electronic check,70.29,3540.05,No
+C00199,VA,0,No,Yes,52,Month-to-month,Fiber,No,Electronic check,86.55,4507.92,No
+C00200,DC,0,No,No,42,One year,DSL,Yes,Credit card,75.85,3212.27,Yes
+C00201,DC,0,No,No,14,Two year,Fiber,Yes,Mailed check,98.05,1397.83,No
+C00202,PA,1,Yes,No,58,Month-to-month,DSL,No,Credit card,63.37,3704.22,No
+C00203,VA,0,No,No,27,Two year,None,No,Mailed check,40.91,1120.82,No
+C00204,NC,0,Yes,Yes,47,Two year,DSL,Yes,Electronic check,71.85,3391.10,No
+C00205,NC,1,No,No,37,Month-to-month,Fiber,Yes,Bank transfer,98.70,3665.97,Yes
+C00206,MD,0,No,No,2,One year,DSL,Yes,Bank transfer,66.64,151.19,No
+C00207,DC,0,No,No,27,One year,None,Yes,Mailed check,50.32,1388.12,No
+C00208,VA,0,No,Yes,16,Two year,None,No,Bank transfer,26.05,435.11,No
+C00209,VA,0,No,No,42,One year,DSL,No,Mailed check,56.85,2404.26,No
+C00210,DC,0,Yes,Yes,2,Two year,Fiber,Yes,Mailed check,108.28,244.57,No
+C00211,VA,0,No,Yes,71,Two year,None,No,Credit card,26.52,1900.23,No
+C00212,MD,0,Yes,Yes,11,Two year,DSL,Yes,Credit card,66.57,734.23,No
+C00213,NC,0,Yes,No,43,One year,DSL,No,Electronic check,70.04,3037.09,No
+C00214,PA,0,No,Yes,70,Month-to-month,DSL,Yes,Electronic check,72.56,5087.76,Yes
+C00215,MD,0,Yes,Yes,50,One year,None,Yes,Mailed check,46.04,2303.76,No
+C00216,PA,0,No,Yes,36,Month-to-month,DSL,Yes,Credit card,75.98,2741.62,Yes
+C00217,DC,0,No,Yes,15,Month-to-month,DSL,No,Electronic check,70.94,1089.58,No
+C00218,PA,1,Yes,No,64,One year,DSL,No,Electronic check,60.53,3876.63,No
+C00219,DC,0,No,Yes,46,One year,DSL,Yes,Credit card,80.89,3748.24,No
+C00220,PA,0,Yes,Yes,69,One year,None,No,Bank transfer,42.03,2900.41,Yes
+C00221,MD,0,Yes,No,70,Month-to-month,Fiber,No,Credit card,98.10,6888.93,Yes
+C00222,PA,0,Yes,Yes,17,Two year,DSL,No,Electronic check,58.83,1024.34,No
+C00223,PA,0,Yes,Yes,8,Two year,Fiber,No,Electronic check,93.33,754.28,Yes
+C00224,NC,0,No,No,22,One year,Fiber,No,Mailed check,84.43,1884.61,No
+C00225,VA,1,Yes,No,51,One year,None,No,Electronic check,30.70,1574.19,No
+C00226,VA,0,No,Yes,22,Two year,Fiber,No,Electronic check,96.42,2146.92,No
+C00227,PA,0,No,Yes,68,Month-to-month,Fiber,No,Bank transfer,92.65,6323.58,Yes
+C00228,VA,0,Yes,No,67,Two year,DSL,No,Bank transfer,63.57,4283.10,No
+C00229,DC,1,Yes,Yes,3,Month-to-month,Fiber,No,Bank transfer,93.29,305.62,No
+C00230,VA,0,Yes,No,42,Month-to-month,Fiber,No,Mailed check,95.31,4020.66,No
+C00231,PA,0,Yes,No,64,Two year,DSL,Yes,Credit card,81.86,5260.55,No
+C00232,NC,1,Yes,Yes,4,Two year,None,Yes,Credit card,39.28,185.78,Yes
+C00233,NC,0,Yes,No,60,Month-to-month,None,Yes,Credit card,52.56,3161.61,No
+C00234,MD,0,No,Yes,19,One year,None,Yes,Electronic check,39.33,753.55,No
+C00235,MD,0,Yes,No,11,Two year,None,No,Electronic check,38.50,445.26,No
+C00236,MD,0,Yes,No,32,One year,None,No,Electronic check,41.59,1360.39,No
+C00237,VA,0,No,Yes,37,Two year,DSL,Yes,Electronic check,74.07,2764.29,No
+C00238,PA,0,No,Yes,47,Two year,Fiber,Yes,Mailed check,106.90,5044.55,Yes
+C00239,DC,0,Yes,No,61,Month-to-month,None,No,Bank transfer,25.36,1573.62,No
+C00240,NC,0,Yes,No,42,Month-to-month,Fiber,Yes,Electronic check,103.46,4367.07,Yes
+C00241,MD,0,No,No,45,Two year,Fiber,No,Bank transfer,81.01,3646.76,No
+C00242,VA,1,No,Yes,45,Two year,Fiber,No,Credit card,85.72,3878.67,No
+C00243,NC,0,No,No,21,Month-to-month,DSL,No,Electronic check,73.22,1556.00,No
+C00244,PA,1,Yes,No,23,Month-to-month,DSL,No,Mailed check,73.54,1698.49,No
+C00245,VA,1,No,Yes,14,One year,Fiber,Yes,Bank transfer,106.97,1525.43,No
+C00246,PA,0,No,No,4,Month-to-month,Fiber,Yes,Credit card,89.58,378.42,No
+C00247,PA,0,No,No,44,Month-to-month,Fiber,No,Electronic check,89.62,3960.51,No
+C00248,DC,0,No,Yes,12,Two year,DSL,Yes,Electronic check,82.94,1015.38,No
+C00249,DC,0,No,No,19,Month-to-month,DSL,No,Bank transfer,58.63,1132.99,No
+C00250,MD,0,No,No,17,Two year,Fiber,Yes,Bank transfer,95.08,1631.83,Yes
+C00251,VA,0,No,No,4,Month-to-month,DSL,Yes,Electronic check,67.61,290.13,No
+C00252,NC,0,No,No,60,One year,Fiber,Yes,Mailed check,99.95,6004.93,No
+C00253,NC,0,No,Yes,13,Month-to-month,None,Yes,Bank transfer,44.58,594.23,Yes
+C00254,NC,0,No,No,26,Two year,DSL,Yes,Bank transfer,80.39,2112.55,No
+C00255,VA,0,Yes,Yes,35,Month-to-month,DSL,No,Electronic check,74.50,2634.02,Yes
+C00256,PA,0,No,Yes,40,Two year,DSL,Yes,Electronic check,76.79,3080.18,No
+C00257,PA,1,No,No,12,Month-to-month,None,No,Electronic check,26.03,340.84,Yes
+C00258,NC,0,Yes,Yes,66,One year,DSL,No,Electronic check,69.98,4629.22,No
+C00259,VA,0,Yes,Yes,60,One year,DSL,No,Electronic check,70.58,4246.14,No
+C00260,DC,1,No,No,49,Two year,None,Yes,Bank transfer,42.39,2104.18,No
+C00261,MD,0,No,Yes,52,Two year,None,No,Electronic check,29.56,1552.85,No
+C00262,NC,1,Yes,No,7,Month-to-month,DSL,No,Electronic check,67.42,492.40,Yes
+C00263,MD,0,No,Yes,33,Two year,None,No,Mailed check,37.92,1259.18,No
+C00264,VA,0,Yes,Yes,69,One year,DSL,Yes,Mailed check,69.12,4774.38,No
+C00265,MD,0,No,Yes,70,Two year,Fiber,Yes,Electronic check,105.89,7433.59,No
+C00266,MD,0,No,No,26,Two year,None,Yes,Electronic check,38.06,1004.50,No
+C00267,DC,0,Yes,Yes,51,Two year,Fiber,Yes,Mailed check,107.07,5479.69,No
+C00268,MD,0,Yes,Yes,3,Two year,Fiber,No,Mailed check,89.52,268.72,No
+C00269,VA,0,No,No,18,Two year,DSL,No,Bank transfer,58.62,1082.39,No
+C00270,VA,1,No,No,54,Month-to-month,DSL,No,Electronic check,73.84,4011.58,Yes
+C00271,PA,0,No,Yes,17,Two year,DSL,No,Mailed check,67.86,1168.04,No
+C00272,VA,0,No,No,72,One year,None,No,Credit card,31.10,2239.68,No
+C00273,NC,0,No,No,33,One year,None,Yes,Electronic check,42.97,1430.86,No
+C00274,DC,0,No,Yes,23,Two year,None,Yes,Credit card,52.01,1221.77,Yes
+C00275,PA,0,No,No,36,One year,DSL,Yes,Electronic check,66.10,2398.08,No
+C00276,PA,0,No,No,42,Two year,Fiber,Yes,Mailed check,91.04,3840.17,No
+C00277,DC,0,No,No,35,Month-to-month,None,No,Credit card,34.55,1219.50,No
+C00278,PA,0,Yes,No,51,Month-to-month,DSL,Yes,Credit card,81.87,4176.77,Yes
+C00279,MD,1,Yes,Yes,15,Two year,Fiber,Yes,Bank transfer,96.36,1464.69,Yes
+C00280,NC,0,Yes,No,58,Month-to-month,DSL,Yes,Credit card,64.98,3785.34,No
+C00281,VA,1,Yes,No,49,Month-to-month,None,Yes,Credit card,46.07,2272.56,No
+C00282,NC,0,Yes,Yes,31,One year,DSL,No,Bank transfer,63.57,1996.97,No
+C00283,DC,1,No,No,53,Month-to-month,DSL,No,Mailed check,60.73,3244.15,No
+C00284,DC,0,Yes,Yes,24,Month-to-month,DSL,Yes,Electronic check,65.73,1594.43,Yes
+C00285,NC,0,Yes,No,19,Two year,None,No,Electronic check,42.17,812.60,No
+C00286,MD,0,Yes,Yes,28,Two year,None,Yes,Bank transfer,36.80,1057.10,No
+C00287,VA,0,Yes,Yes,38,One year,Fiber,Yes,Bank transfer,97.54,3711.64,No
+C00288,MD,1,No,No,67,Month-to-month,None,Yes,Bank transfer,34.06,2300.17,No
+C00289,VA,0,Yes,Yes,60,One year,None,No,Electronic check,38.07,2287.75,No
+C00290,MD,0,Yes,Yes,21,One year,Fiber,Yes,Bank transfer,103.58,2192.97,No
+C00291,NC,0,No,No,43,Month-to-month,Fiber,Yes,Credit card,94.12,4051.59,No
+C00292,VA,1,Yes,No,61,Month-to-month,Fiber,No,Bank transfer,83.41,5093.53,Yes
+C00293,DC,0,Yes,Yes,49,Month-to-month,Fiber,No,Credit card,96.40,4734.61,Yes
+C00294,DC,0,No,Yes,7,One year,None,No,Mailed check,38.98,285.38,No
+C00295,VA,0,Yes,Yes,69,One year,Fiber,No,Electronic check,93.56,6480.37,No
+C00296,MD,0,No,Yes,26,Month-to-month,None,No,Credit card,34.70,905.38,No
+C00297,DC,0,Yes,Yes,25,Month-to-month,Fiber,Yes,Electronic check,99.90,2506.47,Yes
+C00298,MD,0,Yes,Yes,34,One year,None,Yes,Bank transfer,39.90,1375.51,No
+C00299,DC,1,No,No,0,Month-to-month,DSL,Yes,Bank transfer,67.45,88.69,No
+C00300,NC,0,No,Yes,7,Month-to-month,DSL,No,Electronic check,66.99,486.40,No
+C00301,NC,0,No,Yes,72,Two year,Fiber,No,Electronic check,88.21,6365.58,No
+C00302,PA,0,Yes,Yes,11,Two year,None,Yes,Credit card,51.81,578.45,No
+C00303,VA,0,No,No,2,Two year,Fiber,Yes,Electronic check,108.65,238.11,Yes
+C00304,DC,0,No,Yes,42,Month-to-month,None,Yes,Electronic check,46.33,1946.38,No
+C00305,DC,0,No,No,62,Two year,Fiber,No,Mailed check,82.56,5146.04,No
+C00306,MD,1,Yes,Yes,35,Month-to-month,None,No,Mailed check,29.49,1037.14,No
+C00307,MD,0,No,No,43,Two year,DSL,No,Electronic check,66.00,2838.69,No
+C00308,VA,0,Yes,Yes,40,Month-to-month,DSL,No,Mailed check,56.42,2258.39,No
+C00309,NC,0,Yes,No,50,Month-to-month,DSL,No,Mailed check,64.61,3254.03,No
+C00310,MD,0,Yes,Yes,57,Two year,Fiber,Yes,Mailed check,105.78,6051.03,No
+C00311,VA,1,Yes,No,71,Two year,None,No,Credit card,39.11,2782.61,No
+C00312,PA,0,No,No,37,Month-to-month,None,Yes,Mailed check,49.44,1841.69,No
+C00313,MD,0,Yes,Yes,14,Month-to-month,None,Yes,Electronic check,47.11,678.17,No
+C00314,MD,0,No,Yes,58,Month-to-month,DSL,Yes,Mailed check,78.35,4573.51,No
+C00315,DC,0,No,No,48,One year,None,Yes,Credit card,49.09,2383.59,No
+C00316,PA,0,No,Yes,6,Two year,Fiber,No,Credit card,100.72,632.55,No
+C00317,VA,0,No,No,33,Month-to-month,Fiber,Yes,Mailed check,102.71,3391.85,No
+C00318,NC,0,No,Yes,12,Two year,DSL,No,Credit card,70.42,860.89,No
+C00319,NC,0,Yes,No,52,Month-to-month,None,No,Credit card,29.30,1524.84,No
+C00320,MD,0,Yes,No,37,Two year,DSL,Yes,Bank transfer,65.58,2439.51,No
+C00321,VA,0,Yes,Yes,28,Two year,Fiber,No,Bank transfer,92.67,2623.40,No
+C00322,PA,0,No,Yes,60,Month-to-month,None,No,Credit card,41.54,2504.90,Yes
+C00323,DC,0,Yes,Yes,18,Month-to-month,Fiber,No,Electronic check,96.11,1745.77,No
+C00324,NC,0,Yes,Yes,3,Two year,Fiber,No,Mailed check,95.98,308.25,No
+C00325,NC,1,No,No,13,One year,DSL,No,Mailed check,59.65,777.43,No
+C00326,NC,0,No,No,34,Two year,DSL,No,Bank transfer,66.32,2258.18,No
+C00327,MD,1,No,Yes,63,One year,Fiber,Yes,Credit card,91.63,5782.74,No
+C00328,PA,0,Yes,No,29,Two year,Fiber,Yes,Electronic check,103.37,3006.63,No
+C00329,DC,0,No,Yes,50,Month-to-month,DSL,Yes,Mailed check,74.43,3728.68,No
+C00330,MD,0,Yes,No,69,One year,None,Yes,Mailed check,47.20,3268.89,No
+C00331,MD,0,Yes,No,5,Two year,None,No,Mailed check,32.50,173.52,No
+C00332,NC,0,No,Yes,16,One year,Fiber,No,Electronic check,95.34,1548.63,Yes
+C00333,MD,0,No,No,69,One year,Fiber,Yes,Electronic check,90.66,6262.45,No
+C00334,VA,0,Yes,No,56,Month-to-month,Fiber,No,Electronic check,91.16,5117.35,Yes
+C00335,MD,0,No,No,54,One year,None,Yes,Bank transfer,38.59,2097.44,No
+C00336,VA,1,Yes,Yes,34,Two year,DSL,No,Bank transfer,68.48,2337.38,No
+C00337,NC,0,No,Yes,39,Month-to-month,DSL,Yes,Mailed check,67.63,2657.18,Yes
+C00338,DC,0,Yes,Yes,36,One year,None,No,Bank transfer,28.52,1040.12,No
+C00339,MD,0,No,Yes,40,One year,None,Yes,Electronic check,49.78,1998.41,Yes
+C00340,PA,0,Yes,No,64,Two year,None,Yes,Electronic check,37.02,2393.40,No
+C00341,VA,0,Yes,No,4,Month-to-month,Fiber,Yes,Mailed check,107.01,455.61,No
+C00342,VA,1,Yes,No,11,Two year,None,Yes,Electronic check,39.65,466.03,No
+C00343,PA,1,No,No,29,One year,Fiber,Yes,Bank transfer,102.72,2982.81,Yes
+C00344,MD,0,No,No,30,One year,DSL,Yes,Mailed check,63.66,1934.35,Yes
+C00345,NC,1,Yes,No,41,One year,None,Yes,Credit card,49.58,2038.51,No
+C00346,NC,1,No,No,53,Two year,None,Yes,Mailed check,41.75,2231.75,No
+C00347,VA,0,Yes,No,62,One year,None,Yes,Electronic check,43.53,2707.27,No
+C00348,PA,0,Yes,Yes,52,Month-to-month,DSL,No,Mailed check,64.27,3355.85,Yes
+C00349,PA,0,Yes,Yes,0,Two year,None,No,Bank transfer,26.04,34.46,No
+C00350,DC,0,Yes,Yes,43,One year,Fiber,Yes,Bank transfer,93.58,4053.22,No
+C00351,VA,1,No,No,41,One year,DSL,No,Credit card,66.63,2744.32,No
+C00352,PA,1,No,No,33,Month-to-month,Fiber,Yes,Mailed check,104.70,3464.42,No
+C00353,DC,0,Yes,No,45,Two year,DSL,Yes,Bank transfer,69.67,3154.69,No
+C00354,NC,0,No,No,65,Month-to-month,None,No,Mailed check,28.22,1852.49,No
+C00355,PA,1,Yes,No,56,Month-to-month,Fiber,Yes,Credit card,89.39,5034.11,Yes
+C00356,PA,0,Yes,Yes,64,Two year,None,No,Credit card,39.44,2538.01,No
+C00357,PA,0,Yes,No,34,Month-to-month,Fiber,Yes,Bank transfer,101.16,3448.45,No
+C00358,PA,0,No,No,4,One year,DSL,Yes,Electronic check,79.80,320.74,No
+C00359,NC,0,No,Yes,49,Two year,Fiber,Yes,Mailed check,96.98,4773.17,No
+C00360,VA,0,Yes,Yes,15,Month-to-month,Fiber,Yes,Mailed check,106.47,1606.26,No
+C00361,DC,0,Yes,No,56,Two year,DSL,No,Bank transfer,63.31,3567.02,No
+C00362,MD,0,No,Yes,12,Month-to-month,DSL,Yes,Electronic check,72.29,886.59,Yes
+C00363,MD,1,No,Yes,64,One year,Fiber,Yes,Bank transfer,91.05,5828.62,No
+C00364,VA,0,Yes,No,1,Month-to-month,None,Yes,Bank transfer,35.93,54.67,No
+C00365,PA,0,Yes,No,28,Two year,None,Yes,Credit card,39.83,1139.39,No
+C00366,NC,0,No,Yes,33,One year,Fiber,Yes,Mailed check,94.22,3124.44,No
+C00367,NC,0,No,Yes,62,One year,None,Yes,Bank transfer,48.51,3028.54,No
+C00368,VA,0,Yes,No,55,One year,Fiber,Yes,Bank transfer,92.90,5121.97,No
+C00369,NC,0,No,Yes,18,One year,Fiber,No,Electronic check,90.02,1645.90,No
+C00370,DC,0,No,No,51,Two year,DSL,Yes,Mailed check,81.43,4168.25,No
+C00371,VA,0,Yes,No,28,One year,None,No,Mailed check,40.28,1148.94,No
+C00372,VA,1,No,No,11,One year,None,No,Bank transfer,42.18,490.02,No
+C00373,NC,0,No,Yes,60,Two year,Fiber,Yes,Bank transfer,103.58,6227.71,No
+C00374,VA,0,No,No,49,Month-to-month,DSL,No,Mailed check,55.82,2740.79,No
+C00375,MD,1,Yes,Yes,71,Two year,DSL,No,Electronic check,66.02,4699.93,No
+C00376,PA,0,No,No,47,One year,None,No,Electronic check,36.98,1747.69,No
+C00377,VA,0,Yes,Yes,38,Month-to-month,DSL,No,Bank transfer,65.34,2493.94,No
+C00378,MD,1,Yes,No,42,Month-to-month,DSL,No,Credit card,66.13,2796.44,No
+C00379,DC,0,No,No,20,Two year,None,Yes,Credit card,36.91,749.13,No
+C00380,NC,0,Yes,No,60,One year,None,No,Credit card,43.72,2628.19,No
+C00381,PA,1,No,Yes,9,Month-to-month,DSL,Yes,Electronic check,82.00,757.60,No
+C00382,NC,0,No,No,37,Month-to-month,Fiber,Yes,Electronic check,92.63,3443.35,Yes
+C00383,MD,0,No,Yes,41,Month-to-month,Fiber,Yes,Electronic check,104.36,4286.11,No
+C00384,DC,0,No,No,63,One year,Fiber,No,Credit card,98.76,6245.70,No
+C00385,NC,1,Yes,Yes,19,Month-to-month,None,No,Electronic check,32.91,637.11,Yes
+C00386,NC,0,No,Yes,61,One year,Fiber,No,Electronic check,97.95,6004.71,No
+C00387,VA,0,Yes,Yes,12,Month-to-month,None,No,Bank transfer,40.81,514.35,No
+C00388,PA,0,Yes,No,72,Month-to-month,Fiber,Yes,Electronic check,97.14,7010.92,No
+C00389,DC,0,No,Yes,57,Two year,DSL,Yes,Credit card,80.76,4626.02,No
+C00390,VA,0,No,Yes,53,One year,DSL,No,Mailed check,57.75,3077.71,No
+C00391,PA,0,Yes,Yes,64,One year,DSL,Yes,Electronic check,76.45,4918.97,No
+C00392,VA,0,No,Yes,64,Two year,DSL,Yes,Mailed check,79.35,5099.07,No
+C00393,VA,0,Yes,No,22,Two year,Fiber,No,Credit card,92.40,2059.90,No
+C00394,MD,1,Yes,No,36,Month-to-month,DSL,No,Credit card,69.53,2506.86,Yes
+C00395,MD,0,No,Yes,30,Month-to-month,DSL,No,Bank transfer,57.95,1743.62,Yes
+C00396,NC,0,No,No,7,Two year,None,No,Bank transfer,30.08,216.53,Yes
+C00397,NC,0,No,No,38,Month-to-month,Fiber,Yes,Electronic check,91.55,3505.86,No
+C00398,PA,0,No,Yes,6,Month-to-month,None,Yes,Bank transfer,49.35,321.71,No
+C00399,DC,0,Yes,No,63,Month-to-month,None,Yes,Bank transfer,47.27,2987.84,No
+C00400,PA,1,Yes,No,41,Two year,None,Yes,Credit card,34.94,1459.65,No
+C00401,PA,0,No,Yes,54,Month-to-month,Fiber,Yes,Credit card,93.57,5073.04,Yes
+C00402,MD,0,Yes,No,35,Month-to-month,None,No,Bank transfer,36.57,1284.65,No
+C00403,DC,0,Yes,No,6,Two year,Fiber,Yes,Electronic check,90.34,567.52,Yes
+C00404,PA,1,Yes,Yes,0,Two year,DSL,No,Credit card,63.25,71.90,No
+C00405,MD,1,Yes,Yes,18,Month-to-month,DSL,No,Credit card,74.17,1335.24,No
+C00406,DC,0,No,No,16,Two year,Fiber,No,Bank transfer,92.64,1499.86,No
+C00407,VA,1,No,No,13,One year,DSL,Yes,Bank transfer,73.86,989.10,Yes
+C00408,VA,0,Yes,No,21,Two year,None,No,Mailed check,32.76,701.80,No
+C00409,PA,0,Yes,Yes,60,Two year,DSL,Yes,Credit card,68.22,4103.64,No
+C00410,MD,0,Yes,No,52,Month-to-month,None,No,Electronic check,29.81,1574.53,No
+C00411,NC,0,Yes,Yes,67,Two year,DSL,No,Bank transfer,66.05,4443.92,No
+C00412,DC,0,Yes,Yes,2,Month-to-month,DSL,No,Mailed check,70.41,144.37,Yes
+C00413,PA,0,Yes,No,7,One year,None,Yes,Mailed check,40.45,309.46,No
+C00414,DC,0,No,No,58,Month-to-month,Fiber,Yes,Mailed check,93.92,5462.30,No
+C00415,NC,0,No,Yes,14,One year,Fiber,Yes,Electronic check,89.34,1264.10,No
+C00416,DC,0,Yes,Yes,63,One year,DSL,No,Bank transfer,61.11,3862.88,Yes
+C00417,DC,0,Yes,No,3,Two year,Fiber,No,Electronic check,86.23,269.43,No
+C00418,PA,0,Yes,Yes,4,One year,None,No,Bank transfer,25.08,110.97,No
+C00419,NC,0,No,Yes,29,Two year,DSL,No,Mailed check,71.22,2083.06,No
+C00420,DC,1,No,Yes,72,Month-to-month,DSL,No,Mailed check,58.41,4207.54,No
+C00421,NC,0,No,No,27,One year,None,Yes,Mailed check,34.30,929.66,No
+C00422,VA,1,Yes,Yes,27,One year,DSL,No,Electronic check,56.53,1554.16,No
+C00423,NC,0,Yes,No,70,One year,DSL,Yes,Credit card,66.88,4704.81,No
+C00424,NC,0,No,No,39,One year,DSL,No,Bank transfer,63.36,2500.44,Yes
+C00425,NC,1,No,No,4,Two year,Fiber,No,Credit card,91.53,395.53,Yes
+C00426,DC,1,No,Yes,21,Two year,Fiber,No,Electronic check,93.26,1978.49,No
+C00427,PA,0,No,Yes,50,One year,Fiber,No,Credit card,86.04,4307.37,No
+C00428,DC,0,Yes,Yes,6,Month-to-month,None,No,Electronic check,33.15,215.36,Yes
+C00429,VA,0,Yes,Yes,45,One year,None,No,Credit card,33.68,1520.90,Yes
+C00430,DC,0,No,Yes,36,One year,DSL,Yes,Mailed check,78.88,2862.83,No
+C00431,VA,0,Yes,No,18,Month-to-month,None,No,Bank transfer,31.69,579.95,No
+C00432,NC,0,Yes,Yes,2,One year,DSL,Yes,Electronic check,67.93,145.98,No
+C00433,MD,0,Yes,No,54,Month-to-month,DSL,No,Credit card,56.12,3040.28,Yes
+C00434,NC,0,Yes,Yes,15,Month-to-month,DSL,No,Credit card,60.28,909.89,No
+C00435,VA,1,No,No,46,Two year,Fiber,No,Bank transfer,90.80,4179.94,No
+C00436,NC,0,No,Yes,2,Two year,Fiber,Yes,Mailed check,93.56,190.80,No
+C00437,DC,0,No,Yes,41,One year,DSL,Yes,Mailed check,74.62,3069.04,No
+C00438,DC,0,Yes,Yes,48,One year,None,Yes,Electronic check,44.45,2148.88,No
+C00439,NC,0,No,Yes,38,One year,DSL,Yes,Electronic check,81.09,3102.58,No
+C00440,PA,0,Yes,Yes,36,Month-to-month,None,No,Bank transfer,30.32,1116.00,No
+C00441,PA,0,Yes,Yes,15,Month-to-month,None,No,Credit card,36.07,550.40,Yes
+C00442,NC,0,No,No,38,One year,None,Yes,Mailed check,45.16,1744.23,No
+C00443,NC,0,No,Yes,59,Two year,Fiber,No,Electronic check,87.80,5194.71,No
+C00444,VA,0,Yes,Yes,70,One year,None,No,Credit card,31.69,2229.70,No
+C00445,NC,0,Yes,No,10,One year,Fiber,No,Credit card,87.22,891.24,No
+C00446,PA,0,Yes,Yes,22,Two year,None,No,Electronic check,25.78,573.03,No
+C00447,VA,0,Yes,Yes,70,Two year,DSL,Yes,Electronic check,74.42,5237.88,No
+C00448,DC,1,No,No,41,Month-to-month,None,Yes,Bank transfer,51.08,2118.35,No
+C00449,MD,0,No,No,51,Month-to-month,None,Yes,Electronic check,41.48,2137.08,Yes
+C00450,VA,0,No,No,64,Two year,Fiber,No,Electronic check,95.96,6156.87,No
+C00451,VA,0,Yes,No,36,Two year,Fiber,No,Mailed check,97.44,3528.75,Yes
+C00452,DC,0,Yes,No,34,Two year,None,Yes,Mailed check,40.61,1410.58,No
+C00453,MD,0,No,No,35,Two year,Fiber,No,Bank transfer,83.62,2928.51,Yes
+C00454,DC,0,Yes,Yes,61,One year,None,Yes,Electronic check,38.46,2360.35,No
+C00455,DC,0,Yes,No,31,Two year,None,No,Electronic check,29.11,912.83,No
+C00456,PA,1,Yes,No,22,One year,None,Yes,Bank transfer,43.83,987.11,No
+C00457,MD,0,Yes,Yes,54,One year,None,Yes,Credit card,48.55,2625.63,No
+C00458,MD,0,No,Yes,68,Two year,DSL,No,Credit card,59.82,4069.96,No
+C00459,NC,0,No,No,49,Month-to-month,None,Yes,Credit card,36.17,1786.95,Yes
+C00460,PA,0,Yes,No,44,One year,Fiber,Yes,Electronic check,108.47,4794.59,No
+C00461,DC,0,Yes,No,67,One year,None,Yes,Electronic check,38.05,2559.46,No
+C00462,MD,0,No,Yes,43,Two year,DSL,No,Bank transfer,71.16,3076.71,No
+C00463,VA,0,No,Yes,37,One year,None,No,Electronic check,42.64,1594.50,No
+C00464,VA,0,Yes,Yes,18,Month-to-month,None,No,Mailed check,35.23,641.96,No
+C00465,MD,0,Yes,Yes,1,Month-to-month,DSL,No,Mailed check,63.53,91.98,No
+C00466,VA,0,No,No,18,Two year,Fiber,Yes,Electronic check,90.92,1648.80,No
+C00467,PA,0,No,No,1,Two year,None,Yes,Bank transfer,48.51,75.59,No
+C00468,DC,0,Yes,No,64,Month-to-month,DSL,Yes,Bank transfer,76.48,4907.21,No
+C00469,DC,0,Yes,Yes,1,Two year,Fiber,Yes,Credit card,100.78,102.15,No
+C00470,PA,0,No,Yes,63,Month-to-month,Fiber,No,Credit card,93.59,5904.08,No
+C00471,PA,0,No,No,36,One year,None,Yes,Bank transfer,50.55,1836.77,No
+C00472,NC,1,Yes,No,26,Month-to-month,DSL,No,Bank transfer,57.03,1510.21,No
+C00473,DC,0,Yes,No,29,Two year,Fiber,Yes,Electronic check,106.73,3108.08,No
+C00474,DC,0,No,Yes,25,Two year,Fiber,No,Credit card,96.51,2437.79,No
+C00475,PA,0,Yes,Yes,66,Month-to-month,Fiber,No,Electronic check,87.02,5753.69,Yes
+C00476,MD,0,Yes,Yes,17,One year,Fiber,Yes,Mailed check,108.90,1881.06,No
+C00477,MD,0,Yes,Yes,36,Two year,DSL,Yes,Credit card,78.16,2831.81,No
+C00478,DC,0,No,No,68,Month-to-month,None,No,Electronic check,28.56,1969.49,No
+C00479,VA,1,No,Yes,25,Two year,Fiber,Yes,Electronic check,102.44,2581.22,No
+C00480,VA,1,No,Yes,6,One year,DSL,Yes,Electronic check,74.03,456.98,No
+C00481,NC,0,Yes,No,0,Month-to-month,Fiber,Yes,Mailed check,96.51,116.24,No
+C00482,MD,0,Yes,Yes,52,One year,Fiber,Yes,Electronic check,92.93,4840.01,Yes
+C00483,MD,0,Yes,No,31,One year,Fiber,No,Bank transfer,92.34,2878.94,No
+C00484,NC,0,No,No,5,One year,None,No,Bank transfer,33.07,178.13,No
+C00485,DC,0,No,Yes,24,Month-to-month,Fiber,No,Mailed check,82.58,1989.32,Yes
+C00486,VA,0,Yes,No,72,Month-to-month,None,No,Mailed check,31.90,2311.76,No
+C00487,VA,0,No,No,56,One year,DSL,No,Credit card,74.00,4158.78,No
+C00488,PA,0,No,Yes,22,Two year,None,No,Credit card,26.10,591.68,No
+C00489,MD,0,Yes,Yes,9,Month-to-month,None,Yes,Electronic check,49.31,459.33,Yes
+C00490,MD,0,Yes,No,57,One year,None,Yes,Credit card,47.55,2715.13,No
+C00491,MD,0,Yes,Yes,28,One year,DSL,Yes,Electronic check,75.19,2120.92,No
+C00492,NC,0,Yes,Yes,20,Two year,None,Yes,Credit card,39.40,811.80,No
+C00493,PA,0,Yes,No,48,One year,DSL,No,Bank transfer,66.51,3193.87,Yes
+C00494,PA,0,Yes,Yes,15,Two year,Fiber,No,Credit card,90.53,1373.96,No
+C00495,VA,0,Yes,Yes,11,One year,DSL,Yes,Mailed check,74.94,824.62,No
+C00496,MD,0,No,No,25,Month-to-month,None,Yes,Mailed check,48.17,1211.25,No
+C00497,DC,0,Yes,Yes,20,Two year,Fiber,No,Mailed check,97.64,1975.03,No
+C00498,NC,0,No,No,69,One year,None,No,Bank transfer,28.81,2006.55,Yes
+C00499,PA,0,No,Yes,18,Month-to-month,Fiber,Yes,Bank transfer,102.31,1861.57,Yes
+C00500,PA,0,Yes,No,10,Month-to-month,Fiber,No,Bank transfer,83.33,840.78,No
+C00501,PA,1,Yes,Yes,61,Two year,DSL,No,Electronic check,74.49,4570.23,Yes
+C00502,MD,0,No,No,50,Month-to-month,Fiber,No,Credit card,88.42,4424.69,No
+C00503,VA,0,No,No,42,Month-to-month,Fiber,No,Electronic check,95.07,4007.78,No
+C00504,PA,1,No,No,1,Month-to-month,None,Yes,Mailed check,48.22,58.09,Yes
+C00505,NC,0,Yes,Yes,11,Two year,DSL,No,Credit card,70.04,797.30,No
+C00506,NC,0,Yes,No,40,Two year,None,Yes,Electronic check,50.21,2017.48,No
+C00507,VA,0,No,Yes,16,One year,DSL,No,Electronic check,58.53,956.83,No
+C00508,PA,0,No,Yes,33,Month-to-month,Fiber,No,Electronic check,83.38,2752.20,No
+C00509,PA,1,No,Yes,31,One year,Fiber,No,Electronic check,95.11,2962.31,No
+C00510,VA,0,Yes,Yes,38,Two year,None,Yes,Mailed check,38.61,1495.86,No
+C00511,DC,0,No,Yes,62,Month-to-month,Fiber,No,Electronic check,92.24,5736.02,Yes
+C00512,PA,0,Yes,No,40,One year,DSL,No,Credit card,57.30,2318.46,Yes
+C00513,PA,0,Yes,Yes,49,One year,None,Yes,Credit card,45.15,2222.94,No
+C00514,NC,1,No,No,65,Two year,Fiber,No,Mailed check,90.33,5883.47,No
+C00515,MD,1,No,No,14,Two year,Fiber,No,Mailed check,96.75,1371.95,Yes
+C00516,MD,1,No,Yes,30,One year,None,No,Bank transfer,37.15,1126.69,No
+C00517,NC,0,Yes,No,13,One year,None,Yes,Mailed check,51.01,674.39,Yes
+C00518,DC,1,No,Yes,51,One year,DSL,Yes,Bank transfer,81.19,4149.75,No
+C00519,PA,0,Yes,No,34,Month-to-month,DSL,Yes,Bank transfer,76.38,2601.86,No
+C00520,PA,0,No,Yes,46,Two year,DSL,No,Electronic check,71.54,3320.14,Yes
+C00521,NC,0,Yes,Yes,69,One year,Fiber,Yes,Mailed check,91.64,6333.69,No
+C00522,PA,0,No,No,15,One year,None,No,Credit card,28.80,453.58,No
+C00523,VA,0,Yes,Yes,58,One year,Fiber,No,Credit card,87.92,5121.42,Yes
+C00524,VA,0,No,No,51,One year,None,Yes,Electronic check,49.27,2536.78,No
+C00525,VA,1,No,No,6,Two year,Fiber,Yes,Mailed check,96.91,610.78,No
+C00526,MD,0,Yes,No,17,Month-to-month,DSL,No,Bank transfer,63.33,1106.26,No
+C00527,PA,0,Yes,No,47,One year,None,Yes,Bank transfer,47.45,2247.61,No
+C00528,PA,0,Yes,Yes,32,One year,Fiber,Yes,Credit card,106.10,3419.43,No
+C00529,PA,0,Yes,No,21,One year,None,Yes,Bank transfer,48.28,1040.48,No
+C00530,PA,0,Yes,Yes,51,Two year,Fiber,Yes,Credit card,102.30,5236.91,No
+C00531,NC,0,Yes,No,22,Two year,Fiber,No,Bank transfer,99.04,2203.88,No
+C00532,PA,0,Yes,No,33,One year,Fiber,Yes,Credit card,107.46,3565.77,No
+C00533,VA,0,Yes,No,20,Two year,Fiber,No,Mailed check,95.60,1926.19,Yes
+C00534,NC,0,No,Yes,1,Two year,Fiber,No,Bank transfer,89.26,102.29,No
+C00535,PA,1,Yes,No,19,One year,DSL,No,Bank transfer,67.51,1294.65,No
+C00536,PA,0,No,Yes,41,Two year,None,No,Electronic check,27.23,1134.68,No
+C00537,MD,0,No,No,16,Month-to-month,Fiber,No,Credit card,93.86,1527.88,Yes
+C00538,DC,0,Yes,Yes,38,Month-to-month,DSL,Yes,Electronic check,82.60,3143.19,No
+C00539,VA,0,No,No,53,One year,DSL,No,Credit card,69.20,3693.91,No
+C00540,NC,0,Yes,No,18,Two year,None,No,Electronic check,26.48,492.11,Yes
+C00541,NC,0,Yes,No,11,Month-to-month,DSL,Yes,Bank transfer,65.91,752.07,Yes
+C00542,DC,0,Yes,No,69,One year,Fiber,Yes,Mailed check,108.26,7489.18,No
+C00543,DC,0,No,Yes,70,Two year,DSL,No,Credit card,64.67,4543.42,No
+C00544,DC,0,No,Yes,4,One year,None,Yes,Electronic check,42.23,190.35,Yes
+C00545,DC,1,Yes,Yes,33,Two year,Fiber,No,Mailed check,93.25,3107.03,No
+C00546,PA,0,Yes,Yes,58,One year,DSL,Yes,Mailed check,76.51,4459.80,No
+C00547,NC,0,No,Yes,57,Month-to-month,Fiber,No,Credit card,85.52,4881.72,No
+C00548,DC,1,Yes,Yes,7,Two year,None,Yes,Credit card,40.17,311.13,No
+C00549,DC,0,Yes,No,20,One year,None,Yes,Credit card,44.75,898.68,No
+C00550,VA,0,Yes,Yes,62,One year,None,No,Mailed check,36.68,2279.52,No
+C00551,DC,0,Yes,Yes,2,Month-to-month,DSL,Yes,Electronic check,75.09,158.83,No
+C00552,DC,0,Yes,Yes,31,Month-to-month,DSL,No,Bank transfer,69.46,2169.28,Yes
+C00553,MD,0,Yes,Yes,68,Month-to-month,Fiber,Yes,Bank transfer,93.40,6374.34,Yes
+C00554,PA,1,Yes,No,41,Month-to-month,Fiber,Yes,Mailed check,103.91,4276.99,Yes
+C00555,PA,0,No,Yes,65,One year,None,Yes,Mailed check,35.22,2305.74,No
+C00556,MD,0,Yes,No,37,Two year,None,Yes,Electronic check,49.43,1852.97,No
+C00557,MD,0,Yes,No,31,Two year,None,No,Mailed check,39.08,1236.41,No
+C00558,NC,0,Yes,No,38,Two year,Fiber,Yes,Bank transfer,93.92,3575.72,No
+C00559,VA,0,No,No,36,Two year,None,No,Mailed check,35.01,1266.53,No
+C00560,PA,0,No,No,47,Month-to-month,Fiber,Yes,Mailed check,102.36,4827.19,Yes
+C00561,MD,0,Yes,No,57,Two year,DSL,Yes,Credit card,77.30,4423.02,No
+C00562,PA,0,No,No,62,Two year,Fiber,Yes,Mailed check,101.74,6316.48,No
+C00563,VA,0,No,Yes,12,One year,DSL,Yes,Electronic check,67.56,835.38,No
+C00564,MD,0,No,Yes,31,One year,DSL,No,Mailed check,64.22,2011.44,Yes
+C00565,MD,0,No,No,42,Month-to-month,None,Yes,Mailed check,49.94,2113.51,No
+C00566,PA,0,No,No,51,Month-to-month,None,No,Credit card,32.47,1670.45,No
+C00567,VA,0,Yes,Yes,4,One year,Fiber,Yes,Electronic check,106.72,433.25,Yes
+C00568,MD,0,No,No,9,Month-to-month,Fiber,No,Bank transfer,81.41,742.03,No
+C00569,PA,0,No,Yes,23,One year,None,No,Electronic check,26.01,614.79,Yes
+C00570,MD,0,Yes,Yes,45,One year,None,Yes,Mailed check,38.02,1716.19,No
+C00571,PA,0,No,No,31,One year,DSL,No,Electronic check,67.85,2115.30,Yes
+C00572,DC,1,No,No,16,One year,DSL,Yes,Electronic check,67.54,1096.61,No
+C00573,DC,0,Yes,No,67,Month-to-month,Fiber,No,Electronic check,82.41,5539.26,Yes
+C00574,NC,1,Yes,No,5,Two year,Fiber,No,Mailed check,97.86,497.24,No
+C00575,VA,0,Yes,Yes,12,Two year,DSL,Yes,Bank transfer,76.57,935.33,No
+C00576,PA,0,Yes,Yes,54,One year,DSL,No,Bank transfer,64.16,3479.21,Yes
+C00577,VA,0,Yes,Yes,7,Two year,DSL,Yes,Bank transfer,80.66,586.96,No
+C00578,NC,0,Yes,No,58,One year,Fiber,No,Credit card,99.80,5791.65,No
+C00579,DC,0,No,No,14,One year,None,No,Electronic check,37.49,552.54,No
+C00580,VA,0,Yes,Yes,55,Two year,DSL,Yes,Electronic check,63.50,3499.82,No
+C00581,NC,0,Yes,No,61,Two year,Fiber,Yes,Mailed check,91.65,5595.75,No
+C00582,PA,0,No,Yes,21,One year,Fiber,No,Credit card,100.70,2128.64,Yes
+C00583,DC,1,Yes,Yes,68,One year,DSL,Yes,Bank transfer,82.99,5666.94,Yes
+C00584,NC,0,No,No,58,Two year,Fiber,Yes,Electronic check,101.23,5894.73,No
+C00585,NC,1,Yes,No,61,Month-to-month,None,Yes,Credit card,44.42,2739.35,No
+C00586,DC,0,No,No,17,Month-to-month,DSL,Yes,Credit card,73.23,1259.23,Yes
+C00587,NC,1,No,No,51,Month-to-month,None,Yes,Mailed check,45.94,2354.04,No
+C00588,MD,0,No,No,23,Two year,DSL,No,Credit card,69.23,1617.63,Yes
+C00589,VA,1,No,Yes,68,Month-to-month,None,Yes,Electronic check,42.88,2923.69,Yes
+C00590,DC,0,Yes,Yes,69,One year,None,Yes,Bank transfer,44.63,3096.17,No
+C00591,NC,1,No,Yes,13,One year,Fiber,No,Electronic check,84.46,1122.53,No
+C00592,PA,0,No,No,6,Month-to-month,Fiber,Yes,Electronic check,90.30,571.34,Yes
+C00593,MD,0,Yes,Yes,37,Two year,DSL,No,Bank transfer,58.55,2194.66,No
+C00594,NC,0,No,Yes,57,Month-to-month,None,Yes,Credit card,37.48,2145.75,Yes
+C00595,MD,0,Yes,No,63,One year,None,No,Credit card,32.69,2061.83,No
+C00596,MD,0,Yes,Yes,49,One year,DSL,Yes,Bank transfer,64.94,3194.67,No
+C00597,VA,0,Yes,No,71,Month-to-month,Fiber,No,Electronic check,87.36,6224.77,No
+C00598,VA,0,No,Yes,44,One year,DSL,Yes,Bank transfer,80.39,3554.23,No
+C00599,PA,0,Yes,Yes,33,Month-to-month,Fiber,No,Mailed check,95.52,3178.39,No
+C00600,PA,0,Yes,No,60,Two year,None,No,Electronic check,32.10,1955.77,No
+C00601,MD,0,Yes,No,16,Two year,DSL,No,Mailed check,64.36,1032.83,No
+C00602,NC,0,Yes,No,16,One year,None,Yes,Electronic check,48.82,786.88,Yes
+C00603,PA,0,Yes,No,23,Two year,None,No,Mailed check,39.34,924.39,No
+C00604,PA,0,No,No,0,Month-to-month,None,Yes,Mailed check,51.91,55.59,No
+C00605,PA,0,No,No,71,One year,DSL,No,Credit card,64.46,4582.63,No
+C00606,MD,1,No,Yes,56,One year,DSL,No,Bank transfer,65.77,3686.71,No
+C00607,MD,0,No,No,70,Two year,DSL,No,Bank transfer,62.78,4409.90,No
+C00608,MD,0,Yes,No,52,One year,DSL,Yes,Bank transfer,82.44,4309.22,No
+C00609,MD,0,No,Yes,24,Month-to-month,Fiber,Yes,Credit card,107.21,2597.01,No
+C00610,DC,0,Yes,Yes,18,One year,Fiber,Yes,Mailed check,96.56,1746.27,Yes
+C00611,MD,0,Yes,No,30,One year,DSL,No,Mailed check,69.51,2087.82,Yes
+C00612,PA,0,Yes,Yes,72,Two year,Fiber,No,Mailed check,100.46,7239.72,No
+C00613,DC,0,No,Yes,10,One year,None,Yes,Credit card,43.56,441.14,No
+C00614,MD,0,No,No,65,Two year,DSL,No,Bank transfer,69.60,4537.22,No
+C00615,VA,0,No,No,49,One year,DSL,No,Mailed check,56.91,2806.50,No
+C00616,PA,1,Yes,No,63,One year,DSL,No,Electronic check,62.19,3925.85,Yes
+C00617,VA,1,No,No,30,Two year,Fiber,No,Credit card,94.55,2841.72,No
+C00618,NC,0,No,No,43,One year,None,No,Mailed check,37.09,1603.66,No
+C00619,PA,0,Yes,No,13,Month-to-month,None,No,Mailed check,38.91,525.69,No
+C00620,MD,0,No,No,54,Two year,Fiber,No,Electronic check,98.00,5322.01,No
+C00621,DC,0,No,No,62,Two year,None,Yes,Electronic check,48.13,3013.80,No
+C00622,PA,0,No,No,28,One year,DSL,No,Bank transfer,55.81,1570.99,No
+C00623,MD,0,Yes,Yes,15,One year,Fiber,No,Credit card,100.65,1520.06,No
+C00624,MD,0,Yes,Yes,63,Month-to-month,Fiber,No,Credit card,99.26,6274.11,No
+C00625,DC,1,No,Yes,14,Month-to-month,DSL,Yes,Mailed check,75.87,1068.47,Yes
+C00626,DC,0,No,No,63,Two year,None,Yes,Electronic check,43.85,2779.49,No
+C00627,PA,0,Yes,No,26,One year,None,Yes,Electronic check,35.30,918.02,No
+C00628,NC,0,No,No,59,One year,None,No,Electronic check,28.98,1736.44,Yes
+C00629,VA,0,No,No,52,One year,DSL,No,Mailed check,57.71,3023.38,No
+C00630,VA,0,No,Yes,45,Two year,DSL,No,Mailed check,65.37,2971.44,No
+C00631,MD,1,No,No,67,One year,Fiber,Yes,Credit card,96.77,6492.97,No
+C00632,NC,0,Yes,No,57,One year,None,No,Bank transfer,44.65,2550.96,No
+C00633,PA,1,No,Yes,47,Month-to-month,Fiber,No,Credit card,88.73,4191.95,Yes
+C00634,NC,0,Yes,No,49,Two year,None,Yes,Mailed check,47.34,2319.56,No
+C00635,PA,0,No,Yes,28,Two year,Fiber,Yes,Mailed check,102.50,2872.46,No
+C00636,NC,0,No,Yes,15,Month-to-month,Fiber,Yes,Electronic check,100.93,1524.26,Yes
+C00637,VA,0,No,Yes,41,Two year,None,Yes,Mailed check,39.89,1648.46,No
+C00638,DC,0,Yes,Yes,66,One year,Fiber,Yes,Electronic check,102.31,6768.39,Yes
+C00639,MD,0,No,No,62,Month-to-month,DSL,Yes,Electronic check,80.15,4979.60,Yes
+C00640,VA,0,No,Yes,6,One year,None,Yes,Electronic check,50.41,303.77,Yes
+C00641,PA,0,No,Yes,67,Two year,DSL,Yes,Credit card,66.76,4482.68,No
+C00642,DC,1,Yes,Yes,39,One year,None,Yes,Credit card,35.13,1371.78,No
+C00643,MD,0,No,Yes,31,One year,DSL,No,Credit card,60.41,1877.33,No
+C00644,VA,0,Yes,No,31,Month-to-month,Fiber,Yes,Credit card,100.41,3141.12,No
+C00645,PA,0,Yes,No,28,Two year,Fiber,No,Bank transfer,96.31,2722.54,No
+C00646,NC,0,Yes,Yes,38,Two year,None,No,Mailed check,33.73,1294.05,No
+C00647,PA,0,No,No,55,Two year,Fiber,No,Bank transfer,83.71,4622.79,No
+C00648,NC,0,Yes,No,53,Two year,DSL,Yes,Credit card,79.67,4239.63,No
+C00649,VA,0,No,Yes,28,Month-to-month,DSL,No,Bank transfer,55.64,1572.90,Yes
+C00650,MD,0,No,No,72,Two year,None,No,Mailed check,27.85,2029.12,No
+C00651,VA,0,Yes,No,24,One year,Fiber,Yes,Mailed check,108.97,2640.51,No
+C00652,NC,0,No,Yes,28,Two year,DSL,Yes,Mailed check,75.10,2111.85,No
+C00653,MD,0,No,Yes,30,Month-to-month,DSL,Yes,Credit card,72.70,2200.41,No
+C00654,MD,0,No,No,50,Two year,Fiber,Yes,Electronic check,93.80,4711.00,No
+C00655,NC,1,No,No,5,One year,Fiber,No,Credit card,84.41,443.61,No
+C00656,MD,1,Yes,Yes,9,One year,Fiber,Yes,Mailed check,90.58,822.03,Yes
+C00657,VA,0,Yes,No,44,Two year,DSL,Yes,Electronic check,75.11,3320.98,No
+C00658,DC,0,Yes,Yes,33,Month-to-month,DSL,No,Electronic check,69.20,2308.75,Yes
+C00659,MD,0,Yes,No,47,One year,DSL,No,Electronic check,58.21,2737.79,No
+C00660,MD,0,Yes,Yes,33,Month-to-month,None,No,Credit card,27.68,917.78,No
+C00661,NC,0,Yes,No,4,Month-to-month,DSL,No,Credit card,60.83,250.83,No
+C00662,MD,0,Yes,No,43,Two year,DSL,Yes,Mailed check,81.74,3517.21,No
+C00663,PA,0,Yes,No,71,Month-to-month,Fiber,Yes,Mailed check,91.32,6496.62,No
+C00664,MD,0,Yes,Yes,7,Two year,DSL,No,Electronic check,70.40,507.46,No
+C00665,MD,0,Yes,No,25,Month-to-month,Fiber,No,Credit card,86.98,2191.50,Yes
+C00666,VA,0,Yes,No,25,Month-to-month,Fiber,No,Credit card,83.92,2110.18,Yes
+C00667,DC,0,Yes,Yes,46,Month-to-month,DSL,No,Bank transfer,60.19,2771.77,No
+C00668,MD,0,No,Yes,33,Month-to-month,Fiber,Yes,Credit card,99.93,3305.45,No
+C00669,VA,0,No,No,67,Two year,Fiber,No,Bank transfer,94.55,6363.46,No
+C00670,NC,0,Yes,No,25,Two year,Fiber,No,Bank transfer,97.83,2469.88,Yes
+C00671,NC,0,Yes,No,23,Two year,DSL,No,Bank transfer,61.52,1444.49,No
+C00672,DC,0,No,No,72,Two year,None,No,Electronic check,25.42,1858.73,Yes
+C00673,MD,0,Yes,Yes,42,Month-to-month,DSL,No,Bank transfer,59.14,2499.30,No
+C00674,NC,0,Yes,No,1,Two year,Fiber,Yes,Mailed check,93.85,101.90,No
+C00675,DC,1,Yes,No,18,One year,DSL,Yes,Mailed check,63.04,1151.42,Yes
+C00676,DC,1,Yes,No,50,Two year,None,No,Bank transfer,28.69,1449.67,No
+C00677,MD,0,No,No,62,One year,None,No,Mailed check,41.76,2615.02,No
+C00678,NC,0,Yes,No,3,Two year,Fiber,Yes,Electronic check,103.43,330.88,No
+C00679,VA,0,Yes,No,47,Two year,DSL,No,Mailed check,62.21,2949.14,No
+C00680,VA,0,Yes,No,39,Two year,Fiber,Yes,Mailed check,107.02,4181.08,No
+C00681,PA,0,No,Yes,36,Two year,None,Yes,Electronic check,35.51,1283.40,No
+C00682,VA,1,Yes,Yes,58,Month-to-month,Fiber,No,Electronic check,85.85,5003.09,No
+C00683,VA,0,Yes,No,11,Two year,None,No,Bank transfer,30.99,350.59,No
+C00684,VA,0,No,No,64,Two year,None,No,Bank transfer,31.86,2063.53,No
+C00685,DC,1,Yes,No,64,Month-to-month,None,No,Bank transfer,38.42,2486.99,No
+C00686,MD,0,No,No,53,Month-to-month,None,No,Mailed check,40.94,2173.94,Yes
+C00687,DC,0,Yes,Yes,18,One year,DSL,No,Credit card,74.60,1368.76,No
+C00688,MD,0,No,Yes,69,One year,None,Yes,Bank transfer,41.61,2875.15,Yes
+C00689,DC,0,No,No,33,One year,DSL,Yes,Mailed check,74.10,2448.97,No
+C00690,MD,1,No,Yes,67,Two year,None,No,Electronic check,41.87,2833.36,No
+C00691,DC,0,No,Yes,53,One year,DSL,Yes,Electronic check,68.27,3638.64,No
+C00692,NC,0,Yes,Yes,16,Month-to-month,Fiber,Yes,Credit card,94.38,1517.83,Yes
+C00693,VA,1,Yes,Yes,15,Two year,DSL,No,Electronic check,70.56,1086.46,Yes
+C00694,VA,0,Yes,No,28,Two year,None,No,Electronic check,39.85,1119.55,No
+C00695,PA,0,Yes,Yes,7,One year,Fiber,No,Bank transfer,83.99,594.19,Yes
+C00696,PA,0,Yes,No,66,Month-to-month,Fiber,Yes,Credit card,100.69,6658.20,Yes
+C00697,PA,0,Yes,Yes,4,Two year,None,No,Electronic check,38.95,180.64,No
+C00698,VA,1,Yes,Yes,45,Month-to-month,DSL,No,Credit card,58.92,2657.47,No
+C00699,PA,1,No,No,2,Month-to-month,DSL,Yes,Mailed check,67.23,139.40,No
+C00700,MD,0,No,No,26,Two year,Fiber,Yes,Electronic check,92.28,2426.34,Yes
+C00701,DC,0,Yes,No,21,One year,None,Yes,Bank transfer,42.29,901.30,No
+C00702,PA,0,No,Yes,70,One year,Fiber,Yes,Electronic check,102.68,7194.38,No
+C00703,MD,0,Yes,Yes,61,Month-to-month,DSL,Yes,Mailed check,63.74,3899.16,No
+C00704,VA,0,Yes,No,38,One year,Fiber,Yes,Bank transfer,94.81,3632.70,Yes
+C00705,VA,1,Yes,No,5,Two year,DSL,No,Bank transfer,64.20,337.00,No
+C00706,NC,0,Yes,No,4,Month-to-month,None,Yes,Electronic check,51.06,225.38,Yes
+C00707,DC,1,Yes,Yes,61,Two year,DSL,No,Bank transfer,68.25,4185.01,No
+C00708,VA,0,No,Yes,28,Two year,DSL,Yes,Bank transfer,66.65,1894.13,No
+C00709,MD,1,No,Yes,56,Two year,DSL,No,Credit card,69.74,3932.10,No
+C00710,NC,0,No,No,25,One year,Fiber,No,Mailed check,85.04,2143.09,Yes
+C00711,MD,0,No,Yes,63,Month-to-month,DSL,No,Credit card,55.27,3486.49,No
+C00712,PA,1,Yes,No,27,Month-to-month,Fiber,Yes,Electronic check,97.59,2659.74,No
+C00713,DC,0,No,Yes,36,Month-to-month,DSL,No,Credit card,64.03,2315.07,No
+C00714,VA,0,Yes,Yes,27,Month-to-month,Fiber,No,Bank transfer,81.42,2201.62,Yes
+C00715,DC,0,Yes,Yes,46,Two year,None,No,Mailed check,31.79,1478.81,No
+C00716,VA,1,Yes,No,61,One year,None,Yes,Mailed check,41.62,2557.43,No
+C00717,VA,0,No,No,34,Month-to-month,DSL,No,Credit card,61.13,2094.85,No
+C00718,DC,0,No,Yes,28,One year,Fiber,Yes,Bank transfer,95.58,2702.60,No
+C00719,MD,0,No,No,18,Two year,None,Yes,Credit card,46.06,850.51,No
+C00720,DC,0,No,Yes,35,One year,Fiber,No,Bank transfer,97.69,3448.39,Yes
+C00721,NC,0,Yes,No,37,Two year,None,Yes,Credit card,52.69,1953.52,No
+C00722,VA,1,No,No,46,Two year,DSL,Yes,Credit card,64.21,2973.48,No
+C00723,VA,1,Yes,Yes,43,One year,DSL,Yes,Electronic check,66.34,2860.03,No
+C00724,PA,0,Yes,No,54,Two year,Fiber,No,Electronic check,100.42,5431.01,No
+C00725,NC,0,Yes,No,32,Two year,Fiber,Yes,Mailed check,100.75,3238.22,No
+C00726,PA,0,Yes,Yes,64,Month-to-month,None,Yes,Mailed check,44.04,2831.66,No
+C00727,VA,0,Yes,Yes,56,Month-to-month,None,No,Electronic check,39.65,2236.33,No
+C00728,PA,0,Yes,No,23,One year,None,No,Mailed check,30.87,726.42,No
+C00729,NC,0,No,No,38,Month-to-month,None,Yes,Electronic check,34.48,1331.08,No
+C00730,PA,0,Yes,No,62,One year,Fiber,Yes,Mailed check,108.66,6743.59,No
+C00731,DC,0,No,Yes,43,Two year,DSL,No,Mailed check,60.49,2621.59,No
+C00732,NC,0,No,No,39,One year,Fiber,Yes,Credit card,105.30,4117.25,No
+C00733,VA,0,Yes,Yes,67,Month-to-month,DSL,Yes,Mailed check,76.94,5172.34,No
+C00734,PA,0,Yes,No,44,One year,Fiber,No,Mailed check,97.20,4280.17,No
+C00735,DC,0,Yes,Yes,67,Two year,Fiber,Yes,Bank transfer,93.65,6286.89,No
+C00736,PA,0,Yes,Yes,60,Month-to-month,None,No,Credit card,35.92,2178.03,No
+C00737,VA,0,Yes,No,9,Month-to-month,None,Yes,Bank transfer,41.79,393.23,No
+C00738,PA,0,No,Yes,2,One year,None,Yes,Mailed check,37.11,79.42,No
+C00739,DC,0,No,No,16,Month-to-month,DSL,No,Bank transfer,74.88,1200.23,No
+C00740,DC,1,No,No,9,Month-to-month,DSL,No,Bank transfer,73.61,671.66,Yes
+C00741,MD,1,Yes,Yes,27,Two year,Fiber,No,Electronic check,90.09,2451.06,No
+C00742,MD,1,No,No,19,One year,Fiber,No,Mailed check,90.90,1738.28,Yes
+C00743,DC,0,Yes,Yes,65,Month-to-month,Fiber,No,Electronic check,87.73,5716.94,Yes
+C00744,NC,0,Yes,Yes,27,Month-to-month,DSL,Yes,Electronic check,68.71,1881.85,Yes
+C00745,PA,0,No,Yes,8,One year,None,Yes,Bank transfer,43.04,349.71,Yes
+C00746,DC,0,Yes,No,7,Month-to-month,None,Yes,Bank transfer,44.92,330.09,Yes
+C00747,VA,0,No,No,56,Two year,Fiber,Yes,Bank transfer,106.21,5976.86,Yes
+C00748,PA,0,No,No,65,Two year,DSL,Yes,Mailed check,67.74,4425.01,No
+C00749,NC,1,No,Yes,32,One year,DSL,No,Credit card,62.68,2010.13,No
+C00750,PA,0,Yes,Yes,36,One year,Fiber,Yes,Credit card,98.07,3537.38,Yes
+C00751,MD,1,Yes,No,40,Two year,Fiber,Yes,Electronic check,97.62,3910.99,No
+C00752,VA,0,Yes,Yes,60,One year,Fiber,Yes,Bank transfer,92.17,5538.97,No
+C00753,DC,0,No,No,37,One year,None,Yes,Credit card,40.73,1529.33,No
+C00754,VA,1,No,Yes,69,Two year,None,Yes,Electronic check,42.55,2961.09,No
+C00755,DC,0,No,No,16,One year,None,Yes,Mailed check,45.25,730.93,No
+C00756,NC,0,Yes,No,45,Month-to-month,DSL,Yes,Bank transfer,75.15,3389.54,Yes
+C00757,VA,1,No,Yes,71,Month-to-month,Fiber,Yes,Electronic check,103.24,7346.41,Yes
+C00758,DC,0,No,No,69,Month-to-month,None,Yes,Credit card,52.67,3643.00,No
+C00759,PA,1,No,Yes,37,Month-to-month,Fiber,No,Mailed check,83.12,3086.29,Yes
+C00760,MD,1,No,Yes,32,Two year,DSL,Yes,Mailed check,78.28,2517.63,No
+C00761,VA,0,Yes,Yes,36,One year,None,No,Credit card,43.42,1572.96,No
+C00762,PA,0,Yes,No,30,Month-to-month,Fiber,Yes,Bank transfer,101.50,3052.28,No
+C00763,PA,0,No,Yes,21,Two year,None,No,Electronic check,28.80,607.39,No
+C00764,MD,0,Yes,No,44,Two year,Fiber,Yes,Credit card,106.35,4698.72,No
+C00765,NC,0,No,Yes,4,One year,None,No,Credit card,32.35,131.00,No
+C00766,MD,1,No,Yes,12,One year,DSL,Yes,Credit card,79.73,979.76,No
+C00767,DC,0,No,No,5,One year,DSL,No,Electronic check,58.09,292.44,Yes
+C00768,VA,0,No,No,72,Two year,Fiber,Yes,Bank transfer,102.10,7374.61,No
+C00769,MD,0,Yes,Yes,36,Month-to-month,Fiber,No,Bank transfer,93.74,3398.80,No
+C00770,MD,0,Yes,Yes,22,One year,None,Yes,Mailed check,38.34,857.83,No
+C00771,PA,0,No,No,26,Two year,Fiber,Yes,Electronic check,103.78,2699.53,No
+C00772,NC,0,Yes,Yes,40,Two year,DSL,Yes,Electronic check,78.94,3177.50,No
+C00773,DC,0,No,Yes,67,One year,Fiber,Yes,Electronic check,108.67,7302.52,No
+C00774,MD,1,Yes,No,49,Two year,Fiber,Yes,Mailed check,93.37,4586.79,No
+C00775,VA,1,No,Yes,15,Month-to-month,None,No,Bank transfer,36.43,569.72,No
+C00776,PA,0,No,No,48,One year,Fiber,No,Bank transfer,87.74,4240.70,No
+C00777,MD,0,Yes,Yes,8,Month-to-month,Fiber,No,Mailed check,96.37,797.89,No
+C00778,NC,0,Yes,Yes,25,Month-to-month,Fiber,No,Electronic check,82.69,2092.77,No
+C00779,MD,0,Yes,Yes,39,Month-to-month,DSL,No,Bank transfer,67.12,2646.74,No
+C00780,MD,0,Yes,No,46,Month-to-month,Fiber,No,Electronic check,83.56,3850.06,No
+C00781,PA,0,Yes,Yes,2,One year,Fiber,No,Electronic check,98.92,210.00,Yes
+C00782,VA,0,Yes,No,70,One year,Fiber,Yes,Electronic check,104.74,7346.92,No
+C00783,VA,0,Yes,No,47,Month-to-month,DSL,Yes,Bank transfer,74.14,3492.33,No
+C00784,VA,0,No,Yes,7,One year,Fiber,Yes,Bank transfer,94.38,680.49,Yes
+C00785,VA,1,Yes,Yes,13,Month-to-month,Fiber,No,Bank transfer,86.05,1123.09,No
+C00786,MD,1,No,Yes,18,Two year,DSL,Yes,Mailed check,67.26,1217.43,No
+C00787,DC,0,No,No,46,One year,Fiber,No,Credit card,87.84,4042.11,Yes
+C00788,DC,0,No,Yes,35,One year,None,No,Mailed check,35.91,1264.63,No
+C00789,MD,0,Yes,Yes,6,One year,Fiber,No,Credit card,83.87,528.24,Yes
+C00790,PA,0,Yes,No,32,Month-to-month,Fiber,Yes,Bank transfer,102.06,3267.21,No
+C00791,VA,0,Yes,Yes,58,One year,Fiber,No,Mailed check,91.27,5311.36,No
+C00792,VA,0,Yes,Yes,30,Month-to-month,None,Yes,Mailed check,50.26,1525.98,No
+C00793,MD,0,No,No,51,Month-to-month,Fiber,Yes,Credit card,103.61,5311.58,Yes
+C00794,DC,1,No,Yes,49,Month-to-month,DSL,Yes,Mailed check,67.79,3323.73,No
+C00795,NC,0,Yes,No,10,Two year,Fiber,Yes,Bank transfer,103.01,1054.30,No
+C00796,PA,0,No,Yes,13,One year,Fiber,Yes,Mailed check,102.77,1361.11,Yes
+C00797,MD,0,No,Yes,67,Two year,None,Yes,Bank transfer,42.37,2854.82,No
+C00798,MD,0,Yes,Yes,36,Month-to-month,None,Yes,Bank transfer,40.63,1477.24,No
+C00799,VA,0,Yes,Yes,55,Month-to-month,Fiber,No,Bank transfer,81.90,4512.01,Yes
+C00800,MD,0,Yes,No,11,Two year,None,Yes,Mailed check,42.69,488.28,No
+C00801,DC,0,Yes,Yes,66,Month-to-month,Fiber,No,Electronic check,91.90,6077.98,Yes
+C00802,DC,0,Yes,Yes,17,Month-to-month,DSL,Yes,Bank transfer,67.10,1153.39,No
+C00803,MD,0,No,No,20,One year,DSL,Yes,Credit card,75.78,1517.64,No
+C00804,VA,0,No,Yes,18,One year,DSL,Yes,Electronic check,65.97,1189.39,No
+C00805,MD,1,No,Yes,46,One year,Fiber,Yes,Bank transfer,95.32,4410.60,No
+C00806,PA,0,No,Yes,34,One year,DSL,Yes,Mailed check,82.78,2842.37,No
+C00807,VA,1,Yes,Yes,24,Month-to-month,Fiber,No,Electronic check,100.22,2433.88,Yes
+C00808,MD,0,No,Yes,25,Two year,None,Yes,Bank transfer,42.02,1069.47,No
+C00809,NC,0,No,Yes,16,Two year,None,Yes,Bank transfer,47.87,785.78,No
+C00810,DC,0,No,No,34,Two year,Fiber,No,Mailed check,93.07,3191.30,No
+C00811,PA,0,No,Yes,69,One year,None,No,Mailed check,31.34,2162.79,No
+C00812,PA,0,No,No,50,Month-to-month,None,No,Credit card,34.41,1724.62,No
+C00813,MD,1,No,No,35,Two year,DSL,Yes,Electronic check,79.68,2789.49,No
+C00814,NC,0,Yes,Yes,46,One year,DSL,Yes,Credit card,81.94,3769.37,No
+C00815,DC,0,No,No,3,One year,DSL,No,Bank transfer,60.46,205.20,Yes
+C00816,DC,0,Yes,Yes,31,One year,DSL,No,Mailed check,55.68,1744.66,No
+C00817,VA,0,Yes,Yes,20,One year,DSL,No,Bank transfer,56.51,1145.60,No
+C00818,PA,0,Yes,No,66,Month-to-month,DSL,No,Credit card,62.66,4155.49,No
+C00819,DC,0,Yes,No,58,One year,Fiber,Yes,Electronic check,90.96,5279.72,Yes
+C00820,VA,0,Yes,Yes,68,One year,DSL,Yes,Bank transfer,66.05,4500.98,Yes
+C00821,DC,0,No,No,71,Two year,DSL,Yes,Bank transfer,80.49,5715.47,No
+C00822,PA,0,Yes,Yes,17,One year,None,No,Electronic check,28.57,514.43,No
+C00823,PA,1,No,No,8,One year,None,No,Credit card,28.92,237.08,Yes
+C00824,PA,0,No,Yes,24,Two year,DSL,Yes,Bank transfer,72.17,1751.20,No
+C00825,VA,0,No,No,65,Month-to-month,Fiber,Yes,Bank transfer,108.89,7097.12,Yes
+C00826,NC,1,Yes,Yes,0,One year,None,Yes,Mailed check,51.85,67.70,Yes
+C00827,VA,0,Yes,Yes,8,Two year,DSL,No,Electronic check,65.96,535.98,No
+C00828,VA,0,Yes,Yes,64,Month-to-month,None,No,Mailed check,37.90,2455.28,No
+C00829,VA,0,Yes,Yes,56,Month-to-month,DSL,No,Credit card,74.84,4211.99,Yes
+C00830,PA,0,Yes,No,34,Month-to-month,None,No,Electronic check,26.22,909.21,No
+C00831,DC,0,Yes,Yes,34,Two year,None,Yes,Bank transfer,35.94,1248.41,No
+C00832,PA,0,No,No,31,Month-to-month,None,No,Bank transfer,43.03,1359.08,Yes
+C00833,PA,1,Yes,Yes,9,Month-to-month,DSL,Yes,Credit card,76.12,702.49,No
+C00834,PA,0,Yes,No,14,Month-to-month,None,Yes,Mailed check,35.73,524.64,Yes
+C00835,MD,0,No,No,68,One year,Fiber,No,Bank transfer,89.73,6118.78,No
+C00836,PA,0,No,Yes,63,One year,DSL,No,Mailed check,62.05,3926.02,No
+C00837,NC,0,Yes,No,55,One year,DSL,No,Credit card,63.87,3535.56,No
+C00838,DC,0,No,Yes,35,Two year,DSL,No,Mailed check,63.48,2230.62,No
+C00839,MD,0,Yes,No,53,Two year,DSL,Yes,Mailed check,77.95,4159.43,No
+C00840,NC,0,Yes,No,39,Two year,None,No,Credit card,34.88,1373.50,Yes
+C00841,MD,0,No,Yes,14,One year,None,Yes,Credit card,51.39,738.95,No
+C00842,DC,0,No,No,61,Month-to-month,None,Yes,Credit card,38.41,2356.85,No
+C00843,DC,0,Yes,No,72,Two year,Fiber,Yes,Mailed check,103.72,7483.54,No
+C00844,NC,1,No,Yes,50,One year,DSL,No,Bank transfer,67.65,3398.70,No
+C00845,NC,0,Yes,Yes,3,One year,None,No,Mailed check,28.82,106.30,No
+C00846,MD,1,No,Yes,27,One year,Fiber,No,Credit card,92.01,2485.35,No
+C00847,DC,1,No,Yes,16,One year,Fiber,No,Electronic check,97.43,1581.60,No
+C00848,PA,0,Yes,No,67,Two year,None,Yes,Electronic check,39.40,2661.91,No
+C00849,DC,0,No,Yes,39,One year,DSL,Yes,Mailed check,69.95,2728.61,No
+C00850,VA,0,No,No,19,One year,None,Yes,Electronic check,35.10,695.72,Yes
+C00851,DC,0,No,Yes,51,Two year,DSL,Yes,Credit card,75.45,3875.62,No
+C00852,VA,0,No,No,44,One year,None,Yes,Electronic check,48.90,2167.33,Yes
+C00853,NC,1,Yes,No,66,Month-to-month,DSL,No,Bank transfer,72.94,4837.52,No
+C00854,MD,1,Yes,Yes,14,One year,Fiber,Yes,Bank transfer,92.55,1306.16,No
+C00855,MD,0,Yes,No,71,One year,DSL,No,Electronic check,62.92,4469.34,No
+C00856,PA,0,Yes,Yes,24,Month-to-month,Fiber,Yes,Electronic check,97.33,2338.68,No
+C00857,PA,1,Yes,No,59,Two year,None,No,Credit card,29.10,1737.90,No
+C00858,VA,0,No,Yes,55,Month-to-month,None,No,Mailed check,42.05,2324.73,Yes
+C00859,NC,0,Yes,Yes,15,Two year,DSL,Yes,Credit card,72.49,1115.09,No
+C00860,VA,0,No,No,23,Month-to-month,None,No,Credit card,27.08,627.77,Yes
+C00861,NC,0,No,No,61,Month-to-month,Fiber,No,Mailed check,99.60,6082.68,No
+C00862,PA,0,Yes,No,69,Month-to-month,Fiber,Yes,Bank transfer,98.86,6832.54,Yes
+C00863,DC,0,Yes,No,52,Month-to-month,DSL,Yes,Credit card,77.04,4033.24,No
+C00864,VA,0,Yes,No,67,One year,None,No,Credit card,40.47,2740.95,No
+C00865,VA,1,Yes,Yes,63,Two year,DSL,No,Credit card,64.23,4061.06,Yes
+C00866,NC,0,No,No,40,One year,Fiber,No,Credit card,84.57,3396.45,No
+C00867,PA,0,Yes,Yes,25,One year,DSL,No,Bank transfer,72.47,1841.62,No
+C00868,DC,0,Yes,Yes,72,One year,None,Yes,Electronic check,48.52,3499.82,No
+C00869,PA,0,Yes,No,40,One year,None,No,Mailed check,32.18,1288.74,No
+C00870,NC,0,Yes,No,43,Month-to-month,Fiber,Yes,Credit card,91.81,3971.63,Yes
+C00871,DC,0,No,No,66,Month-to-month,Fiber,Yes,Bank transfer,92.44,6121.67,No
+C00872,PA,0,No,No,26,Two year,Fiber,No,Electronic check,87.68,2307.52,No
+C00873,DC,1,Yes,No,54,Month-to-month,Fiber,No,Bank transfer,96.77,5226.64,No
+C00874,NC,0,No,Yes,59,Two year,Fiber,No,Bank transfer,85.05,5028.34,No
+C00875,PA,0,No,No,47,Month-to-month,Fiber,Yes,Bank transfer,101.11,4779.74,No
+C00876,NC,1,No,Yes,17,One year,None,No,Bank transfer,44.61,773.11,Yes
+C00877,MD,1,Yes,Yes,69,Two year,DSL,No,Electronic check,74.17,5117.80,No
+C00878,PA,0,No,No,4,Two year,Fiber,No,Mailed check,85.31,368.03,No
+C00879,PA,0,No,No,48,One year,DSL,No,Credit card,63.87,3068.32,No
+C00880,DC,0,Yes,No,51,Month-to-month,None,No,Electronic check,44.90,2305.99,No
+C00881,PA,0,No,Yes,52,Two year,None,Yes,Mailed check,44.20,2324.22,No
+C00882,MD,0,Yes,Yes,51,Two year,DSL,No,Mailed check,64.93,3338.40,No
+C00883,NC,0,Yes,No,26,One year,DSL,No,Credit card,68.16,1797.09,No
+C00884,NC,0,Yes,Yes,7,One year,None,Yes,Electronic check,49.82,375.54,No
+C00885,MD,0,Yes,Yes,8,Two year,Fiber,No,Electronic check,85.07,704.03,Yes
+C00886,DC,0,No,No,13,Month-to-month,None,No,Mailed check,30.32,410.08,No
+C00887,PA,0,Yes,No,62,Two year,None,Yes,Electronic check,40.12,2492.02,No
+C00888,VA,0,Yes,No,37,One year,Fiber,Yes,Credit card,101.11,3756.11,No
+C00889,MD,1,No,No,15,One year,Fiber,Yes,Mailed check,106.10,1598.43,No
+C00890,PA,0,Yes,No,22,Month-to-month,Fiber,No,Mailed check,82.71,1835.08,Yes
+C00891,MD,0,No,Yes,31,Month-to-month,None,Yes,Bank transfer,37.44,1166.25,No
+C00892,PA,1,No,No,9,One year,None,No,Electronic check,33.66,315.02,Yes
+C00893,VA,1,No,No,28,One year,None,No,Mailed check,30.50,878.58,No
+C00894,PA,0,Yes,No,58,One year,None,No,Credit card,30.89,1795.77,No
+C00895,VA,0,Yes,Yes,72,One year,DSL,Yes,Electronic check,82.04,5914.82,No
+C00896,PA,0,Yes,No,56,Two year,Fiber,No,Bank transfer,100.35,5637.87,No
+C00897,PA,0,Yes,No,65,Two year,None,Yes,Bank transfer,42.09,2744.61,No
+C00898,VA,0,No,No,48,One year,DSL,Yes,Mailed check,71.97,3459.05,No
+C00899,DC,0,No,No,36,One year,Fiber,Yes,Electronic check,102.86,3725.33,Yes
+C00900,VA,0,Yes,No,19,Month-to-month,DSL,Yes,Electronic check,78.73,1497.87,No
+C00901,NC,1,No,No,18,Two year,DSL,No,Electronic check,56.09,1022.76,No
+C00902,DC,0,Yes,No,49,Month-to-month,Fiber,No,Credit card,96.12,4731.53,No
+C00903,MD,0,Yes,No,26,One year,DSL,Yes,Electronic check,72.56,1889.26,No
+C00904,DC,1,Yes,No,67,One year,Fiber,No,Mailed check,97.76,6569.90,No
+C00905,NC,0,Yes,Yes,47,Two year,DSL,Yes,Electronic check,79.84,3753.36,No
+C00906,PA,0,No,No,57,Two year,DSL,Yes,Mailed check,73.33,4190.88,No
+C00907,PA,0,Yes,Yes,67,Two year,None,Yes,Electronic check,46.35,3124.45,No
+C00908,VA,0,No,Yes,69,Two year,None,No,Mailed check,42.65,2943.81,No
+C00909,DC,0,Yes,No,32,One year,Fiber,Yes,Credit card,91.57,2952.88,Yes
+C00910,NC,0,No,Yes,39,Two year,None,Yes,Bank transfer,44.16,1748.95,No
+C00911,NC,0,Yes,Yes,64,One year,None,Yes,Electronic check,40.65,2622.11,No
+C00912,NC,1,Yes,No,64,Two year,Fiber,Yes,Electronic check,107.51,6898.70,Yes
+C00913,MD,0,Yes,Yes,38,Two year,Fiber,Yes,Credit card,93.12,3544.49,No
+C00914,NC,0,Yes,Yes,43,Two year,Fiber,No,Bank transfer,94.48,4071.95,Yes
+C00915,NC,1,Yes,Yes,54,One year,DSL,Yes,Bank transfer,81.93,4432.90,No
+C00916,DC,0,Yes,Yes,4,Month-to-month,None,No,Bank transfer,38.15,167.58,No
+C00917,VA,0,No,Yes,62,One year,DSL,No,Bank transfer,70.72,4406.29,No
+C00918,VA,1,No,Yes,5,One year,None,No,Bank transfer,26.24,155.20,No
+C00919,DC,0,No,No,17,Month-to-month,Fiber,No,Mailed check,87.36,1496.29,Yes
+C00920,DC,0,No,No,72,One year,None,No,Electronic check,42.83,3096.96,No
+C00921,NC,1,Yes,Yes,58,Month-to-month,None,Yes,Electronic check,41.72,2433.28,No
+C00922,MD,0,Yes,No,2,Two year,None,Yes,Bank transfer,48.19,116.07,No
+C00923,MD,0,Yes,No,54,One year,None,Yes,Electronic check,43.67,2372.59,No
+C00924,MD,1,No,No,66,Month-to-month,None,Yes,Credit card,52.99,3520.18,No
+C00925,MD,0,Yes,Yes,46,Two year,None,Yes,Electronic check,33.37,1539.25,No
+C00926,DC,0,Yes,Yes,65,One year,DSL,Yes,Mailed check,64.65,4208.27,No
+C00927,DC,0,No,No,56,Two year,DSL,No,Credit card,57.80,3262.32,Yes
+C00928,DC,0,Yes,Yes,5,Two year,Fiber,No,Mailed check,88.02,447.84,No
+C00929,DC,0,Yes,No,69,One year,DSL,No,Credit card,57.53,3975.71,No
+C00930,NC,0,No,No,67,Two year,None,Yes,Mailed check,34.27,2317.21,No
+C00931,VA,0,Yes,Yes,27,Month-to-month,None,Yes,Mailed check,45.72,1242.78,No
+C00932,MD,0,Yes,Yes,21,Month-to-month,Fiber,Yes,Credit card,104.01,2189.85,No
+C00933,NC,1,No,Yes,6,One year,Fiber,Yes,Mailed check,99.44,614.70,No
+C00934,MD,0,Yes,No,43,One year,None,Yes,Credit card,50.74,2194.01,No
+C00935,PA,1,Yes,No,41,One year,None,Yes,Electronic check,51.14,2099.88,No
+C00936,VA,0,Yes,Yes,26,One year,None,No,Bank transfer,42.46,1109.86,No
+C00937,DC,0,Yes,Yes,46,Two year,Fiber,No,Bank transfer,92.47,4276.59,No
+C00938,MD,0,Yes,No,6,Two year,DSL,No,Credit card,61.59,379.61,No
+C00939,DC,1,No,No,57,Month-to-month,Fiber,No,Electronic check,94.28,5377.22,No
+C00940,VA,1,No,Yes,32,Month-to-month,DSL,No,Bank transfer,69.10,2217.97,No
+C00941,DC,0,No,Yes,55,Two year,DSL,Yes,Bank transfer,76.88,4245.21,No
+C00942,PA,1,Yes,Yes,52,Month-to-month,Fiber,No,Bank transfer,84.92,4425.66,Yes
+C00943,NC,0,Yes,No,26,Month-to-month,Fiber,Yes,Electronic check,106.60,2786.42,No
+C00944,PA,0,Yes,No,42,Month-to-month,None,No,Mailed check,44.57,1886.82,No
+C00945,DC,0,Yes,Yes,54,Two year,None,No,Electronic check,40.55,2196.12,No
+C00946,NC,0,No,No,22,One year,DSL,No,Electronic check,70.11,1571.56,No
+C00947,PA,1,Yes,No,63,One year,None,Yes,Bank transfer,37.60,2391.04,No
+C00948,DC,0,Yes,Yes,4,One year,None,Yes,Bank transfer,45.22,192.75,No
+C00949,MD,0,No,Yes,26,One year,None,Yes,Credit card,45.73,1197.35,No
+C00950,DC,0,Yes,Yes,53,Month-to-month,Fiber,Yes,Credit card,92.65,4924.53,No
+C00951,MD,0,Yes,Yes,46,Two year,None,Yes,Mailed check,43.49,2020.45,No
+C00952,PA,1,No,No,66,Two year,None,Yes,Bank transfer,35.84,2379.51,No
+C00953,PA,0,No,No,25,One year,Fiber,No,Electronic check,89.81,2260.67,Yes
+C00954,PA,0,Yes,Yes,20,One year,None,Yes,Bank transfer,52.83,1075.66,No
+C00955,NC,0,No,No,12,One year,Fiber,Yes,Electronic check,92.01,1111.32,No
+C00956,PA,0,No,Yes,20,One year,None,Yes,Mailed check,36.40,737.07,Yes
+C00957,PA,0,Yes,Yes,61,Month-to-month,None,Yes,Mailed check,36.07,2226.23,No
+C00958,VA,0,Yes,Yes,7,One year,Fiber,No,Credit card,90.49,658.90,Yes
+C00959,PA,1,Yes,No,41,Two year,None,Yes,Credit card,43.16,1787.81,No
+C00960,PA,0,No,Yes,69,Two year,None,No,Credit card,40.82,2831.91,No
+C00961,NC,0,Yes,Yes,55,Month-to-month,None,Yes,Bank transfer,52.40,2893.70,No
+C00962,PA,0,No,No,49,Two year,None,Yes,Bank transfer,35.81,1782.72,No
+C00963,DC,0,No,Yes,71,One year,None,No,Mailed check,33.91,2407.88,No
+C00964,DC,0,No,No,50,One year,None,Yes,Electronic check,33.71,1704.45,Yes
+C00965,MD,0,Yes,Yes,23,Two year,None,No,Bank transfer,40.07,928.20,No
+C00966,MD,0,No,Yes,15,Month-to-month,None,No,Credit card,28.03,424.32,No
+C00967,NC,0,No,Yes,1,Two year,Fiber,Yes,Mailed check,103.02,122.71,Yes
+C00968,PA,1,No,No,56,Month-to-month,DSL,No,Mailed check,61.13,3425.72,No
+C00969,VA,1,Yes,Yes,31,Two year,Fiber,No,Electronic check,90.49,2818.63,No
+C00970,VA,0,Yes,Yes,8,Month-to-month,None,No,Credit card,40.19,322.59,No
+C00971,VA,1,Yes,No,19,Two year,None,No,Credit card,31.74,626.27,No
+C00972,VA,0,Yes,No,25,Two year,None,No,Credit card,41.31,1036.44,No
+C00973,DC,0,No,Yes,11,Two year,DSL,No,Bank transfer,67.93,750.76,Yes
+C00974,VA,0,Yes,No,30,One year,Fiber,Yes,Mailed check,103.92,3133.39,No
+C00975,DC,0,Yes,Yes,42,Two year,Fiber,Yes,Credit card,92.57,3901.38,No
+C00976,NC,0,No,Yes,67,Month-to-month,None,Yes,Mailed check,33.44,2262.78,Yes
+C00977,PA,0,Yes,Yes,6,One year,None,Yes,Credit card,48.32,293.24,No
+C00978,VA,0,No,Yes,14,One year,Fiber,No,Bank transfer,98.16,1395.21,No
+C00979,VA,0,No,No,51,Two year,Fiber,No,Electronic check,86.02,4405.15,No
+C00980,MD,0,Yes,Yes,55,One year,Fiber,Yes,Mailed check,90.40,4990.79,No
+C00981,NC,0,No,Yes,63,Two year,Fiber,No,Credit card,95.94,6048.33,No
+C00982,VA,0,Yes,Yes,1,Month-to-month,DSL,Yes,Electronic check,67.90,92.63,No
+C00983,MD,0,No,No,39,Two year,Fiber,No,Electronic check,85.35,3357.08,No
+C00984,MD,0,Yes,No,26,Month-to-month,None,Yes,Mailed check,37.49,978.29,No
+C00985,PA,0,No,Yes,43,Two year,Fiber,Yes,Electronic check,96.22,4155.67,No
+C00986,VA,0,Yes,No,31,One year,Fiber,No,Bank transfer,98.97,3075.83,No
+C00987,MD,0,No,No,50,Month-to-month,DSL,Yes,Credit card,79.32,3992.69,No
+C00988,MD,0,Yes,No,63,One year,Fiber,No,Bank transfer,87.24,5498.51,Yes
+C00989,DC,0,No,Yes,16,One year,None,No,Mailed check,38.44,635.11,No
+C00990,NC,0,No,Yes,20,Two year,None,No,Mailed check,26.75,547.05,No
+C00991,NC,0,Yes,No,62,One year,Fiber,No,Credit card,86.95,5405.53,No
+C00992,NC,0,Yes,No,37,Two year,Fiber,No,Mailed check,84.09,3138.46,No
+C00993,DC,0,No,No,5,Month-to-month,Fiber,No,Mailed check,90.54,453.56,Yes
+C00994,NC,0,No,Yes,21,Month-to-month,Fiber,No,Credit card,96.94,2054.52,Yes
+C00995,VA,0,No,Yes,21,Month-to-month,None,Yes,Mailed check,50.27,1066.47,No
+C00996,DC,1,Yes,Yes,6,One year,Fiber,Yes,Credit card,89.19,548.06,No
+C00997,MD,0,Yes,Yes,12,Month-to-month,None,No,Credit card,39.83,507.06,No
+C00998,MD,0,No,Yes,29,Month-to-month,Fiber,No,Credit card,84.32,2451.45,Yes
+C00999,PA,1,Yes,No,17,Month-to-month,Fiber,No,Mailed check,83.06,1432.13,No
+C01000,DC,0,No,Yes,21,Two year,Fiber,Yes,Credit card,89.10,1897.62,No
+C01001,VA,1,No,Yes,58,Month-to-month,Fiber,Yes,Mailed check,89.74,5212.58,No
+C01002,MD,1,Yes,No,16,Two year,DSL,Yes,Mailed check,81.46,1311.83,No
+C01003,VA,1,Yes,No,23,Two year,Fiber,No,Bank transfer,89.59,2061.74,Yes
+C01004,DC,1,Yes,No,20,Two year,DSL,Yes,Mailed check,74.62,1515.85,No
+C01005,NC,0,Yes,No,62,One year,None,Yes,Mailed check,52.58,3262.74,No
+C01006,DC,1,Yes,No,39,Two year,Fiber,Yes,Electronic check,105.52,4138.28,No
+C01007,VA,0,Yes,No,4,Two year,None,No,Bank transfer,35.40,155.74,No
+C01008,MD,0,No,No,0,One year,Fiber,No,Electronic check,99.45,127.01,Yes
+C01009,NC,0,Yes,No,22,Two year,None,Yes,Mailed check,46.29,1019.73,No
+C01010,MD,0,Yes,No,46,Month-to-month,Fiber,No,Electronic check,82.96,3825.38,No
+C01011,VA,0,Yes,Yes,18,Month-to-month,None,No,Electronic check,40.03,729.91,Yes
+C01012,DC,1,Yes,No,54,One year,None,No,Bank transfer,33.00,1790.41,No
+C01013,VA,1,No,No,46,Month-to-month,None,Yes,Electronic check,35.21,1648.17,No
+C01014,VA,0,Yes,Yes,59,Month-to-month,None,No,Credit card,42.33,2502.90,No
+C01015,DC,0,No,Yes,31,Two year,DSL,No,Mailed check,67.77,2106.14,No
+C01016,DC,0,Yes,Yes,34,Month-to-month,Fiber,Yes,Credit card,89.13,3058.85,No
+C01017,PA,0,No,Yes,20,Month-to-month,Fiber,Yes,Electronic check,102.78,2083.29,No
+C01018,DC,1,No,Yes,61,One year,DSL,No,Bank transfer,66.96,4094.26,No
+C01019,DC,1,No,Yes,20,One year,None,No,Credit card,30.42,634.79,Yes
+C01020,VA,0,Yes,Yes,20,Two year,DSL,Yes,Mailed check,78.86,1581.12,No
+C01021,NC,1,No,Yes,4,One year,Fiber,No,Electronic check,92.32,376.63,No
+C01022,PA,0,No,No,22,Two year,DSL,No,Credit card,65.77,1451.78,Yes
+C01023,PA,0,No,Yes,9,Two year,Fiber,No,Electronic check,96.03,876.11,Yes
+C01024,VA,0,Yes,Yes,66,Month-to-month,None,Yes,Credit card,39.18,2615.85,No
+C01025,PA,0,Yes,No,46,One year,DSL,Yes,Bank transfer,65.80,3035.96,Yes
+C01026,PA,0,No,Yes,10,Month-to-month,None,No,Mailed check,28.01,297.72,No
+C01027,NC,0,No,Yes,23,Two year,None,Yes,Mailed check,45.65,1073.04,Yes
+C01028,NC,0,No,No,6,One year,DSL,No,Mailed check,55.77,354.52,No
+C01029,VA,0,Yes,Yes,65,One year,None,Yes,Mailed check,42.56,2782.55,No
+C01030,NC,0,No,Yes,1,Two year,None,No,Mailed check,35.96,64.08,No
+C01031,DC,0,No,Yes,49,Two year,Fiber,Yes,Mailed check,96.09,4710.69,No
+C01032,NC,0,Yes,No,1,Two year,DSL,No,Electronic check,71.73,76.03,No
+C01033,MD,0,No,No,35,One year,DSL,Yes,Electronic check,78.06,2743.52,No
+C01034,NC,0,Yes,No,57,One year,Fiber,No,Credit card,99.75,5712.10,Yes
+C01035,NC,0,Yes,Yes,69,Month-to-month,None,No,Mailed check,38.66,2678.07,No
+C01036,VA,1,No,No,60,One year,None,Yes,Electronic check,40.38,2430.26,Yes
+C01037,VA,0,Yes,No,8,Two year,DSL,Yes,Electronic check,76.65,618.92,Yes
+C01038,PA,1,No,Yes,68,Month-to-month,Fiber,Yes,Mailed check,90.05,6134.66,No
+C01039,NC,1,No,No,19,Two year,Fiber,Yes,Bank transfer,91.94,1761.72,No
+C01040,VA,0,Yes,No,70,One year,None,No,Bank transfer,35.95,2533.81,No
+C01041,MD,0,No,Yes,10,One year,Fiber,Yes,Electronic check,108.30,1088.96,No
+C01042,DC,0,No,Yes,72,Month-to-month,Fiber,No,Credit card,92.87,6704.30,No
+C01043,PA,0,Yes,Yes,36,Two year,None,Yes,Bank transfer,42.48,1537.93,No
+C01044,DC,0,Yes,Yes,48,Month-to-month,None,No,Bank transfer,44.40,2141.86,No
+C01045,DC,0,Yes,Yes,64,Month-to-month,None,No,Electronic check,39.37,2532.40,No
+C01046,DC,0,Yes,Yes,71,Month-to-month,None,Yes,Electronic check,46.27,3311.26,No
+C01047,NC,0,Yes,Yes,58,Two year,DSL,No,Mailed check,55.61,3233.17,No
+C01048,PA,0,Yes,No,25,Two year,DSL,No,Bank transfer,62.09,1567.96,Yes
+C01049,PA,1,Yes,No,10,One year,Fiber,No,Electronic check,99.33,1012.35,No
+C01050,NC,0,Yes,Yes,64,Month-to-month,None,Yes,Mailed check,37.13,2396.16,No
+C01051,VA,1,No,Yes,70,One year,DSL,No,Bank transfer,60.17,4230.51,No
+C01052,NC,0,Yes,Yes,10,Month-to-month,None,No,Electronic check,44.59,461.86,No
+C01053,DC,0,No,No,41,One year,DSL,No,Credit card,71.55,2941.81,Yes
+C01054,PA,0,No,No,2,Two year,None,No,Bank transfer,33.90,80.57,No
+C01055,PA,0,Yes,Yes,65,Two year,None,No,Credit card,27.23,1778.10,No
+C01056,DC,0,No,No,15,One year,None,Yes,Mailed check,35.43,541.76,No
+C01057,VA,1,Yes,Yes,13,One year,None,Yes,Credit card,42.02,557.83,No
+C01058,NC,1,No,No,43,One year,Fiber,No,Mailed check,87.35,3774.97,Yes
+C01059,DC,0,Yes,No,3,Month-to-month,None,Yes,Bank transfer,42.88,148.86,Yes
+C01060,PA,0,No,Yes,22,Two year,Fiber,No,Mailed check,90.80,2008.98,No
+C01061,MD,1,Yes,Yes,54,Month-to-month,DSL,No,Bank transfer,74.11,4019.61,No
+C01062,PA,0,Yes,No,68,One year,None,No,Electronic check,43.30,2963.24,No
+C01063,MD,0,No,Yes,62,Month-to-month,DSL,No,Mailed check,68.95,4299.48,No
+C01064,VA,0,Yes,Yes,6,Month-to-month,Fiber,Yes,Electronic check,102.36,626.85,Yes
+C01065,MD,1,Yes,No,15,One year,None,No,Credit card,27.31,438.89,No
+C01066,DC,0,No,No,12,Month-to-month,DSL,Yes,Mailed check,81.40,995.68,No
+C01067,MD,0,Yes,No,12,Month-to-month,DSL,No,Electronic check,71.80,865.39,No
+C01068,MD,0,Yes,No,47,One year,Fiber,No,Mailed check,91.92,4338.28,No
+C01069,MD,0,No,Yes,13,Month-to-month,DSL,Yes,Bank transfer,78.01,1016.09,Yes
+C01070,NC,0,No,No,34,Two year,None,Yes,Mailed check,33.87,1170.31,No
+C01071,MD,0,No,Yes,51,One year,None,No,Bank transfer,31.02,1595.58,No
+C01072,VA,0,Yes,Yes,66,One year,DSL,Yes,Bank transfer,78.29,5174.54,No
+C01073,MD,0,No,No,25,Month-to-month,None,Yes,Mailed check,36.20,927.59,Yes
+C01074,VA,0,No,No,45,Two year,Fiber,Yes,Mailed check,98.23,4430.59,No
+C01075,DC,0,No,No,32,Month-to-month,Fiber,No,Electronic check,84.20,2723.73,No
+C01076,NC,1,Yes,Yes,7,One year,Fiber,No,Electronic check,83.91,616.23,Yes
+C01077,NC,0,No,No,63,Two year,Fiber,Yes,Mailed check,100.27,6323.76,No
+C01078,NC,0,No,No,27,Two year,DSL,No,Bank transfer,60.09,1626.78,No
+C01079,NC,0,Yes,Yes,10,Two year,DSL,No,Credit card,67.71,680.76,Yes
+C01080,VA,0,Yes,No,9,One year,Fiber,No,Mailed check,83.71,765.43,Yes
+C01081,PA,0,Yes,Yes,67,Two year,DSL,Yes,Credit card,73.73,4967.66,No
+C01082,PA,0,Yes,Yes,68,One year,DSL,No,Credit card,71.85,4886.44,No
+C01083,MD,1,No,No,51,Two year,Fiber,Yes,Credit card,99.41,5086.27,Yes
+C01084,NC,0,No,Yes,4,Month-to-month,DSL,Yes,Bank transfer,67.79,280.98,No
+C01085,NC,0,No,No,72,Two year,DSL,No,Mailed check,63.99,4619.72,No
+C01086,MD,0,No,Yes,25,Two year,Fiber,Yes,Credit card,97.49,2452.38,No
+C01087,DC,0,Yes,Yes,45,Two year,DSL,Yes,Bank transfer,75.40,3394.44,No
+C01088,VA,0,No,No,42,Month-to-month,None,No,Credit card,34.18,1450.82,No
+C01089,VA,0,No,Yes,34,One year,Fiber,No,Mailed check,99.05,3381.53,Yes
+C01090,PA,0,No,No,0,One year,Fiber,No,Electronic check,89.31,106.02,Yes
+C01091,VA,0,No,Yes,33,One year,Fiber,No,Mailed check,84.81,2813.55,No
+C01092,VA,1,No,Yes,27,One year,Fiber,No,Electronic check,95.64,2600.93,No
+C01093,MD,0,Yes,No,68,One year,None,Yes,Credit card,36.32,2494.12,No
+C01094,VA,0,No,Yes,2,Two year,None,No,Credit card,42.67,102.91,No
+C01095,MD,0,Yes,Yes,18,Two year,DSL,Yes,Mailed check,70.50,1292.91,No
+C01096,PA,0,Yes,No,43,Month-to-month,DSL,Yes,Credit card,70.32,3032.12,No
+C01097,NC,0,No,No,53,One year,Fiber,Yes,Credit card,101.33,5377.34,No
+C01098,VA,0,Yes,Yes,53,Two year,DSL,Yes,Mailed check,82.76,4396.36,No
+C01099,VA,0,No,Yes,69,Two year,Fiber,Yes,Mailed check,101.85,7051.99,No
+C01100,MD,0,No,No,24,One year,None,No,Bank transfer,34.60,856.31,No
+C01101,PA,0,No,No,21,Month-to-month,None,No,Credit card,28.48,610.40,No
+C01102,VA,0,No,Yes,2,Month-to-month,Fiber,Yes,Electronic check,97.31,220.20,Yes
+C01103,PA,0,No,No,62,One year,Fiber,No,Mailed check,85.49,5308.74,Yes
+C01104,PA,0,Yes,No,70,Month-to-month,None,No,Credit card,33.80,2381.51,No
+C01105,NC,0,No,No,47,One year,Fiber,No,Bank transfer,95.82,4530.22,Yes
+C01106,NC,1,Yes,Yes,67,Two year,None,Yes,Bank transfer,49.38,3320.03,No
+C01107,VA,0,Yes,No,6,Two year,None,No,Credit card,36.05,240.00,No
+C01108,DC,1,No,Yes,50,One year,None,Yes,Mailed check,38.90,1948.54,No
+C01109,DC,0,Yes,No,61,Month-to-month,DSL,No,Credit card,67.75,4133.98,Yes
+C01110,PA,0,Yes,Yes,64,Two year,None,Yes,Electronic check,38.11,2449.49,No
+C01111,VA,1,Yes,Yes,70,Two year,None,Yes,Credit card,46.92,3305.49,No
+C01112,DC,0,Yes,No,66,One year,None,No,Electronic check,29.35,1940.86,Yes
+C01113,PA,0,Yes,Yes,26,One year,Fiber,No,Mailed check,81.82,2155.85,No
+C01114,VA,0,No,No,25,Month-to-month,Fiber,No,Mailed check,93.43,2344.07,Yes
+C01115,NC,0,Yes,Yes,37,Two year,Fiber,No,Bank transfer,96.98,3590.98,No
+C01116,NC,0,Yes,No,48,Month-to-month,DSL,Yes,Credit card,81.79,3943.12,No
+C01117,MD,0,No,Yes,42,One year,None,Yes,Mailed check,41.46,1752.75,No
+C01118,DC,0,Yes,No,8,Two year,Fiber,Yes,Electronic check,90.87,748.08,Yes
+C01119,VA,0,No,No,60,Month-to-month,DSL,Yes,Credit card,73.39,4422.62,No
+C01120,PA,0,Yes,No,7,One year,Fiber,No,Bank transfer,84.79,594.24,No
+C01121,DC,0,Yes,Yes,16,Month-to-month,Fiber,Yes,Bank transfer,108.72,1760.89,Yes
+C01122,VA,0,No,No,55,Two year,None,No,Credit card,36.23,1998.04,No
+C01123,DC,0,No,Yes,41,One year,DSL,Yes,Credit card,72.29,2983.60,No
+C01124,MD,0,No,No,65,One year,None,No,Credit card,27.61,1808.59,No
+C01125,DC,0,Yes,No,53,Month-to-month,None,No,Bank transfer,27.03,1459.37,No
+C01126,VA,0,Yes,No,12,Two year,None,No,Credit card,26.43,320.52,Yes
+C01127,DC,0,Yes,No,26,Month-to-month,Fiber,No,Electronic check,93.57,2461.83,No
+C01128,MD,1,No,Yes,49,Month-to-month,Fiber,No,Bank transfer,96.97,4759.29,No
+C01129,PA,0,No,Yes,57,Month-to-month,None,Yes,Bank transfer,47.95,2743.25,Yes
+C01130,MD,0,Yes,No,61,Two year,DSL,Yes,Electronic check,68.16,4182.43,No
+C01131,DC,0,Yes,Yes,20,Month-to-month,None,No,Mailed check,41.66,857.65,Yes
+C01132,NC,0,Yes,No,36,Two year,Fiber,Yes,Bank transfer,99.76,3594.51,No
+C01133,PA,0,No,Yes,49,Two year,None,Yes,Bank transfer,51.92,2571.03,No
+C01134,DC,0,Yes,Yes,33,Two year,None,Yes,Mailed check,48.71,1618.00,No
+C01135,VA,1,Yes,Yes,16,One year,Fiber,Yes,Bank transfer,92.20,1501.75,No
+C01136,PA,0,Yes,Yes,17,Two year,DSL,No,Bank transfer,63.83,1113.22,No
+C01137,DC,0,No,No,57,Month-to-month,Fiber,Yes,Mailed check,93.00,5325.23,No
+C01138,VA,0,Yes,Yes,16,One year,DSL,No,Electronic check,70.67,1146.21,No
+C01139,MD,1,No,No,29,One year,Fiber,No,Bank transfer,88.87,2582.18,No
+C01140,VA,0,No,No,3,Month-to-month,DSL,Yes,Mailed check,78.70,263.11,No
+C01141,MD,0,No,No,1,Two year,DSL,No,Mailed check,73.65,90.24,No
+C01142,NC,0,Yes,No,26,One year,None,Yes,Mailed check,38.68,1029.11,Yes
+C01143,NC,0,No,No,54,Two year,None,No,Bank transfer,34.07,1867.94,No
+C01144,NC,0,Yes,Yes,59,Month-to-month,Fiber,Yes,Credit card,98.35,5809.96,No
+C01145,DC,0,Yes,Yes,15,Two year,DSL,No,Bank transfer,73.44,1129.06,No
+C01146,VA,0,No,Yes,36,Month-to-month,Fiber,No,Mailed check,94.24,3398.24,No
+C01147,NC,0,No,No,27,Two year,DSL,Yes,Credit card,79.73,2173.00,No
+C01148,VA,0,Yes,Yes,40,Month-to-month,None,No,Electronic check,33.94,1367.39,No
+C01149,MD,0,Yes,Yes,42,Two year,Fiber,Yes,Electronic check,103.83,4385.24,No
+C01150,PA,0,Yes,No,13,Two year,None,Yes,Electronic check,34.38,456.82,No
+C01151,VA,1,Yes,No,71,Two year,Fiber,No,Electronic check,82.03,5854.26,No
+C01152,DC,1,Yes,Yes,66,Month-to-month,None,Yes,Mailed check,36.58,2428.30,No
+C01153,MD,1,Yes,Yes,14,Month-to-month,None,No,Credit card,28.89,413.82,Yes
+C01154,DC,0,No,Yes,16,Two year,DSL,No,Credit card,72.47,1167.79,No
+C01155,DC,1,Yes,No,24,One year,Fiber,Yes,Credit card,90.15,2181.87,Yes
+C01156,VA,1,Yes,Yes,36,Month-to-month,DSL,Yes,Electronic check,64.07,2334.86,Yes
+C01157,MD,0,No,No,26,Month-to-month,None,No,Electronic check,40.09,1057.28,No
+C01158,VA,0,No,No,14,Two year,Fiber,No,Mailed check,82.91,1176.14,No
+C01159,NC,0,Yes,No,49,Two year,None,Yes,Electronic check,47.01,2311.04,No
+C01160,MD,0,No,No,32,One year,DSL,No,Credit card,71.65,2320.39,No
+C01161,VA,0,Yes,Yes,8,Month-to-month,DSL,Yes,Mailed check,63.03,518.00,Yes
+C01162,MD,1,No,No,64,One year,None,No,Credit card,41.96,2711.37,Yes
+C01163,MD,0,Yes,Yes,11,One year,DSL,Yes,Bank transfer,66.06,744.28,Yes
+C01164,DC,0,No,Yes,57,Month-to-month,DSL,No,Bank transfer,56.74,3245.53,No
+C01165,DC,0,Yes,Yes,42,One year,None,Yes,Credit card,34.17,1441.42,No
+C01166,VA,0,No,Yes,46,Two year,DSL,No,Credit card,70.43,3252.40,No
+C01167,PA,1,No,Yes,21,One year,None,No,Credit card,31.99,678.21,No
+C01168,NC,1,Yes,No,62,One year,Fiber,Yes,Mailed check,101.72,6308.06,No
+C01169,NC,0,Yes,No,38,Month-to-month,Fiber,Yes,Credit card,89.61,3424.41,No
+C01170,VA,0,Yes,No,67,One year,DSL,No,Electronic check,64.43,4333.22,No
+C01171,MD,1,Yes,Yes,28,Month-to-month,None,Yes,Bank transfer,41.49,1177.93,No
+C01172,NC,0,Yes,Yes,58,Two year,None,Yes,Mailed check,52.65,3064.31,No
+C01173,PA,0,No,Yes,48,One year,None,No,Mailed check,33.83,1636.64,No
+C01174,DC,0,Yes,Yes,48,One year,None,Yes,Mailed check,52.16,2525.43,No
+C01175,MD,1,Yes,Yes,71,Two year,None,No,Electronic check,28.01,2011.30,No
+C01176,DC,0,Yes,No,70,Month-to-month,DSL,No,Credit card,70.04,4913.04,No
+C01177,MD,0,No,Yes,15,Month-to-month,Fiber,Yes,Mailed check,102.44,1566.30,No
+C01178,VA,0,Yes,No,55,One year,None,Yes,Electronic check,34.62,1920.85,Yes
+C01179,VA,0,Yes,No,20,Two year,DSL,Yes,Credit card,70.51,1432.13,No
+C01180,VA,0,No,No,27,One year,Fiber,No,Mailed check,83.58,2275.95,No
+C01181,NC,0,No,No,16,Two year,Fiber,Yes,Mailed check,96.92,1563.49,No
+C01182,MD,0,Yes,Yes,31,Month-to-month,Fiber,Yes,Credit card,108.39,3380.27,No
+C01183,DC,0,No,Yes,43,One year,None,Yes,Mailed check,42.18,1814.70,No
+C01184,DC,0,No,Yes,7,One year,DSL,No,Mailed check,60.91,437.81,No
+C01185,PA,0,No,Yes,9,Two year,Fiber,Yes,Credit card,89.39,817.90,No
+C01186,NC,1,No,Yes,54,One year,Fiber,Yes,Bank transfer,98.35,5331.26,No
+C01187,MD,0,Yes,No,57,One year,Fiber,Yes,Electronic check,103.25,5907.90,No
+C01188,VA,0,No,No,57,One year,DSL,No,Electronic check,72.36,4128.19,Yes
+C01189,MD,0,No,No,6,Two year,None,No,Mailed check,27.34,173.51,No
+C01190,NC,1,Yes,Yes,0,Month-to-month,Fiber,No,Mailed check,92.46,95.23,Yes
+C01191,NC,0,No,No,51,Two year,None,Yes,Credit card,49.67,2550.07,No
+C01192,DC,0,No,Yes,1,Month-to-month,Fiber,No,Mailed check,87.69,112.45,No
+C01193,PA,0,No,Yes,33,One year,Fiber,No,Bank transfer,98.40,3270.75,No
+C01194,VA,0,No,Yes,14,One year,None,No,Credit card,42.50,603.20,No
+C01195,MD,0,Yes,Yes,42,Month-to-month,Fiber,Yes,Electronic check,95.91,4044.72,Yes
+C01196,VA,0,Yes,Yes,57,Month-to-month,DSL,Yes,Mailed check,72.88,4176.60,No
+C01197,VA,0,No,No,19,One year,None,No,Bank transfer,35.06,667.32,No
+C01198,MD,0,Yes,Yes,31,Two year,None,Yes,Mailed check,52.80,1648.09,No
+C01199,DC,1,Yes,No,41,One year,Fiber,Yes,Credit card,89.71,3683.65,No
+C01200,VA,0,Yes,Yes,67,One year,DSL,No,Credit card,72.82,4891.24,Yes
