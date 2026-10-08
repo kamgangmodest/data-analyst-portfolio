@@ -1,0 +1,701 @@
+deal_id,created_date,close_date,segment,source,account_executive,stage,arr_value,sales_cycle_days,discount_pct
+D00001,2025-06-08,,Mid-Market,Event,Morgan,Open,11720,66,0
+D00002,2025-06-04,2025-06-12,SMB,Event,Sam,Closed Won,2677,42,13
+D00003,2025-12-12,,Enterprise,Outbound,Chris,Closed Lost,21155,84,0
+D00004,2025-07-24,,SMB,Event,Taylor,Closed Lost,4002,40,0
+D00005,2025-07-16,,SMB,Event,Chris,Open,2981,21,0
+D00006,2025-01-10,2025-01-17,Mid-Market,Inbound,Taylor,Closed Won,7630,38,8
+D00007,2025-10-11,,Enterprise,Referral,Sam,Open,16964,92,0
+D00008,2025-12-03,2025-12-06,SMB,Outbound,Taylor,Closed Won,3186,19,1
+D00009,2025-06-18,2025-06-28,Mid-Market,Event,Alex,Closed Won,7062,64,7
+D00010,2025-11-22,,Enterprise,Referral,Taylor,Closed Lost,28947,110,0
+D00011,2025-02-12,,Enterprise,Inbound,Morgan,Open,21278,79,0
+D00012,2025-03-05,,Enterprise,Partner,Morgan,Closed Lost,32974,65,0
+D00013,2025-09-14,,SMB,Partner,Chris,Closed Lost,4247,35,0
+D00014,2025-08-14,2025-08-20,Mid-Market,Partner,Alex,Closed Won,12615,34,1
+D00015,2025-05-21,,SMB,Partner,Alex,Open,4011,34,0
+D00016,2025-10-12,,Enterprise,Outbound,Alex,Open,18274,93,0
+D00017,2025-02-23,2025-02-28,SMB,Inbound,Alex,Closed Won,2579,31,15
+D00018,2025-04-02,,SMB,Event,Alex,Closed Lost,3550,21,0
+D00019,2025-08-04,2025-08-19,Enterprise,Event,Chris,Closed Won,21162,75,2
+D00020,2025-03-26,2025-03-28,SMB,Referral,Alex,Closed Won,4101,23,9
+D00021,2025-10-21,,Enterprise,Partner,Morgan,Closed Lost,18325,94,0
+D00022,2025-04-04,,SMB,Outbound,Taylor,Closed Lost,3580,20,0
+D00023,2025-01-22,,Enterprise,Outbound,Alex,Closed Lost,19082,92,0
+D00024,2025-04-04,,SMB,Inbound,Taylor,Open,2521,31,0
+D00025,2025-02-07,,Mid-Market,Outbound,Sam,Closed Lost,8804,68,0
+D00026,2025-09-03,,Mid-Market,Partner,Taylor,Open,10761,67,0
+D00027,2025-04-09,,Mid-Market,Event,Chris,Closed Lost,6577,32,0
+D00028,2025-03-22,,SMB,Referral,Sam,Closed Lost,4766,36,0
+D00029,2025-05-10,2025-05-18,Mid-Market,Referral,Taylor,Closed Won,7025,44,11
+D00030,2025-07-04,,Mid-Market,Referral,Jordan,Open,11568,62,0
+D00031,2025-06-14,2025-06-18,SMB,Inbound,Alex,Closed Won,3782,23,9
+D00032,2025-06-19,2025-06-28,Enterprise,Referral,Morgan,Closed Won,22188,111,3
+D00033,2025-06-07,,Mid-Market,Referral,Morgan,Closed Lost,13714,68,0
+D00034,2025-04-14,2025-04-27,Enterprise,Inbound,Sam,Closed Won,22733,69,13
+D00035,2025-09-16,2025-09-28,Enterprise,Referral,Jordan,Closed Won,25418,89,14
+D00036,2025-08-10,,SMB,Inbound,Alex,Closed Lost,4285,23,0
+D00037,2025-02-17,,SMB,Inbound,Taylor,Open,2979,39,0
+D00038,2025-07-04,,Enterprise,Referral,Jordan,Closed Lost,18305,70,0
+D00039,2025-08-11,2025-08-18,SMB,Partner,Taylor,Closed Won,3614,39,3
+D00040,2025-01-14,2025-01-25,Mid-Market,Inbound,Alex,Closed Won,10340,58,4
+D00041,2025-02-05,,Enterprise,Inbound,Sam,Open,33165,51,0
+D00042,2025-10-11,,Enterprise,Partner,Sam,Open,24437,102,0
+D00043,2025-01-25,,Mid-Market,Inbound,Chris,Closed Lost,9942,57,0
+D00044,2025-11-03,,Enterprise,Inbound,Chris,Open,16072,76,0
+D00045,2025-11-07,,Mid-Market,Inbound,Alex,Closed Lost,6467,47,0
+D00046,2025-04-01,,Enterprise,Event,Jordan,Closed Lost,31376,78,0
+D00047,2025-04-11,,Enterprise,Partner,Chris,Closed Lost,17765,109,0
+D00048,2025-09-16,,Mid-Market,Partner,Jordan,Closed Lost,10932,59,0
+D00049,2025-02-19,2025-02-25,SMB,Inbound,Sam,Closed Won,2336,31,9
+D00050,2025-06-16,,Enterprise,Event,Sam,Closed Lost,19615,111,0
+D00051,2025-06-04,2025-06-24,Enterprise,Referral,Chris,Closed Won,31737,100,3
+D00052,2025-11-03,,Enterprise,Outbound,Alex,Closed Lost,32086,52,0
+D00053,2025-04-16,,Mid-Market,Partner,Alex,Closed Lost,7698,40,0
+D00054,2025-05-20,2025-05-24,SMB,Referral,Sam,Closed Won,2453,22,7
+D00055,2025-09-18,2025-09-22,SMB,Inbound,Jordan,Closed Won,3018,24,13
+D00056,2025-05-16,,Mid-Market,Referral,Jordan,Closed Lost,6632,54,0
+D00057,2025-11-11,2025-11-27,Enterprise,Referral,Morgan,Closed Won,20377,83,1
+D00058,2025-08-09,,Mid-Market,Outbound,Taylor,Closed Lost,12335,68,0
+D00059,2025-10-26,,Enterprise,Inbound,Sam,Closed Lost,19066,93,0
+D00060,2025-04-26,,Mid-Market,Event,Chris,Open,8554,42,0
+D00061,2025-08-21,,Mid-Market,Partner,Morgan,Closed Lost,7195,70,0
+D00062,2025-03-21,2025-03-28,SMB,Partner,Chris,Closed Won,4110,41,4
+D00063,2025-03-13,,Mid-Market,Inbound,Alex,Closed Lost,9269,45,0
+D00064,2025-06-17,,Mid-Market,Partner,Sam,Closed Lost,6026,54,0
+D00065,2025-07-26,2025-07-28,SMB,Event,Chris,Closed Won,2309,41,12
+D00066,2025-02-19,2025-02-28,Mid-Market,Partner,Sam,Closed Won,6777,53,2
+D00067,2025-08-26,,Mid-Market,Referral,Sam,Closed Lost,7816,51,0
+D00068,2025-09-05,2025-09-26,Enterprise,Partner,Jordan,Closed Won,21893,107,2
+D00069,2025-08-08,2025-08-23,Enterprise,Inbound,Jordan,Closed Won,24151,76,8
+D00070,2025-08-19,2025-08-27,SMB,Inbound,Jordan,Closed Won,4780,41,7
+D00071,2025-09-10,,Mid-Market,Event,Jordan,Closed Lost,13690,62,0
+D00072,2025-05-17,,Mid-Market,Referral,Jordan,Open,8365,49,0
+D00073,2025-08-02,,SMB,Partner,Taylor,Closed Lost,4034,39,0
+D00074,2025-07-23,,SMB,Outbound,Morgan,Closed Lost,4733,41,0
+D00075,2025-03-10,,Mid-Market,Event,Alex,Closed Lost,7414,47,0
+D00076,2025-04-27,,SMB,Event,Taylor,Closed Lost,4109,19,0
+D00077,2025-01-05,2025-01-10,SMB,Referral,Chris,Closed Won,3629,26,8
+D00078,2025-07-11,,Enterprise,Outbound,Morgan,Closed Lost,14997,94,0
+D00079,2025-02-27,,Mid-Market,Inbound,Jordan,Closed Lost,9329,67,0
+D00080,2025-05-22,,Mid-Market,Partner,Chris,Closed Lost,8124,49,0
+D00081,2025-09-02,,Mid-Market,Partner,Alex,Closed Lost,6168,37,0
+D00082,2025-08-07,2025-08-11,SMB,Outbound,Alex,Closed Won,2661,24,7
+D00083,2025-11-02,,SMB,Event,Chris,Open,4639,22,0
+D00084,2025-01-25,2025-01-28,SMB,Partner,Morgan,Closed Won,2457,36,2
+D00085,2025-09-28,2025-09-28,Mid-Market,Inbound,Jordan,Closed Won,6426,57,5
+D00086,2025-04-05,,SMB,Outbound,Chris,Closed Lost,2144,21,0
+D00087,2025-02-23,,SMB,Inbound,Sam,Open,2155,40,0
+D00088,2025-12-20,2025-12-28,Mid-Market,Referral,Alex,Closed Won,13401,51,5
+D00089,2025-08-05,2025-08-12,SMB,Outbound,Morgan,Closed Won,4736,36,8
+D00090,2025-01-21,,Enterprise,Partner,Chris,Closed Lost,23125,64,0
+D00091,2025-05-13,,Enterprise,Referral,Sam,Closed Lost,28800,56,0
+D00092,2025-07-14,,Mid-Market,Referral,Chris,Closed Lost,7620,67,0
+D00093,2025-12-07,,Mid-Market,Event,Sam,Open,7216,60,0
+D00094,2025-02-24,2025-02-28,SMB,Inbound,Alex,Closed Won,3332,39,15
+D00095,2025-10-01,,Enterprise,Outbound,Jordan,Closed Lost,19491,110,0
+D00096,2025-05-14,,Enterprise,Partner,Morgan,Open,16459,98,0
+D00097,2025-06-11,,Enterprise,Event,Jordan,Closed Lost,33697,57,0
+D00098,2025-02-02,,Enterprise,Referral,Chris,Closed Lost,17932,56,0
+D00099,2025-06-23,,SMB,Inbound,Taylor,Closed Lost,3692,30,0
+D00100,2025-03-04,2025-03-24,Enterprise,Event,Chris,Closed Won,22698,103,0
+D00101,2025-10-20,2025-10-24,SMB,Inbound,Chris,Closed Won,4691,22,12
+D00102,2025-11-18,,Mid-Market,Inbound,Taylor,Open,12813,41,0
+D00103,2025-11-25,,Enterprise,Referral,Chris,Closed Lost,28270,88,0
+D00104,2025-09-04,,Mid-Market,Inbound,Taylor,Open,12027,39,0
+D00105,2025-07-13,2025-07-18,SMB,Outbound,Taylor,Closed Won,2775,29,12
+D00106,2025-01-01,,Enterprise,Partner,Chris,Closed Lost,23885,96,0
+D00107,2025-05-03,2025-05-07,SMB,Partner,Sam,Closed Won,4077,22,3
+D00108,2025-03-20,,Mid-Market,Partner,Sam,Closed Lost,8717,35,0
+D00109,2025-10-27,,Mid-Market,Outbound,Taylor,Closed Lost,11964,42,0
+D00110,2025-05-26,,SMB,Partner,Chris,Closed Lost,4111,36,0
+D00111,2025-11-01,2025-11-12,Mid-Market,Inbound,Jordan,Closed Won,12113,58,8
+D00112,2025-12-17,2025-12-25,Mid-Market,Partner,Taylor,Closed Won,11077,44,11
+D00113,2025-09-17,,SMB,Outbound,Chris,Closed Lost,2855,33,0
+D00114,2025-11-09,,Mid-Market,Partner,Alex,Closed Lost,9907,47,0
+D00115,2025-11-25,2025-11-28,Mid-Market,Partner,Taylor,Closed Won,8097,62,12
+D00116,2025-03-06,,Mid-Market,Partner,Jordan,Closed Lost,11925,35,0
+D00117,2025-12-25,2025-12-28,SMB,Outbound,Alex,Closed Won,3912,32,13
+D00118,2025-11-23,2025-11-28,Enterprise,Event,Morgan,Closed Won,33646,91,0
+D00119,2025-07-14,2025-07-28,Enterprise,Inbound,Sam,Closed Won,22251,97,9
+D00120,2025-12-04,2025-12-08,SMB,Partner,Sam,Closed Won,3508,23,8
+D00121,2025-05-08,,SMB,Inbound,Alex,Closed Lost,3300,27,0
+D00122,2025-07-23,,SMB,Outbound,Taylor,Closed Lost,4651,40,0
+D00123,2025-07-02,,SMB,Event,Chris,Open,4086,37,0
+D00124,2025-05-09,,SMB,Event,Sam,Open,4921,23,0
+D00125,2025-03-01,2025-03-13,Mid-Market,Event,Morgan,Closed Won,13090,61,4
+D00126,2025-07-11,2025-07-20,Mid-Market,Inbound,Sam,Closed Won,12599,47,9
+D00127,2025-01-27,,Enterprise,Outbound,Sam,Closed Lost,26125,56,0
+D00128,2025-03-14,2025-03-25,Mid-Market,Inbound,Morgan,Closed Won,9872,58,0
+D00129,2025-03-20,,Enterprise,Partner,Morgan,Closed Lost,33665,77,0
+D00130,2025-02-07,2025-02-14,Mid-Market,Partner,Chris,Closed Won,11948,38,7
+D00131,2025-02-09,2025-02-12,SMB,Partner,Sam,Closed Won,2514,19,9
+D00132,2025-06-23,,SMB,Partner,Taylor,Closed Lost,3096,29,0
+D00133,2025-04-25,2025-04-28,Enterprise,Outbound,Jordan,Closed Won,16644,99,2
+D00134,2025-08-04,2025-08-11,SMB,Partner,Sam,Closed Won,3510,35,6
+D00135,2025-01-07,,SMB,Outbound,Taylor,Open,4350,20,0
+D00136,2025-01-06,2025-01-23,Enterprise,Referral,Taylor,Closed Won,29881,89,7
+D00137,2025-04-25,2025-04-28,SMB,Outbound,Chris,Closed Won,2836,26,14
+D00138,2025-02-15,2025-02-22,Mid-Market,Referral,Alex,Closed Won,5976,37,4
+D00139,2025-06-04,,Mid-Market,Partner,Chris,Open,7067,40,0
+D00140,2025-04-05,,Enterprise,Referral,Sam,Closed Lost,31108,64,0
+D00141,2025-04-25,,Enterprise,Partner,Jordan,Closed Lost,27203,55,0
+D00142,2025-05-16,2025-05-23,Mid-Market,Event,Chris,Closed Won,12867,35,13
+D00143,2025-07-05,,Mid-Market,Partner,Chris,Open,10753,32,0
+D00144,2025-03-13,,Mid-Market,Partner,Morgan,Closed Lost,9307,55,0
+D00145,2025-07-01,,Mid-Market,Event,Taylor,Closed Lost,8216,63,0
+D00146,2025-04-04,,Enterprise,Partner,Chris,Closed Lost,29049,81,0
+D00147,2025-02-14,,Enterprise,Event,Chris,Closed Lost,21353,104,0
+D00148,2025-08-23,2025-08-28,Enterprise,Event,Morgan,Closed Won,26049,66,2
+D00149,2025-08-04,2025-08-12,SMB,Event,Morgan,Closed Won,4894,40,3
+D00150,2025-10-12,2025-10-16,SMB,Inbound,Taylor,Closed Won,4099,21,10
+D00151,2025-02-20,,SMB,Referral,Morgan,Closed Lost,3662,38,0
+D00152,2025-05-25,2025-05-28,Mid-Market,Outbound,Alex,Closed Won,13051,71,12
+D00153,2025-03-12,,Enterprise,Outbound,Sam,Closed Lost,28682,83,0
+D00154,2025-06-19,2025-06-23,SMB,Outbound,Taylor,Closed Won,3065,24,1
+D00155,2025-07-22,,SMB,Inbound,Sam,Closed Lost,4566,19,0
+D00156,2025-06-01,,Mid-Market,Outbound,Jordan,Open,11691,50,0
+D00157,2025-03-09,,SMB,Outbound,Alex,Open,2097,35,0
+D00158,2025-08-24,,SMB,Inbound,Jordan,Closed Lost,2987,19,0
+D00159,2025-11-03,2025-11-09,SMB,Outbound,Chris,Closed Won,3468,33,10
+D00160,2025-11-23,,SMB,Event,Alex,Closed Lost,4785,42,0
+D00161,2025-12-23,,Mid-Market,Inbound,Sam,Closed Lost,6276,34,0
+D00162,2025-03-22,,Enterprise,Outbound,Alex,Open,33963,85,0
+D00163,2025-04-05,,Enterprise,Partner,Sam,Closed Lost,26039,83,0
+D00164,2025-02-08,2025-02-21,Mid-Market,Outbound,Jordan,Closed Won,13443,69,9
+D00165,2025-04-22,2025-04-28,SMB,Partner,Taylor,Closed Won,2864,41,2
+D00166,2025-11-12,2025-11-25,Mid-Market,Outbound,Alex,Closed Won,13058,66,5
+D00167,2025-10-05,2025-10-18,Mid-Market,Partner,Chris,Closed Won,10356,65,4
+D00168,2025-04-25,2025-04-28,Enterprise,Inbound,Jordan,Closed Won,25988,100,11
+D00169,2025-11-14,2025-11-22,SMB,Event,Taylor,Closed Won,2365,40,1
+D00170,2025-06-06,,Mid-Market,Outbound,Jordan,Closed Lost,8914,61,0
+D00171,2025-01-27,,Enterprise,Partner,Alex,Open,14715,54,0
+D00172,2025-09-13,2025-09-23,Mid-Market,Outbound,Alex,Closed Won,12149,50,6
+D00173,2025-05-27,,SMB,Event,Chris,Closed Lost,4694,36,0
+D00174,2025-09-06,,Mid-Market,Event,Sam,Closed Lost,11278,54,0
+D00175,2025-08-02,,Enterprise,Outbound,Chris,Closed Lost,15462,95,0
+D00176,2025-12-15,,Mid-Market,Referral,Chris,Closed Lost,9310,35,0
+D00177,2025-02-28,,SMB,Outbound,Taylor,Open,3737,40,0
+D00178,2025-07-27,,Enterprise,Inbound,Sam,Closed Lost,14619,111,0
+D00179,2025-03-10,2025-03-17,SMB,Event,Alex,Closed Won,4402,37,9
+D00180,2025-05-01,,SMB,Inbound,Sam,Closed Lost,2968,41,0
+D00181,2025-02-08,,Enterprise,Event,Jordan,Closed Lost,33020,109,0
+D00182,2025-02-12,,Mid-Market,Event,Jordan,Open,6273,43,0
+D00183,2025-04-05,,SMB,Outbound,Taylor,Closed Lost,2489,22,0
+D00184,2025-12-21,,Mid-Market,Referral,Chris,Closed Lost,12166,50,0
+D00185,2025-06-23,,SMB,Partner,Morgan,Closed Lost,2799,41,0
+D00186,2025-04-10,,SMB,Event,Jordan,Open,3610,20,0
+D00187,2025-03-07,,Enterprise,Event,Morgan,Open,26026,78,0
+D00188,2025-04-24,2025-04-28,SMB,Referral,Morgan,Closed Won,4936,36,15
+D00189,2025-12-17,,Enterprise,Inbound,Chris,Closed Lost,23357,89,0
+D00190,2025-04-15,2025-04-20,SMB,Inbound,Chris,Closed Won,2607,27,15
+D00191,2025-08-20,,SMB,Inbound,Jordan,Closed Lost,2970,34,0
+D00192,2025-12-18,,Mid-Market,Referral,Morgan,Closed Lost,9317,49,0
+D00193,2025-05-18,,Mid-Market,Event,Morgan,Open,13623,67,0
+D00194,2025-10-03,,Enterprise,Event,Jordan,Closed Lost,24259,91,0
+D00195,2025-11-24,,Enterprise,Referral,Jordan,Closed Lost,23287,87,0
+D00196,2025-05-10,,Enterprise,Event,Taylor,Open,24181,84,0
+D00197,2025-02-25,,SMB,Event,Jordan,Closed Lost,4737,40,0
+D00198,2025-05-18,,Enterprise,Outbound,Jordan,Closed Lost,28654,111,0
+D00199,2025-09-07,2025-09-14,Mid-Market,Inbound,Taylor,Closed Won,10349,39,13
+D00200,2025-08-05,2025-08-11,SMB,Partner,Taylor,Closed Won,4465,32,4
+D00201,2025-10-25,,Enterprise,Outbound,Sam,Open,16413,68,0
+D00202,2025-08-17,2025-08-28,Mid-Market,Event,Chris,Closed Won,8917,62,4
+D00203,2025-08-19,2025-08-25,SMB,Event,Alex,Closed Won,2497,31,0
+D00204,2025-04-07,,Mid-Market,Outbound,Jordan,Closed Lost,7219,53,0
+D00205,2025-09-09,,SMB,Partner,Morgan,Open,4294,40,0
+D00206,2025-03-28,2025-03-28,Enterprise,Referral,Morgan,Closed Won,33699,59,4
+D00207,2025-02-14,,Enterprise,Event,Chris,Closed Lost,31703,88,0
+D00208,2025-03-27,2025-03-28,Mid-Market,Inbound,Chris,Closed Won,6747,35,6
+D00209,2025-10-19,2025-10-28,Enterprise,Referral,Taylor,Closed Won,25238,67,11
+D00210,2025-10-22,,SMB,Outbound,Jordan,Closed Lost,3938,20,0
+D00211,2025-03-10,2025-03-26,Enterprise,Event,Morgan,Closed Won,29312,84,5
+D00212,2025-05-01,2025-05-23,Enterprise,Referral,Sam,Closed Won,23156,113,12
+D00213,2025-12-03,,SMB,Inbound,Sam,Open,4466,28,0
+D00214,2025-02-15,2025-02-25,Mid-Market,Event,Morgan,Closed Won,7152,53,13
+D00215,2025-06-19,2025-06-27,Mid-Market,Event,Morgan,Closed Won,10462,44,2
+D00216,2025-01-18,2025-01-24,SMB,Inbound,Morgan,Closed Won,4506,33,4
+D00217,2025-08-23,,Enterprise,Event,Jordan,Closed Lost,26989,90,0
+D00218,2025-04-28,,SMB,Partner,Sam,Open,4639,25,0
+D00219,2025-12-04,2025-12-08,SMB,Inbound,Alex,Closed Won,2089,23,13
+D00220,2025-04-21,2025-04-28,Mid-Market,Partner,Chris,Closed Won,13865,47,1
+D00221,2025-09-10,,Enterprise,Inbound,Chris,Closed Lost,17758,82,0
+D00222,2025-07-01,,Mid-Market,Outbound,Chris,Open,13348,66,0
+D00223,2025-04-10,,Enterprise,Inbound,Morgan,Closed Lost,17403,78,0
+D00224,2025-09-25,,Enterprise,Referral,Chris,Closed Lost,26073,73,0
+D00225,2025-01-16,2025-01-25,Mid-Market,Outbound,Jordan,Closed Won,12687,49,7
+D00226,2025-01-10,,Enterprise,Referral,Taylor,Closed Lost,21824,112,0
+D00227,2025-01-28,2025-01-28,SMB,Event,Morgan,Closed Won,2813,40,5
+D00228,2025-06-28,,Enterprise,Inbound,Jordan,Closed Lost,31104,97,0
+D00229,2025-02-15,2025-02-21,SMB,Partner,Morgan,Closed Won,2355,34,9
+D00230,2025-04-01,,SMB,Event,Taylor,Closed Lost,2349,34,0
+D00231,2025-05-13,2025-05-26,Mid-Market,Inbound,Sam,Closed Won,12424,67,7
+D00232,2025-04-22,2025-04-28,Mid-Market,Inbound,Alex,Closed Won,12654,63,6
+D00233,2025-03-13,2025-03-26,Enterprise,Referral,Sam,Closed Won,31758,65,9
+D00234,2025-07-21,2025-07-27,SMB,Outbound,Jordan,Closed Won,2723,34,9
+D00235,2025-04-03,2025-04-19,Enterprise,Event,Morgan,Closed Won,24171,82,3
+D00236,2025-11-14,2025-11-28,Enterprise,Outbound,Alex,Closed Won,29710,85,6
+D00237,2025-05-26,,Enterprise,Event,Morgan,Closed Lost,19975,64,0
+D00238,2025-11-28,,SMB,Referral,Chris,Closed Lost,2795,41,0
+D00239,2025-03-04,,Enterprise,Outbound,Alex,Closed Lost,24909,100,0
+D00240,2025-10-16,,SMB,Inbound,Jordan,Closed Lost,3334,29,0
+D00241,2025-04-12,,Enterprise,Referral,Taylor,Closed Lost,24096,73,0
+D00242,2025-02-08,,Enterprise,Outbound,Taylor,Closed Lost,32784,105,0
+D00243,2025-08-23,2025-08-28,Enterprise,Inbound,Chris,Closed Won,16530,93,8
+D00244,2025-09-28,,SMB,Event,Alex,Closed Lost,3234,41,0
+D00245,2025-03-19,2025-03-23,SMB,Outbound,Alex,Closed Won,4888,20,3
+D00246,2025-07-09,,Enterprise,Outbound,Alex,Closed Lost,30242,68,0
+D00247,2025-08-16,,Mid-Market,Inbound,Morgan,Closed Lost,6330,45,0
+D00248,2025-09-06,2025-09-28,Enterprise,Inbound,Morgan,Closed Won,21506,110,12
+D00249,2025-10-23,2025-10-28,SMB,Outbound,Chris,Closed Won,4789,38,14
+D00250,2025-02-11,,Enterprise,Inbound,Sam,Open,15088,110,0
+D00251,2025-12-09,,SMB,Outbound,Alex,Open,2413,37,0
+D00252,2025-06-06,,Mid-Market,Outbound,Jordan,Closed Lost,10233,71,0
+D00253,2025-06-14,2025-06-20,SMB,Partner,Chris,Closed Won,2196,31,11
+D00254,2025-12-22,,Mid-Market,Partner,Morgan,Closed Lost,7350,51,0
+D00255,2025-04-25,2025-04-28,SMB,Partner,Alex,Closed Won,2574,20,12
+D00256,2025-09-07,2025-09-12,SMB,Event,Sam,Closed Won,2220,27,6
+D00257,2025-03-01,2025-03-09,Mid-Market,Event,Jordan,Closed Won,13293,43,12
+D00258,2025-06-18,,Enterprise,Event,Taylor,Closed Lost,24978,82,0
+D00259,2025-10-02,,Enterprise,Event,Sam,Closed Lost,17580,75,0
+D00260,2025-04-12,,Mid-Market,Referral,Taylor,Closed Lost,13282,35,0
+D00261,2025-11-10,,Mid-Market,Outbound,Morgan,Open,9137,67,0
+D00262,2025-03-18,,Enterprise,Partner,Morgan,Closed Lost,32566,89,0
+D00263,2025-12-28,,Enterprise,Partner,Alex,Closed Lost,18723,102,0
+D00264,2025-10-10,,Mid-Market,Referral,Morgan,Closed Lost,8878,67,0
+D00265,2025-11-25,,Enterprise,Event,Morgan,Open,27309,81,0
+D00266,2025-08-05,2025-08-11,SMB,Partner,Sam,Closed Won,3649,31,3
+D00267,2025-07-27,,Enterprise,Referral,Chris,Closed Lost,16179,83,0
+D00268,2025-05-10,2025-05-15,SMB,Partner,Jordan,Closed Won,3709,27,5
+D00269,2025-08-10,,Mid-Market,Outbound,Jordan,Closed Lost,12739,68,0
+D00270,2025-03-23,2025-03-28,Enterprise,Event,Alex,Closed Won,17634,54,8
+D00271,2025-09-20,,SMB,Outbound,Jordan,Open,3389,24,0
+D00272,2025-11-07,2025-11-12,SMB,Outbound,Alex,Closed Won,2357,25,6
+D00273,2025-11-04,2025-11-23,Enterprise,Event,Morgan,Closed Won,24152,97,6
+D00274,2025-04-27,,Mid-Market,Outbound,Alex,Open,12752,51,0
+D00275,2025-11-17,,Enterprise,Event,Taylor,Closed Lost,33267,88,0
+D00276,2025-06-09,,Mid-Market,Outbound,Taylor,Closed Lost,10410,69,0
+D00277,2025-05-15,,Enterprise,Event,Morgan,Closed Lost,18666,74,0
+D00278,2025-12-01,2025-12-18,Enterprise,Event,Sam,Closed Won,30596,87,13
+D00279,2025-02-17,,SMB,Inbound,Taylor,Closed Lost,4303,21,0
+D00280,2025-09-12,,Enterprise,Referral,Sam,Closed Lost,16317,112,0
+D00281,2025-11-05,2025-11-27,Enterprise,Event,Morgan,Closed Won,23567,112,10
+D00282,2025-03-19,,SMB,Inbound,Jordan,Closed Lost,3006,37,0
+D00283,2025-01-16,,Mid-Market,Event,Sam,Closed Lost,12931,40,0
+D00284,2025-09-01,2025-09-08,SMB,Event,Sam,Closed Won,4412,37,2
+D00285,2025-09-18,,SMB,Inbound,Chris,Closed Lost,4395,39,0
+D00286,2025-05-05,2025-05-22,Enterprise,Inbound,Chris,Closed Won,25852,87,12
+D00287,2025-09-07,,Enterprise,Event,Taylor,Closed Lost,29386,98,0
+D00288,2025-02-19,2025-02-28,Mid-Market,Partner,Morgan,Closed Won,7620,56,1
+D00289,2025-10-02,,Enterprise,Inbound,Sam,Open,21025,91,0
+D00290,2025-03-09,2025-03-14,SMB,Partner,Chris,Closed Won,4610,27,6
+D00291,2025-03-28,,Enterprise,Event,Taylor,Closed Lost,25937,81,0
+D00292,2025-06-01,,Enterprise,Referral,Chris,Closed Lost,20872,56,0
+D00293,2025-04-07,,Enterprise,Referral,Chris,Closed Lost,17274,109,0
+D00294,2025-10-21,,SMB,Inbound,Sam,Open,4136,39,0
+D00295,2025-12-10,2025-12-26,Enterprise,Referral,Sam,Closed Won,30094,82,1
+D00296,2025-06-24,,Mid-Market,Referral,Morgan,Open,7307,48,0
+D00297,2025-04-11,,Enterprise,Outbound,Taylor,Open,28053,77,0
+D00298,2025-07-20,,Mid-Market,Partner,Taylor,Closed Lost,8215,45,0
+D00299,2025-12-14,,Mid-Market,Referral,Jordan,Closed Lost,7083,39,0
+D00300,2025-11-27,,Enterprise,Inbound,Jordan,Closed Lost,21154,106,0
+D00301,2025-03-03,,Mid-Market,Partner,Morgan,Closed Lost,8582,41,0
+D00302,2025-11-28,,Enterprise,Event,Alex,Closed Lost,25116,60,0
+D00303,2025-05-02,,SMB,Partner,Taylor,Closed Lost,4896,35,0
+D00304,2025-04-14,2025-04-25,Mid-Market,Inbound,Jordan,Closed Won,13218,57,5
+D00305,2025-10-27,,Mid-Market,Event,Morgan,Open,10394,34,0
+D00306,2025-04-26,,Mid-Market,Outbound,Jordan,Closed Lost,10875,42,0
+D00307,2025-07-12,,Enterprise,Partner,Chris,Closed Lost,20584,100,0
+D00308,2025-06-06,2025-06-11,SMB,Outbound,Morgan,Closed Won,3915,28,7
+D00309,2025-02-18,2025-02-24,SMB,Referral,Chris,Closed Won,3193,34,6
+D00310,2025-04-08,,Enterprise,Event,Sam,Closed Lost,30048,85,0
+D00311,2025-10-19,,Mid-Market,Partner,Jordan,Closed Lost,6005,43,0
+D00312,2025-07-04,,SMB,Outbound,Alex,Open,3196,20,0
+D00313,2025-06-09,2025-06-15,SMB,Partner,Morgan,Closed Won,2132,30,1
+D00314,2025-05-17,,Enterprise,Inbound,Taylor,Closed Lost,23808,94,0
+D00315,2025-06-13,2025-06-23,Mid-Market,Outbound,Morgan,Closed Won,12734,54,4
+D00316,2025-09-06,,Enterprise,Event,Taylor,Closed Lost,18337,100,0
+D00317,2025-06-09,2025-06-20,Mid-Market,Outbound,Taylor,Closed Won,9193,58,3
+D00318,2025-07-16,,Enterprise,Outbound,Taylor,Closed Lost,31679,79,0
+D00319,2025-10-09,2025-10-28,Enterprise,Inbound,Chris,Closed Won,22235,96,12
+D00320,2025-05-26,,SMB,Event,Sam,Closed Lost,4799,26,0
+D00321,2025-02-04,,Enterprise,Partner,Taylor,Closed Lost,18562,76,0
+D00322,2025-09-08,,Enterprise,Event,Morgan,Closed Lost,20632,52,0
+D00323,2025-12-09,2025-12-16,Mid-Market,Inbound,Chris,Closed Won,13782,36,10
+D00324,2025-03-14,,Enterprise,Partner,Morgan,Closed Lost,32379,61,0
+D00325,2025-04-25,,Mid-Market,Referral,Alex,Closed Lost,10872,39,0
+D00326,2025-01-19,2025-01-23,SMB,Event,Morgan,Closed Won,4463,23,11
+D00327,2025-03-15,,Enterprise,Partner,Chris,Open,21646,98,0
+D00328,2025-02-16,,SMB,Partner,Jordan,Closed Lost,3319,25,0
+D00329,2025-04-21,,Mid-Market,Outbound,Morgan,Open,10933,69,0
+D00330,2025-02-09,,Mid-Market,Inbound,Morgan,Closed Lost,8682,37,0
+D00331,2025-07-15,2025-07-20,SMB,Partner,Taylor,Closed Won,4868,27,8
+D00332,2025-05-01,2025-05-22,Enterprise,Outbound,Taylor,Closed Won,16126,105,4
+D00333,2025-11-16,,Enterprise,Partner,Taylor,Closed Lost,15545,95,0
+D00334,2025-09-15,2025-09-28,Enterprise,Outbound,Alex,Closed Won,18844,67,12
+D00335,2025-11-04,,Mid-Market,Partner,Sam,Closed Lost,11192,54,0
+D00336,2025-05-13,2025-05-28,Enterprise,Outbound,Chris,Closed Won,18653,84,11
+D00337,2025-12-13,2025-12-28,Enterprise,Event,Morgan,Closed Won,17261,103,8
+D00338,2025-07-27,,Mid-Market,Referral,Alex,Open,12105,58,0
+D00339,2025-09-07,,Enterprise,Event,Morgan,Closed Lost,32569,92,0
+D00340,2025-03-10,,Enterprise,Outbound,Jordan,Open,17863,85,0
+D00341,2025-04-01,2025-04-15,Enterprise,Outbound,Sam,Closed Won,21071,70,9
+D00342,2025-09-17,2025-09-28,Enterprise,Referral,Sam,Closed Won,26236,91,6
+D00343,2025-09-27,2025-09-28,SMB,Referral,Jordan,Closed Won,2306,26,13
+D00344,2025-01-10,,Enterprise,Referral,Morgan,Closed Lost,18416,76,0
+D00345,2025-07-16,,Enterprise,Partner,Chris,Closed Lost,33074,79,0
+D00346,2025-08-04,,SMB,Partner,Alex,Closed Lost,3460,32,0
+D00347,2025-03-18,2025-03-23,SMB,Inbound,Jordan,Closed Won,2957,27,6
+D00348,2025-06-12,,Enterprise,Partner,Chris,Closed Lost,16573,98,0
+D00349,2025-05-13,2025-05-28,Enterprise,Event,Chris,Closed Won,30818,102,11
+D00350,2025-03-07,,Enterprise,Event,Jordan,Open,27457,97,0
+D00351,2025-08-20,2025-08-25,SMB,Referral,Chris,Closed Won,3344,27,6
+D00352,2025-03-26,,Mid-Market,Referral,Morgan,Closed Lost,9677,36,0
+D00353,2025-05-28,,Enterprise,Outbound,Chris,Closed Lost,25688,98,0
+D00354,2025-06-28,,Enterprise,Inbound,Chris,Closed Lost,28984,87,0
+D00355,2025-09-03,,Enterprise,Inbound,Alex,Closed Lost,31296,70,0
+D00356,2025-03-17,2025-03-24,Mid-Market,Referral,Alex,Closed Won,8355,37,10
+D00357,2025-05-02,2025-05-15,Mid-Market,Event,Sam,Closed Won,6422,66,13
+D00358,2025-06-27,2025-06-28,Mid-Market,Event,Morgan,Closed Won,9629,47,0
+D00359,2025-05-10,,Mid-Market,Outbound,Chris,Open,13266,38,0
+D00360,2025-01-16,,SMB,Referral,Morgan,Open,4628,27,0
+D00361,2025-01-18,2025-01-28,Mid-Market,Event,Sam,Closed Won,10776,70,10
+D00362,2025-08-05,,Enterprise,Event,Sam,Closed Lost,24788,105,0
+D00363,2025-09-26,,Enterprise,Referral,Alex,Closed Lost,16078,60,0
+D00364,2025-09-03,,Enterprise,Event,Morgan,Closed Lost,21403,61,0
+D00365,2025-11-26,,Enterprise,Partner,Chris,Open,17887,74,0
+D00366,2025-06-28,,Enterprise,Partner,Sam,Closed Lost,25229,56,0
+D00367,2025-10-24,2025-10-28,SMB,Partner,Chris,Closed Won,3322,22,8
+D00368,2025-08-09,2025-08-16,SMB,Partner,Morgan,Closed Won,2520,35,6
+D00369,2025-09-17,,Enterprise,Event,Jordan,Closed Lost,33614,83,0
+D00370,2025-05-10,,SMB,Inbound,Jordan,Closed Lost,3758,35,0
+D00371,2025-04-20,,Enterprise,Referral,Alex,Open,23473,68,0
+D00372,2025-06-19,2025-06-26,Mid-Market,Partner,Chris,Closed Won,8331,35,9
+D00373,2025-08-20,2025-08-28,Enterprise,Inbound,Sam,Closed Won,25184,102,0
+D00374,2025-01-04,2025-01-13,Mid-Market,Inbound,Jordan,Closed Won,10616,46,9
+D00375,2025-09-05,2025-09-08,SMB,Inbound,Alex,Closed Won,3475,19,2
+D00376,2025-07-09,2025-07-26,Enterprise,Event,Alex,Closed Won,25317,89,10
+D00377,2025-07-21,2025-07-28,SMB,Referral,Alex,Closed Won,3316,35,7
+D00378,2025-10-15,,SMB,Referral,Alex,Open,2545,41,0
+D00379,2025-08-07,,SMB,Referral,Morgan,Open,2329,37,0
+D00380,2025-05-24,2025-05-28,Enterprise,Inbound,Jordan,Closed Won,16616,75,7
+D00381,2025-03-04,,SMB,Referral,Sam,Closed Lost,4540,26,0
+D00382,2025-03-14,2025-03-22,Mid-Market,Outbound,Morgan,Closed Won,9666,44,3
+D00383,2025-10-19,,Enterprise,Referral,Alex,Closed Lost,26458,105,0
+D00384,2025-08-03,2025-08-10,SMB,Outbound,Morgan,Closed Won,2100,36,14
+D00385,2025-04-22,2025-04-28,Mid-Market,Outbound,Alex,Closed Won,10632,66,9
+D00386,2025-06-15,,Enterprise,Referral,Chris,Closed Lost,27748,86,0
+D00387,2025-04-19,2025-04-25,Mid-Market,Event,Morgan,Closed Won,12938,34,11
+D00388,2025-08-19,,Mid-Market,Referral,Taylor,Closed Lost,10913,53,0
+D00389,2025-02-26,,Enterprise,Inbound,Taylor,Closed Lost,23973,58,0
+D00390,2025-01-01,,Enterprise,Inbound,Chris,Closed Lost,31792,63,0
+D00391,2025-01-16,,SMB,Event,Chris,Closed Lost,3761,26,0
+D00392,2025-10-23,,Mid-Market,Partner,Alex,Closed Lost,12007,54,0
+D00393,2025-07-03,,SMB,Referral,Jordan,Closed Lost,3983,20,0
+D00394,2025-09-09,,Enterprise,Outbound,Taylor,Closed Lost,16397,58,0
+D00395,2025-04-26,2025-04-28,Mid-Market,Event,Alex,Closed Won,12289,47,2
+D00396,2025-12-09,,SMB,Referral,Taylor,Closed Lost,4789,19,0
+D00397,2025-10-26,,Mid-Market,Partner,Morgan,Closed Lost,9954,61,0
+D00398,2025-11-14,,Enterprise,Outbound,Chris,Closed Lost,21092,59,0
+D00399,2025-11-19,,Mid-Market,Outbound,Alex,Closed Lost,6679,63,0
+D00400,2025-01-03,2025-01-07,SMB,Inbound,Alex,Closed Won,3372,23,5
+D00401,2025-09-22,,SMB,Outbound,Taylor,Closed Lost,2441,19,0
+D00402,2025-11-23,,Enterprise,Inbound,Taylor,Closed Lost,17295,77,0
+D00403,2025-06-16,,Enterprise,Inbound,Taylor,Closed Lost,28759,80,0
+D00404,2025-05-06,2025-05-27,Enterprise,Referral,Taylor,Closed Won,28884,108,7
+D00405,2025-05-25,2025-05-28,Mid-Market,Event,Morgan,Closed Won,12825,44,15
+D00406,2025-02-11,,Mid-Market,Event,Chris,Closed Lost,8148,55,0
+D00407,2025-02-27,2025-02-28,SMB,Referral,Taylor,Closed Won,3782,31,7
+D00408,2025-01-19,,SMB,Inbound,Jordan,Closed Lost,2279,40,0
+D00409,2025-12-12,,SMB,Event,Chris,Closed Lost,3952,19,0
+D00410,2025-10-26,,Mid-Market,Outbound,Sam,Closed Lost,11942,42,0
+D00411,2025-01-17,,Mid-Market,Referral,Alex,Closed Lost,6889,54,0
+D00412,2025-08-08,2025-08-16,SMB,Event,Sam,Closed Won,4207,40,9
+D00413,2025-06-20,,Enterprise,Inbound,Taylor,Closed Lost,27123,72,0
+D00414,2025-09-16,,Enterprise,Partner,Sam,Closed Lost,18367,99,0
+D00415,2025-05-01,,Mid-Market,Event,Alex,Open,10558,63,0
+D00416,2025-12-02,,SMB,Partner,Chris,Open,4790,31,0
+D00417,2025-06-02,,Mid-Market,Event,Morgan,Closed Lost,8974,42,0
+D00418,2025-08-19,2025-08-28,Enterprise,Outbound,Jordan,Closed Won,31464,67,4
+D00419,2025-04-04,,Enterprise,Outbound,Taylor,Open,15595,70,0
+D00420,2025-07-14,,Enterprise,Outbound,Chris,Closed Lost,16021,71,0
+D00421,2025-05-06,2025-05-13,SMB,Inbound,Chris,Closed Won,4341,39,4
+D00422,2025-05-21,2025-05-28,SMB,Outbound,Taylor,Closed Won,4170,36,4
+D00423,2025-04-08,,Enterprise,Partner,Chris,Open,33306,90,0
+D00424,2025-09-13,,SMB,Event,Alex,Closed Lost,3512,32,0
+D00425,2025-07-12,2025-07-28,Enterprise,Inbound,Chris,Closed Won,29093,108,7
+D00426,2025-06-22,2025-06-28,Enterprise,Partner,Alex,Closed Won,31114,100,11
+D00427,2025-05-06,,Mid-Market,Partner,Sam,Closed Lost,13107,50,0
+D00428,2025-05-11,2025-05-20,Mid-Market,Event,Jordan,Closed Won,13774,47,12
+D00429,2025-08-04,2025-08-10,Mid-Market,Partner,Alex,Closed Won,9958,33,12
+D00430,2025-02-25,,SMB,Referral,Sam,Closed Lost,2354,33,0
+D00431,2025-10-22,,Mid-Market,Inbound,Morgan,Closed Lost,8190,57,0
+D00432,2025-10-27,2025-10-28,Mid-Market,Inbound,Chris,Closed Won,12125,37,10
+D00433,2025-11-07,,Mid-Market,Outbound,Sam,Closed Lost,10514,40,0
+D00434,2025-08-01,2025-08-05,SMB,Event,Alex,Closed Won,4842,22,8
+D00435,2025-10-17,,Mid-Market,Referral,Morgan,Closed Lost,13905,65,0
+D00436,2025-05-07,2025-05-14,Mid-Market,Referral,Jordan,Closed Won,12450,37,15
+D00437,2025-07-25,,SMB,Outbound,Alex,Closed Lost,3670,25,0
+D00438,2025-10-02,,SMB,Partner,Alex,Closed Lost,4137,37,0
+D00439,2025-04-25,2025-04-28,Mid-Market,Partner,Morgan,Closed Won,6558,60,3
+D00440,2025-04-22,,Enterprise,Inbound,Alex,Closed Lost,32367,51,0
+D00441,2025-08-08,,Enterprise,Inbound,Alex,Closed Lost,20483,70,0
+D00442,2025-04-04,2025-04-14,Mid-Market,Outbound,Sam,Closed Won,7604,50,2
+D00443,2025-04-01,,Mid-Market,Outbound,Morgan,Open,12643,45,0
+D00444,2025-12-28,,Enterprise,Partner,Sam,Closed Lost,21131,74,0
+D00445,2025-01-26,2025-01-28,Enterprise,Referral,Jordan,Closed Won,29404,108,14
+D00446,2025-08-05,,Enterprise,Inbound,Sam,Closed Lost,15874,88,0
+D00447,2025-07-10,,Mid-Market,Partner,Taylor,Open,9919,58,0
+D00448,2025-04-25,,Enterprise,Referral,Jordan,Closed Lost,30856,101,0
+D00449,2025-09-04,,Mid-Market,Partner,Morgan,Closed Lost,9023,64,0
+D00450,2025-02-25,,Enterprise,Inbound,Taylor,Closed Lost,25237,56,0
+D00451,2025-08-18,,Enterprise,Event,Sam,Closed Lost,16041,105,0
+D00452,2025-02-15,,Enterprise,Inbound,Taylor,Closed Lost,24837,107,0
+D00453,2025-07-15,2025-07-22,SMB,Outbound,Jordan,Closed Won,3871,35,4
+D00454,2025-10-21,,Enterprise,Outbound,Chris,Open,19433,100,0
+D00455,2025-08-03,2025-08-06,SMB,Partner,Chris,Closed Won,4625,19,4
+D00456,2025-04-28,,Mid-Market,Inbound,Jordan,Closed Lost,12607,65,0
+D00457,2025-02-09,,Mid-Market,Inbound,Chris,Open,7629,41,0
+D00458,2025-11-28,,SMB,Partner,Sam,Open,3010,27,0
+D00459,2025-07-10,,Mid-Market,Partner,Chris,Closed Lost,9365,65,0
+D00460,2025-05-25,,Mid-Market,Event,Sam,Closed Lost,7807,58,0
+D00461,2025-06-13,,Enterprise,Partner,Chris,Closed Lost,26201,110,0
+D00462,2025-01-26,,Enterprise,Referral,Chris,Closed Lost,31416,90,0
+D00463,2025-10-23,2025-10-28,SMB,Inbound,Alex,Closed Won,4306,27,15
+D00464,2025-12-03,,Mid-Market,Referral,Sam,Open,8772,63,0
+D00465,2025-02-25,,Mid-Market,Outbound,Chris,Closed Lost,7169,48,0
+D00466,2025-01-14,,SMB,Event,Alex,Closed Lost,2744,25,0
+D00467,2025-01-06,2025-01-18,Enterprise,Event,Morgan,Closed Won,17714,63,2
+D00468,2025-11-21,,SMB,Event,Chris,Closed Lost,3271,40,0
+D00469,2025-04-14,,Enterprise,Inbound,Alex,Closed Lost,15769,87,0
+D00470,2025-05-04,2025-05-08,SMB,Partner,Alex,Closed Won,4139,22,14
+D00471,2025-06-27,,Enterprise,Referral,Chris,Closed Lost,28405,87,0
+D00472,2025-09-14,,Enterprise,Outbound,Taylor,Closed Lost,30677,77,0
+D00473,2025-03-18,,Enterprise,Outbound,Alex,Closed Lost,15612,57,0
+D00474,2025-03-01,,Enterprise,Outbound,Sam,Open,32762,72,0
+D00475,2025-07-24,,Mid-Market,Outbound,Sam,Closed Lost,10977,59,0
+D00476,2025-08-03,2025-08-13,Mid-Market,Inbound,Jordan,Closed Won,11007,54,7
+D00477,2025-11-01,,Mid-Market,Event,Alex,Closed Lost,8566,50,0
+D00478,2025-05-08,,Mid-Market,Outbound,Chris,Closed Lost,12192,59,0
+D00479,2025-11-16,2025-11-28,Enterprise,Referral,Morgan,Closed Won,29966,103,2
+D00480,2025-11-15,,Mid-Market,Event,Chris,Open,8191,69,0
+D00481,2025-10-12,,Enterprise,Event,Taylor,Open,28298,88,0
+D00482,2025-03-02,,SMB,Referral,Taylor,Closed Lost,2843,36,0
+D00483,2025-05-08,,Enterprise,Partner,Alex,Closed Lost,31574,70,0
+D00484,2025-07-01,,SMB,Partner,Chris,Closed Lost,2521,28,0
+D00485,2025-04-05,2025-04-21,Enterprise,Outbound,Sam,Closed Won,20859,83,7
+D00486,2025-12-26,2025-12-28,Mid-Market,Referral,Taylor,Closed Won,9250,50,5
+D00487,2025-09-20,2025-09-25,SMB,Event,Alex,Closed Won,2592,28,7
+D00488,2025-12-19,,Enterprise,Partner,Sam,Closed Lost,20062,111,0
+D00489,2025-05-11,2025-05-16,SMB,Inbound,Chris,Closed Won,2245,25,10
+D00490,2025-02-18,2025-02-27,Mid-Market,Outbound,Jordan,Closed Won,10518,47,5
+D00491,2025-09-24,,Enterprise,Partner,Jordan,Closed Lost,16186,74,0
+D00492,2025-01-28,,SMB,Inbound,Sam,Closed Lost,2799,28,0
+D00493,2025-12-18,,Mid-Market,Inbound,Sam,Open,6121,54,0
+D00494,2025-05-19,,Enterprise,Outbound,Chris,Closed Lost,25347,112,0
+D00495,2025-02-05,,SMB,Partner,Jordan,Closed Lost,3868,24,0
+D00496,2025-08-17,,Enterprise,Referral,Alex,Closed Lost,27714,82,0
+D00497,2025-02-03,,Enterprise,Outbound,Morgan,Closed Lost,31595,112,0
+D00498,2025-04-24,,Mid-Market,Event,Alex,Closed Lost,6989,43,0
+D00499,2025-10-08,2025-10-16,SMB,Referral,Morgan,Closed Won,3103,41,6
+D00500,2025-09-25,2025-09-28,SMB,Outbound,Morgan,Closed Won,4667,26,10
+D00501,2025-05-03,2025-05-22,Enterprise,Partner,Alex,Closed Won,24514,96,8
+D00502,2025-06-06,,Enterprise,Outbound,Jordan,Closed Lost,21570,73,0
+D00503,2025-03-12,,Mid-Market,Inbound,Morgan,Closed Lost,9434,64,0
+D00504,2025-02-22,2025-02-28,Mid-Market,Event,Jordan,Closed Won,10762,53,2
+D00505,2025-08-10,,Enterprise,Event,Taylor,Open,18396,69,0
+D00506,2025-10-05,2025-10-24,Enterprise,Referral,Sam,Closed Won,28566,96,12
+D00507,2025-07-01,,Enterprise,Event,Morgan,Closed Lost,22895,76,0
+D00508,2025-04-03,2025-04-09,SMB,Event,Jordan,Closed Won,3391,32,2
+D00509,2025-12-14,2025-12-26,Mid-Market,Inbound,Morgan,Closed Won,12680,63,2
+D00510,2025-01-02,,Enterprise,Outbound,Sam,Open,25031,78,0
+D00511,2025-03-13,2025-03-25,Mid-Market,Event,Alex,Closed Won,10678,61,2
+D00512,2025-07-04,,Enterprise,Partner,Taylor,Open,23100,60,0
+D00513,2025-07-08,,SMB,Partner,Morgan,Closed Lost,2261,29,0
+D00514,2025-01-11,2025-01-19,Mid-Market,Partner,Jordan,Closed Won,9337,44,11
+D00515,2025-04-18,,Mid-Market,Event,Jordan,Closed Lost,12394,40,0
+D00516,2025-09-09,,SMB,Inbound,Chris,Open,2264,22,0
+D00517,2025-07-13,,SMB,Inbound,Chris,Closed Lost,4220,37,0
+D00518,2025-11-28,,Enterprise,Outbound,Chris,Closed Lost,27080,110,0
+D00519,2025-07-20,2025-07-28,Mid-Market,Event,Taylor,Closed Won,12493,69,11
+D00520,2025-12-07,2025-12-14,SMB,Inbound,Taylor,Closed Won,3594,39,6
+D00521,2025-03-27,,Enterprise,Referral,Jordan,Closed Lost,26170,65,0
+D00522,2025-03-16,,SMB,Outbound,Jordan,Closed Lost,3184,28,0
+D00523,2025-04-08,2025-04-20,Mid-Market,Referral,Chris,Closed Won,11472,62,4
+D00524,2025-12-27,,Mid-Market,Referral,Chris,Closed Lost,6537,42,0
+D00525,2025-06-22,,Enterprise,Event,Morgan,Closed Lost,21528,81,0
+D00526,2025-06-11,,Mid-Market,Event,Morgan,Open,13662,35,0
+D00527,2025-02-23,2025-02-28,SMB,Outbound,Sam,Closed Won,3175,38,0
+D00528,2025-10-18,2025-10-23,SMB,Inbound,Alex,Closed Won,4676,29,14
+D00529,2025-07-02,2025-07-10,SMB,Partner,Jordan,Closed Won,4648,40,15
+D00530,2025-08-24,,Mid-Market,Referral,Morgan,Closed Lost,13192,34,0
+D00531,2025-06-27,2025-06-28,SMB,Referral,Taylor,Closed Won,3209,32,0
+D00532,2025-08-28,,Enterprise,Inbound,Alex,Closed Lost,18718,98,0
+D00533,2025-05-02,,SMB,Event,Chris,Open,4755,28,0
+D00534,2025-12-03,,Enterprise,Partner,Morgan,Closed Lost,26340,73,0
+D00535,2025-03-01,,Mid-Market,Outbound,Alex,Closed Lost,11944,67,0
+D00536,2025-08-16,2025-08-23,SMB,Partner,Sam,Closed Won,4147,38,4
+D00537,2025-01-21,,Mid-Market,Outbound,Taylor,Closed Lost,12260,56,0
+D00538,2025-07-13,2025-07-17,SMB,Event,Sam,Closed Won,4415,20,10
+D00539,2025-11-06,,Enterprise,Partner,Alex,Closed Lost,32361,99,0
+D00540,2025-06-04,,Mid-Market,Event,Morgan,Closed Lost,7363,32,0
+D00541,2025-07-19,2025-07-25,SMB,Inbound,Chris,Closed Won,2764,31,8
+D00542,2025-01-01,,Mid-Market,Referral,Morgan,Closed Lost,8482,53,0
+D00543,2025-02-28,,Enterprise,Outbound,Taylor,Closed Lost,16936,101,0
+D00544,2025-01-12,2025-01-18,SMB,Event,Chris,Closed Won,2780,33,1
+D00545,2025-08-10,,Enterprise,Event,Taylor,Closed Lost,29811,61,0
+D00546,2025-05-09,,Mid-Market,Inbound,Taylor,Open,10271,50,0
+D00547,2025-05-28,2025-05-28,Enterprise,Outbound,Chris,Closed Won,18382,99,11
+D00548,2025-05-07,,SMB,Event,Morgan,Open,3574,26,0
+D00549,2025-08-02,,Enterprise,Partner,Alex,Closed Lost,17353,63,0
+D00550,2025-09-01,,Enterprise,Partner,Sam,Open,25646,56,0
+D00551,2025-02-28,2025-02-28,SMB,Partner,Taylor,Closed Won,2584,28,13
+D00552,2025-07-07,,SMB,Partner,Chris,Closed Lost,2670,38,0
+D00553,2025-09-18,2025-09-26,SMB,Inbound,Chris,Closed Won,3962,41,14
+D00554,2025-09-18,2025-09-25,SMB,Partner,Jordan,Closed Won,2811,35,1
+D00555,2025-04-09,2025-04-14,SMB,Referral,Taylor,Closed Won,2259,28,10
+D00556,2025-03-14,,SMB,Outbound,Chris,Closed Lost,3280,40,0
+D00557,2025-11-04,,Enterprise,Outbound,Jordan,Open,22848,80,0
+D00558,2025-02-02,2025-02-14,Mid-Market,Event,Chris,Closed Won,6849,64,14
+D00559,2025-07-07,,Mid-Market,Outbound,Jordan,Closed Lost,6152,60,0
+D00560,2025-07-17,,Mid-Market,Inbound,Chris,Closed Lost,9040,67,0
+D00561,2025-08-06,,Mid-Market,Inbound,Alex,Open,10737,38,0
+D00562,2025-08-22,,Mid-Market,Referral,Taylor,Closed Lost,7605,45,0
+D00563,2025-08-15,2025-08-28,Enterprise,Partner,Jordan,Closed Won,24875,98,6
+D00564,2025-01-01,2025-01-05,SMB,Inbound,Morgan,Closed Won,3126,23,15
+D00565,2025-07-17,,Enterprise,Event,Jordan,Closed Lost,18340,102,0
+D00566,2025-10-07,,Enterprise,Event,Alex,Open,25876,104,0
+D00567,2025-03-18,2025-03-22,SMB,Inbound,Alex,Closed Won,3905,23,11
+D00568,2025-12-22,,SMB,Outbound,Taylor,Open,4102,40,0
+D00569,2025-07-02,,SMB,Partner,Morgan,Open,3757,25,0
+D00570,2025-01-19,,Enterprise,Referral,Chris,Closed Lost,20333,92,0
+D00571,2025-11-13,,Enterprise,Inbound,Jordan,Closed Lost,19681,86,0
+D00572,2025-04-09,,SMB,Event,Morgan,Open,3217,41,0
+D00573,2025-06-23,2025-06-27,SMB,Partner,Jordan,Closed Won,3142,20,6
+D00574,2025-09-28,2025-09-28,Mid-Market,Inbound,Chris,Closed Won,8180,65,14
+D00575,2025-07-21,,SMB,Referral,Alex,Closed Lost,3271,41,0
+D00576,2025-07-09,,Mid-Market,Event,Morgan,Closed Lost,8083,49,0
+D00577,2025-03-08,,Enterprise,Event,Taylor,Closed Lost,18612,57,0
+D00578,2025-06-20,,Mid-Market,Outbound,Chris,Open,9150,70,0
+D00579,2025-04-24,2025-04-28,SMB,Outbound,Sam,Closed Won,2091,41,10
+D00580,2025-01-25,,SMB,Event,Sam,Closed Lost,4733,19,0
+D00581,2025-10-24,,SMB,Inbound,Chris,Closed Lost,2483,32,0
+D00582,2025-04-06,,Mid-Market,Partner,Jordan,Open,7844,66,0
+D00583,2025-02-18,,SMB,Inbound,Sam,Open,2791,21,0
+D00584,2025-06-25,,Mid-Market,Event,Alex,Closed Lost,9784,59,0
+D00585,2025-01-01,,SMB,Outbound,Jordan,Closed Lost,3307,41,0
+D00586,2025-07-11,,SMB,Referral,Alex,Open,3515,39,0
+D00587,2025-11-20,,Enterprise,Event,Taylor,Closed Lost,14406,79,0
+D00588,2025-03-08,,Mid-Market,Referral,Morgan,Closed Lost,6629,35,0
+D00589,2025-10-09,2025-10-28,Enterprise,Inbound,Jordan,Closed Won,30087,102,12
+D00590,2025-03-08,,Mid-Market,Partner,Alex,Closed Lost,12772,67,0
+D00591,2025-10-22,,Mid-Market,Referral,Alex,Closed Lost,7682,33,0
+D00592,2025-12-01,,Mid-Market,Partner,Taylor,Closed Lost,10839,51,0
+D00593,2025-03-13,,Enterprise,Partner,Alex,Closed Lost,26672,101,0
+D00594,2025-10-22,2025-10-28,SMB,Referral,Alex,Closed Won,4116,31,14
+D00595,2025-02-22,,SMB,Inbound,Taylor,Closed Lost,4422,42,0
+D00596,2025-12-21,,Mid-Market,Outbound,Chris,Closed Lost,12547,57,0
+D00597,2025-11-12,2025-11-17,SMB,Referral,Sam,Closed Won,3144,28,5
+D00598,2025-08-03,,Enterprise,Event,Jordan,Closed Lost,29779,100,0
+D00599,2025-06-14,2025-06-17,SMB,Event,Alex,Closed Won,3858,19,4
+D00600,2025-02-13,2025-02-19,Mid-Market,Partner,Chris,Closed Won,7652,32,9
+D00601,2025-06-21,,SMB,Partner,Jordan,Closed Lost,4850,31,0
+D00602,2025-02-21,2025-02-25,SMB,Inbound,Chris,Closed Won,3092,23,6
+D00603,2025-12-03,,SMB,Event,Alex,Closed Lost,4915,38,0
+D00604,2025-06-26,,Enterprise,Referral,Jordan,Closed Lost,28752,52,0
+D00605,2025-12-05,,Mid-Market,Outbound,Chris,Closed Lost,10979,56,0
+D00606,2025-06-12,,Enterprise,Inbound,Alex,Closed Lost,17809,72,0
+D00607,2025-03-09,,Enterprise,Partner,Alex,Closed Lost,22888,72,0
+D00608,2025-05-23,,SMB,Partner,Alex,Closed Lost,4652,29,0
+D00609,2025-02-28,,SMB,Outbound,Alex,Open,4545,29,0
+D00610,2025-10-17,,Mid-Market,Event,Sam,Closed Lost,9013,55,0
+D00611,2025-03-25,,Mid-Market,Inbound,Alex,Closed Lost,12716,34,0
+D00612,2025-11-07,2025-11-16,Mid-Market,Outbound,Sam,Closed Won,13484,45,0
+D00613,2025-04-17,2025-04-21,SMB,Outbound,Taylor,Closed Won,4054,23,11
+D00614,2025-06-24,,Enterprise,Inbound,Morgan,Closed Lost,23583,60,0
+D00615,2025-09-03,,Enterprise,Inbound,Jordan,Closed Lost,18631,66,0
+D00616,2025-03-03,2025-03-13,Enterprise,Outbound,Alex,Closed Won,17328,51,10
+D00617,2025-05-22,,Enterprise,Event,Alex,Closed Lost,24245,81,0
+D00618,2025-12-17,2025-12-28,Enterprise,Event,Sam,Closed Won,14328,84,5
+D00619,2025-11-19,,Enterprise,Outbound,Taylor,Open,31631,57,0
+D00620,2025-09-06,,Mid-Market,Inbound,Sam,Open,8288,33,0
+D00621,2025-12-23,2025-12-28,Mid-Market,Event,Alex,Closed Won,13234,50,12
+D00622,2025-01-11,,Enterprise,Partner,Morgan,Closed Lost,22532,102,0
+D00623,2025-09-02,2025-09-09,Mid-Market,Event,Sam,Closed Won,5924,38,0
+D00624,2025-12-28,2025-12-28,Enterprise,Referral,Alex,Closed Won,23317,81,10
+D00625,2025-09-18,2025-09-21,SMB,Partner,Morgan,Closed Won,2411,19,15
+D00626,2025-08-18,2025-08-28,Enterprise,Event,Sam,Closed Won,15941,73,10
+D00627,2025-04-20,,Mid-Market,Inbound,Sam,Closed Lost,13142,49,0
+D00628,2025-10-01,,SMB,Event,Alex,Closed Lost,4363,29,0
+D00629,2025-11-16,,Enterprise,Referral,Chris,Open,18643,84,0
+D00630,2025-12-12,,SMB,Partner,Alex,Open,3940,25,0
+D00631,2025-06-15,,Mid-Market,Referral,Alex,Open,6310,34,0
+D00632,2025-05-13,,SMB,Partner,Morgan,Closed Lost,3688,23,0
+D00633,2025-05-06,2025-05-17,Mid-Market,Event,Jordan,Closed Won,8247,55,1
+D00634,2025-09-26,,SMB,Referral,Chris,Open,3888,19,0
+D00635,2025-04-19,2025-04-28,Enterprise,Event,Sam,Closed Won,31897,87,12
+D00636,2025-12-16,,Mid-Market,Referral,Taylor,Closed Lost,5933,68,0
+D00637,2025-04-27,,Enterprise,Partner,Morgan,Closed Lost,22709,74,0
+D00638,2025-05-20,2025-05-24,SMB,Partner,Taylor,Closed Won,2556,23,7
+D00639,2025-03-09,,Enterprise,Event,Chris,Closed Lost,25842,55,0
+D00640,2025-08-13,2025-08-17,SMB,Inbound,Morgan,Closed Won,3627,23,8
+D00641,2025-07-14,,Enterprise,Outbound,Sam,Closed Lost,20203,72,0
+D00642,2025-05-24,2025-05-28,SMB,Inbound,Alex,Closed Won,2379,29,7
+D00643,2025-12-22,,SMB,Referral,Taylor,Closed Lost,4228,21,0
+D00644,2025-03-11,,Enterprise,Partner,Morgan,Closed Lost,14581,62,0
+D00645,2025-05-16,2025-05-24,Mid-Market,Outbound,Jordan,Closed Won,12553,44,12
+D00646,2025-03-02,,Enterprise,Outbound,Taylor,Closed Lost,15814,61,0
+D00647,2025-08-24,,Enterprise,Referral,Taylor,Closed Lost,15025,95,0
+D00648,2025-01-04,2025-01-11,SMB,Event,Sam,Closed Won,3266,36,12
+D00649,2025-05-02,2025-05-06,SMB,Inbound,Morgan,Closed Won,4180,24,12
+D00650,2025-06-13,,Mid-Market,Inbound,Taylor,Open,8618,58,0
+D00651,2025-04-26,2025-04-28,Mid-Market,Partner,Taylor,Closed Won,7062,59,14
+D00652,2025-11-24,,Mid-Market,Referral,Alex,Closed Lost,11079,40,0
+D00653,2025-05-16,,Enterprise,Referral,Sam,Closed Lost,17994,71,0
+D00654,2025-06-04,,Mid-Market,Referral,Alex,Closed Lost,10986,50,0
+D00655,2025-12-11,,Mid-Market,Partner,Alex,Closed Lost,13700,40,0
+D00656,2025-06-23,2025-06-28,SMB,Outbound,Taylor,Closed Won,4059,32,9
+D00657,2025-06-22,,Mid-Market,Referral,Jordan,Closed Lost,6824,62,0
+D00658,2025-08-22,,Enterprise,Referral,Chris,Open,23305,62,0
+D00659,2025-07-06,,Enterprise,Event,Alex,Closed Lost,21484,97,0
+D00660,2025-08-21,2025-08-28,Enterprise,Partner,Taylor,Closed Won,33419,57,15
+D00661,2025-02-18,2025-02-28,Enterprise,Referral,Sam,Closed Won,33558,89,15
+D00662,2025-03-26,,Mid-Market,Outbound,Taylor,Open,9273,68,0
+D00663,2025-06-01,,Mid-Market,Event,Morgan,Closed Lost,10279,68,0
+D00664,2025-02-06,2025-02-14,SMB,Referral,Chris,Closed Won,2602,41,15
+D00665,2025-02-28,2025-02-28,Enterprise,Inbound,Chris,Closed Won,24564,81,6
+D00666,2025-01-23,,Enterprise,Event,Morgan,Closed Lost,14782,103,0
+D00667,2025-03-12,2025-03-20,Mid-Market,Partner,Morgan,Closed Won,8157,41,11
+D00668,2025-07-03,2025-07-08,SMB,Referral,Morgan,Closed Won,3732,28,9
+D00669,2025-09-24,,SMB,Referral,Jordan,Closed Lost,2752,30,0
+D00670,2025-10-09,,Mid-Market,Inbound,Jordan,Open,6420,67,0
+D00671,2025-09-22,2025-09-28,Enterprise,Inbound,Alex,Closed Won,32336,101,6
+D00672,2025-05-21,,Mid-Market,Referral,Chris,Open,8954,32,0
+D00673,2025-08-19,2025-08-26,Mid-Market,Partner,Jordan,Closed Won,9821,35,4
+D00674,2025-08-27,2025-08-28,Enterprise,Inbound,Jordan,Closed Won,29347,91,2
+D00675,2025-02-20,,Mid-Market,Outbound,Sam,Open,9174,40,0
+D00676,2025-02-28,2025-02-28,SMB,Outbound,Chris,Closed Won,3408,20,0
+D00677,2025-03-24,,Enterprise,Inbound,Chris,Open,32134,90,0
+D00678,2025-04-08,,SMB,Inbound,Jordan,Closed Lost,2102,22,0
+D00679,2025-12-20,,Mid-Market,Referral,Jordan,Open,13012,56,0
+D00680,2025-08-02,,Mid-Market,Referral,Jordan,Closed Lost,8575,40,0
+D00681,2025-03-19,,Mid-Market,Outbound,Taylor,Closed Lost,10584,44,0
+D00682,2025-01-22,,Enterprise,Outbound,Taylor,Closed Lost,24653,79,0
+D00683,2025-09-05,2025-09-13,SMB,Event,Jordan,Closed Won,2922,41,5
+D00684,2025-02-23,,SMB,Outbound,Alex,Open,2625,26,0
+D00685,2025-10-03,,Mid-Market,Referral,Chris,Open,10930,65,0
+D00686,2025-10-04,2025-10-11,SMB,Event,Taylor,Closed Won,4037,36,14
+D00687,2025-04-13,,SMB,Outbound,Alex,Closed Lost,3270,34,0
+D00688,2025-04-27,,Mid-Market,Outbound,Jordan,Closed Lost,6029,51,0
+D00689,2025-02-22,,Mid-Market,Referral,Alex,Open,11566,32,0
+D00690,2025-02-07,2025-02-26,Enterprise,Event,Sam,Closed Won,30389,98,6
+D00691,2025-11-18,2025-11-25,SMB,Inbound,Taylor,Closed Won,2995,36,4
+D00692,2025-07-22,2025-07-28,Mid-Market,Event,Alex,Closed Won,9889,60,2
+D00693,2025-08-14,,Enterprise,Inbound,Jordan,Closed Lost,27828,82,0
+D00694,2025-07-05,,SMB,Outbound,Jordan,Closed Lost,4556,41,0
+D00695,2025-02-05,,Enterprise,Event,Jordan,Open,33658,105,0
+D00696,2025-11-17,2025-11-28,Enterprise,Event,Morgan,Closed Won,24354,82,8
+D00697,2025-07-27,,Mid-Market,Event,Alex,Closed Lost,9719,36,0
+D00698,2025-04-27,2025-04-28,Mid-Market,Event,Chris,Closed Won,7972,51,12
+D00699,2025-04-01,2025-04-09,Mid-Market,Inbound,Taylor,Closed Won,6454,44,14
+D00700,2025-05-12,,Mid-Market,Partner,Jordan,Closed Lost,9718,41,0
