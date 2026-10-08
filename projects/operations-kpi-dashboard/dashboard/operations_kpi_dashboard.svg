@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+<rect width="1200" height="900" fill="#f6f8fb"/>
+<g font-family="Arial">
+<text x="60" y="58" font-size="28" font-weight="700" fill="#16324f">Operations KPI Dashboard</text>
+<text x="60" y="86" font-size="14" fill="#6b7c93">Throughput • Backlog • SLA • Quality • Synthetic Portfolio Data</text>
+
+<rect x="60" y="120" width="200" height="105" rx="14" fill="#fff" stroke="#dbe4ee"/>
+<text x="80" y="152" font-size="12" fill="#6b7c93">RECEIVED</text><text x="80" y="193" font-size="30" font-weight="700" fill="#16324f">1000</text>
+<rect x="280" y="120" width="200" height="105" rx="14" fill="#fff" stroke="#dbe4ee"/>
+<text x="300" y="152" font-size="12" fill="#6b7c93">COMPLETED</text><text x="300" y="193" font-size="30" font-weight="700" fill="#16324f">913</text>
+<rect x="500" y="120" width="200" height="105" rx="14" fill="#fff" stroke="#dbe4ee"/>
+<text x="520" y="152" font-size="12" fill="#6b7c93">OPEN BACKLOG</text><text x="520" y="193" font-size="30" font-weight="700" fill="#16324f">87</text>
+<rect x="720" y="120" width="200" height="105" rx="14" fill="#fff" stroke="#dbe4ee"/>
+<text x="740" y="152" font-size="12" fill="#6b7c93">ON-TIME %</text><text x="740" y="193" font-size="30" font-weight="700" fill="#16324f">87.4%</text>
+<rect x="940" y="120" width="200" height="105" rx="14" fill="#fff" stroke="#dbe4ee"/>
+<text x="960" y="152" font-size="12" fill="#6b7c93">REOPEN RATE</text><text x="960" y="193" font-size="30" font-weight="700" fill="#16324f">6.2%</text>
+
+<rect x="60" y="255" width="720" height="300" rx="14" fill="#fff" stroke="#dbe4ee"/>
+<text x="82" y="290" font-size="17" font-weight="700" fill="#16324f">Monthly Received vs Completed</text>
+<rect x="570" y="275" width="12" height="12" fill="#2f80ed"/><text x="588" y="285" font-size="11" fill="#52606d">Received</text>
+<rect x="645" y="275" width="12" height="12" fill="#27ae60"/><text x="663" y="285" font-size="11" fill="#52606d">Completed</text>
+<line x1="70" y1="500" x2="750" y2="500" stroke="#dbe4ee"/>
+<rect x="72" y="385.04672897196264" width="16" height="114.95327102803738" rx="3" fill="#2f80ed"/>
+  <rect x="90" y="393.4579439252336" width="16" height="106.54205607476635" rx="3" fill="#27ae60"/>
+  <text x="89" y="520" text-anchor="middle" font-size="9" fill="#52606d">01</text><rect x="124" y="375.23364485981307" width="16" height="124.76635514018692" rx="3" fill="#2f80ed"/>
+  <rect x="142" y="386.4485981308411" width="16" height="113.55140186915888" rx="3" fill="#27ae60"/>
+  <text x="141" y="520" text-anchor="middle" font-size="9" fill="#52606d">02</text><rect x="176" y="350" width="16" height="150" rx="3" fill="#2f80ed"/>
+  <rect x="194" y="368.22429906542055" width="16" height="131.77570093457945" rx="3" fill="#27ae60"/>
+  <text x="193" y="520" text-anchor="middle" font-size="9" fill="#52606d">03</text><rect x="228" y="376.6355140186916" width="16" height="123.3644859813084" rx="3" fill="#2f80ed"/>
+  <rect x="246" y="386.4485981308411" width="16" height="113.55140186915888" rx="3" fill="#27ae60"/>
+  <text x="245" y="520" text-anchor="middle" font-size="9" fill="#52606d">04</text><rect x="280" y="406.0747663551402" width="16" height="93.92523364485982" rx="3" fill="#2f80ed"/>
+  <rect x="298" y="414.4859813084112" width="16" height="85.51401869158879" rx="3" fill="#27ae60"/>
+  <text x="297" y="520" text-anchor="middle" font-size="9" fill="#52606d">05</text><rect x="332" y="385.04672897196264" width="16" height="114.95327102803738" rx="3" fill="#2f80ed"/>
+  <rect x="350" y="396.2616822429907" width="16" height="103.73831775700934" rx="3" fill="#27ae60"/>
+  <text x="349" y="520" text-anchor="middle" font-size="9" fill="#52606d">06</text><rect x="384" y="404.6728971962617" width="16" height="95.32710280373831" rx="3" fill="#2f80ed"/>
+  <rect x="402" y="411.68224299065423" width="16" height="88.3177570093458" rx="3" fill="#27ae60"/>
+  <text x="401" y="520" text-anchor="middle" font-size="9" fill="#52606d">07</text><rect x="436" y="380.8411214953271" width="16" height="119.1588785046729" rx="3" fill="#2f80ed"/>
+  <rect x="454" y="389.25233644859816" width="16" height="110.74766355140187" rx="3" fill="#27ae60"/>
+  <text x="453" y="520" text-anchor="middle" font-size="9" fill="#52606d">08</text><rect x="488" y="387.85046728971963" width="16" height="112.14953271028037" rx="3" fill="#2f80ed"/>
+  <rect x="506" y="397.66355140186914" width="16" height="102.33644859813084" rx="3" fill="#27ae60"/>
+  <text x="505" y="520" text-anchor="middle" font-size="9" fill="#52606d">09</text><rect x="540" y="389.25233644859816" width="16" height="110.74766355140187" rx="3" fill="#2f80ed"/>
+  <rect x="558" y="396.2616822429907" width="16" height="103.73831775700934" rx="3" fill="#27ae60"/>
+  <text x="557" y="520" text-anchor="middle" font-size="9" fill="#52606d">10</text><rect x="592" y="364.01869158878503" width="16" height="135.98130841121494" rx="3" fill="#2f80ed"/>
+  <rect x="610" y="375.23364485981307" width="16" height="124.76635514018692" rx="3" fill="#27ae60"/>
+  <text x="609" y="520" text-anchor="middle" font-size="9" fill="#52606d">11</text><rect x="644" y="393.4579439252336" width="16" height="106.54205607476635" rx="3" fill="#2f80ed"/>
+  <rect x="662" y="404.6728971962617" width="16" height="95.32710280373831" rx="3" fill="#27ae60"/>
+  <text x="661" y="520" text-anchor="middle" font-size="9" fill="#52606d">12</text>
+
+<rect x="800" y="255" width="340" height="300" rx="14" fill="#fff" stroke="#dbe4ee"/>
+<text x="822" y="290" font-size="17" font-weight="700" fill="#16324f">Leading Indicators</text>
+<text x="822" y="340" font-size="12" fill="#6b7c93">AVERAGE CLOSURE</text>
+<text x="822" y="368" font-size="22" font-weight="700" fill="#16324f">31.3 hrs</text>
+<text x="822" y="415" font-size="12" fill="#6b7c93">EXCEPTION RATE</text>
+<text x="822" y="443" font-size="22" font-weight="700" fill="#16324f">8.2%</text>
+<text x="822" y="490" font-size="12" fill="#6b7c93">LOWEST SLA TEAM</text>
+<text x="822" y="518" font-size="22" font-weight="700" fill="#b45309">West • 81.3%</text>
+
+<rect x="60" y="590" width="500" height="260" rx="14" fill="#fff" stroke="#dbe4ee"/>
+<text x="82" y="622" font-size="17" font-weight="700" fill="#16324f">On-Time Completion by Team</text>
+<text x="70" y="665" font-size="12" fill="#334e68">North</text>
+  <rect x="160" y="650" width="250" height="22" rx="5" fill="#e9eef3"/>
+  <rect x="160" y="650" width="228.7" height="22" rx="5" fill="#27ae60"/>
+  <text x="420" y="665" font-size="11" fill="#52606d">91.5%</text><text x="70" y="710" font-size="12" fill="#334e68">South</text>
+  <rect x="160" y="695" width="250" height="22" rx="5" fill="#e9eef3"/>
+  <rect x="160" y="695" width="210.5" height="22" rx="5" fill="#eb5757"/>
+  <text x="420" y="710" font-size="11" fill="#52606d">84.2%</text><text x="70" y="755" font-size="12" fill="#334e68">East</text>
+  <rect x="160" y="740" width="250" height="22" rx="5" fill="#e9eef3"/>
+  <rect x="160" y="740" width="233.0" height="22" rx="5" fill="#27ae60"/>
+  <text x="420" y="755" font-size="11" fill="#52606d">93.2%</text><text x="70" y="800" font-size="12" fill="#334e68">West</text>
+  <rect x="160" y="785" width="250" height="22" rx="5" fill="#e9eef3"/>
+  <rect x="160" y="785" width="203.2" height="22" rx="5" fill="#eb5757"/>
+  <text x="420" y="800" font-size="11" fill="#52606d">81.3%</text>
+
+<rect x="590" y="590" width="550" height="260" rx="14" fill="#fff" stroke="#dbe4ee"/>
+<text x="612" y="622" font-size="17" font-weight="700" fill="#16324f">Open Backlog Aging</text>
+<text x="650" y="665" font-size="12" fill="#334e68">0-2 Days</text>
+  <rect x="750" y="650" width="0.0" height="22" rx="5" fill="#9b51e0"/>
+  <text x="760" y="665" font-size="11" fill="#52606d">0</text><text x="650" y="710" font-size="12" fill="#334e68">3-7 Days</text>
+  <rect x="750" y="695" width="0.0" height="22" rx="5" fill="#9b51e0"/>
+  <text x="760" y="710" font-size="11" fill="#52606d">0</text><text x="650" y="755" font-size="12" fill="#334e68">8-14 Days</text>
+  <rect x="750" y="740" width="2.6" height="22" rx="5" fill="#9b51e0"/>
+  <text x="762.5581395348837" y="755" font-size="11" fill="#52606d">1</text><text x="650" y="800" font-size="12" fill="#334e68">15+ Days</text>
+  <rect x="750" y="785" width="220.0" height="22" rx="5" fill="#9b51e0"/>
+  <text x="980" y="800" font-size="11" fill="#52606d">86</text>
+</g>
+</svg>
